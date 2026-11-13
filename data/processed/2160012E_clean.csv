@@ -1,0 +1,256 @@
+table,year,year_flag,health_care_functions_code,health_care_functions_label,value_meur
+2160012E,2010,NA,All HC,Total Health Care Functions,1265.08
+2160012E,2011,NA,All HC,Total Health Care Functions,1277.152
+2160012E,2012,NA,All HC,Total Health Care Functions,1274.295
+2160012E,2013,NA,All HC,Total Health Care Functions,1249.786
+2160012E,2014,NA,All HC,Total Health Care Functions,1211.798
+2160012E,2015,b,All HC,Total Health Care Functions,1219.096
+2160012E,2016,NA,All HC,Total Health Care Functions,1264.903
+2160012E,2017,NA,All HC,Total Health Care Functions,1345.072
+2160012E,2018,NA,All HC,Total Health Care Functions,1479.542
+2160012E,2019,NA,All HC,Total Health Care Functions,1637.696
+2160012E,2020,NA,All HC,Total Health Care Functions,1934.86
+2160012E,2021,NA,All HC,Total Health Care Functions,2278.95
+2160012E,2022,r,All HC,Total Health Care Functions,2393.988
+2160012E,2023,"p,r",All HC,Total Health Care Functions,2519.135
+2160012E,2024,p,All HC,Total Health Care Functions,2781.869
+2160012E,2010,NA,HC.1-HC.2,Curative care and rehabilitative care,821.304
+2160012E,2011,NA,HC.1-HC.2,Curative care and rehabilitative care,829.301
+2160012E,2012,NA,HC.1-HC.2,Curative care and rehabilitative care,820.814
+2160012E,2013,NA,HC.1-HC.2,Curative care and rehabilitative care,801.672
+2160012E,2014,NA,HC.1-HC.2,Curative care and rehabilitative care,774.981
+2160012E,2015,b,HC.1-HC.2,Curative care and rehabilitative care,753.302
+2160012E,2016,NA,HC.1-HC.2,Curative care and rehabilitative care,777.296
+2160012E,2017,NA,HC.1-HC.2,Curative care and rehabilitative care,829.447
+2160012E,2018,NA,HC.1-HC.2,Curative care and rehabilitative care,907.11
+2160012E,2019,NA,HC.1-HC.2,Curative care and rehabilitative care,1036.983
+2160012E,2020,NA,HC.1-HC.2,Curative care and rehabilitative care,1253.001
+2160012E,2021,NA,HC.1-HC.2,Curative care and rehabilitative care,1472.061
+2160012E,2022,r,HC.1-HC.2,Curative care and rehabilitative care,1541.979
+2160012E,2023,"p,r",HC.1-HC.2,Curative care and rehabilitative care,1667.147
+2160012E,2024,p,HC.1-HC.2,Curative care and rehabilitative care,1856.546
+2160012E,2010,NA,HC.1.1-HC.2.1,Inpatient curative and rehabilitative care,394.71
+2160012E,2011,NA,HC.1.1-HC.2.1,Inpatient curative and rehabilitative care,404.011
+2160012E,2012,NA,HC.1.1-HC.2.1,Inpatient curative and rehabilitative care,391.019
+2160012E,2013,NA,HC.1.1-HC.2.1,Inpatient curative and rehabilitative care,378.692
+2160012E,2014,NA,HC.1.1-HC.2.1,Inpatient curative and rehabilitative care,355.289
+2160012E,2015,b,HC.1.1-HC.2.1,Inpatient curative and rehabilitative care,348.526
+2160012E,2016,NA,HC.1.1-HC.2.1,Inpatient curative and rehabilitative care,358.22
+2160012E,2017,NA,HC.1.1-HC.2.1,Inpatient curative and rehabilitative care,383.723
+2160012E,2018,NA,HC.1.1-HC.2.1,Inpatient curative and rehabilitative care,422.529
+2160012E,2019,NA,HC.1.1-HC.2.1,Inpatient curative and rehabilitative care,456.379
+2160012E,2020,NA,HC.1.1-HC.2.1,Inpatient curative and rehabilitative care,685.999
+2160012E,2021,NA,HC.1.1-HC.2.1,Inpatient curative and rehabilitative care,NA
+2160012E,2022,r,HC.1.1-HC.2.1,Inpatient curative and rehabilitative care,718.739
+2160012E,2023,"p,r",HC.1.1-HC.2.1,Inpatient curative and rehabilitative care,817.499
+2160012E,2024,p,HC.1.1-HC.2.1,Inpatient curative and rehabilitative care,962.738
+2160012E,2010,NA,HC.1.2-HC.2.2,Day curative and rehabilitative care,42.689
+2160012E,2011,NA,HC.1.2-HC.2.2,Day curative and rehabilitative care,42.597
+2160012E,2012,NA,HC.1.2-HC.2.2,Day curative and rehabilitative care,42
+2160012E,2013,NA,HC.1.2-HC.2.2,Day curative and rehabilitative care,42.184
+2160012E,2014,NA,HC.1.2-HC.2.2,Day curative and rehabilitative care,40.392
+2160012E,2015,b,HC.1.2-HC.2.2,Day curative and rehabilitative care,54.124
+2160012E,2016,NA,HC.1.2-HC.2.2,Day curative and rehabilitative care,56.798
+2160012E,2017,NA,HC.1.2-HC.2.2,Day curative and rehabilitative care,59.573
+2160012E,2018,NA,HC.1.2-HC.2.2,Day curative and rehabilitative care,66.137
+2160012E,2019,NA,HC.1.2-HC.2.2,Day curative and rehabilitative care,69.125
+2160012E,2020,NA,HC.1.2-HC.2.2,Day curative and rehabilitative care,46.949
+2160012E,2021,NA,HC.1.2-HC.2.2,Day curative and rehabilitative care,NA
+2160012E,2022,r,HC.1.2-HC.2.2,Day curative and rehabilitative care,256.701
+2160012E,2023,"p,r",HC.1.2-HC.2.2,Day curative and rehabilitative care,250.529
+2160012E,2024,p,HC.1.2-HC.2.2,Day curative and rehabilitative care,248.975
+2160012E,2010,NA,HC.1.3-HC.2.3,Outpatient curative and rehabilitative care,378.98
+2160012E,2011,NA,HC.1.3-HC.2.3,Outpatient curative and rehabilitative care,377.954
+2160012E,2012,NA,HC.1.3-HC.2.3,Outpatient curative and rehabilitative care,382.944
+2160012E,2013,NA,HC.1.3-HC.2.3,Outpatient curative and rehabilitative care,375.999
+2160012E,2014,NA,HC.1.3-HC.2.3,Outpatient curative and rehabilitative care,374.374
+2160012E,2015,b,HC.1.3-HC.2.3,Outpatient curative and rehabilitative care,349.641
+2160012E,2016,NA,HC.1.3-HC.2.3,Outpatient curative and rehabilitative care,361.205
+2160012E,2017,NA,HC.1.3-HC.2.3,Outpatient curative and rehabilitative care,385.001
+2160012E,2018,NA,HC.1.3-HC.2.3,Outpatient curative and rehabilitative care,417.189
+2160012E,2019,NA,HC.1.3-HC.2.3,Outpatient curative and rehabilitative care,510.593
+2160012E,2020,NA,HC.1.3-HC.2.3,Outpatient curative and rehabilitative care,519.976
+2160012E,2021,NA,HC.1.3-HC.2.3,Outpatient curative and rehabilitative care,523.035
+2160012E,2022,r,HC.1.3-HC.2.3,Outpatient curative and rehabilitative care,561.95
+2160012E,2023,"p,r",HC.1.3-HC.2.3,Outpatient curative and rehabilitative care,593.927
+2160012E,2024,p,HC.1.3-HC.2.3,Outpatient curative and rehabilitative care,639.156
+2160012E,2010,NA,HC.1.4-HC.2.4,Home-based curative and rehabilitative care,4.925
+2160012E,2011,NA,HC.1.4-HC.2.4,Home-based curative and rehabilitative care,4.739
+2160012E,2012,NA,HC.1.4-HC.2.4,Home-based curative and rehabilitative care,4.851
+2160012E,2013,NA,HC.1.4-HC.2.4,Home-based curative and rehabilitative care,4.796
+2160012E,2014,NA,HC.1.4-HC.2.4,Home-based curative and rehabilitative care,4.926
+2160012E,2015,b,HC.1.4-HC.2.4,Home-based curative and rehabilitative care,1.011
+2160012E,2016,NA,HC.1.4-HC.2.4,Home-based curative and rehabilitative care,1.073
+2160012E,2017,NA,HC.1.4-HC.2.4,Home-based curative and rehabilitative care,1.149
+2160012E,2018,NA,HC.1.4-HC.2.4,Home-based curative and rehabilitative care,1.255
+2160012E,2019,NA,HC.1.4-HC.2.4,Home-based curative and rehabilitative care,0.886
+2160012E,2020,NA,HC.1.4-HC.2.4,Home-based curative and rehabilitative care,0.077
+2160012E,2021,NA,HC.1.4-HC.2.4,Home-based curative and rehabilitative care,4.11
+2160012E,2022,r,HC.1.4-HC.2.4,Home-based curative and rehabilitative care,4.589
+2160012E,2023,"p,r",HC.1.4-HC.2.4,Home-based curative and rehabilitative care,5.192
+2160012E,2024,p,HC.1.4-HC.2.4,Home-based curative and rehabilitative care,5.676
+2160012E,2010,NA,HC.3,Long-term care (health),47.335
+2160012E,2011,NA,HC.3,Long-term care (health),48.432
+2160012E,2012,NA,HC.3,Long-term care (health),48.678
+2160012E,2013,NA,HC.3,Long-term care (health),44.061
+2160012E,2014,NA,HC.3,Long-term care (health),42.519
+2160012E,2015,b,HC.3,Long-term care (health),57.084
+2160012E,2016,NA,HC.3,Long-term care (health),57.21
+2160012E,2017,NA,HC.3,Long-term care (health),59.748
+2160012E,2018,NA,HC.3,Long-term care (health),64.6
+2160012E,2019,NA,HC.3,Long-term care (health),68.426
+2160012E,2020,NA,HC.3,Long-term care (health),71.783
+2160012E,2021,NA,HC.3,Long-term care (health),99.182
+2160012E,2022,r,HC.3,Long-term care (health),115.924
+2160012E,2023,"p,r",HC.3,Long-term care (health),121.837
+2160012E,2024,p,HC.3,Long-term care (health),135.069
+2160012E,2010,NA,HC.3.1,Inpatient long-term care (health),19.647
+2160012E,2011,NA,HC.3.1,Inpatient long-term care (health),18.76
+2160012E,2012,NA,HC.3.1,Inpatient long-term care (health),19.083
+2160012E,2013,NA,HC.3.1,Inpatient long-term care (health),15.031
+2160012E,2014,NA,HC.3.1,Inpatient long-term care (health),14.53
+2160012E,2015,b,HC.3.1,Inpatient long-term care (health),17.634
+2160012E,2016,NA,HC.3.1,Inpatient long-term care (health),17.392
+2160012E,2017,NA,HC.3.1,Inpatient long-term care (health),19.122
+2160012E,2018,NA,HC.3.1,Inpatient long-term care (health),20.95
+2160012E,2019,NA,HC.3.1,Inpatient long-term care (health),21.934
+2160012E,2020,NA,HC.3.1,Inpatient long-term care (health),22.02
+2160012E,2021,NA,HC.3.1,Inpatient long-term care (health),32.548
+2160012E,2022,r,HC.3.1,Inpatient long-term care (health),40.242
+2160012E,2023,"p,r",HC.3.1,Inpatient long-term care (health),34.488
+2160012E,2024,p,HC.3.1,Inpatient long-term care (health),38.842
+2160012E,2010,NA,HC.3.2,Day long-term care (health),3.142
+2160012E,2011,NA,HC.3.2,Day long-term care (health),2.329
+2160012E,2012,NA,HC.3.2,Day long-term care (health),2.553
+2160012E,2013,NA,HC.3.2,Day long-term care (health),1.919
+2160012E,2014,NA,HC.3.2,Day long-term care (health),1.608
+2160012E,2015,b,HC.3.2,Day long-term care (health),1.984
+2160012E,2016,NA,HC.3.2,Day long-term care (health),1.645
+2160012E,2017,NA,HC.3.2,Day long-term care (health),2.031
+2160012E,2018,NA,HC.3.2,Day long-term care (health),2.595
+2160012E,2019,NA,HC.3.2,Day long-term care (health),2.682
+2160012E,2020,NA,HC.3.2,Day long-term care (health),3.248
+2160012E,2021,NA,HC.3.2,Day long-term care (health),3.116
+2160012E,2022,r,HC.3.2,Day long-term care (health),4.059
+2160012E,2023,"p,r",HC.3.2,Day long-term care (health),6.264
+2160012E,2024,p,HC.3.2,Day long-term care (health),7.475
+2160012E,2010,NA,HC.3.3,Outpatient long-term care (health),4.414
+2160012E,2011,NA,HC.3.3,Outpatient long-term care (health),4.608
+2160012E,2012,NA,HC.3.3,Outpatient long-term care (health),4.471
+2160012E,2013,NA,HC.3.3,Outpatient long-term care (health),5.038
+2160012E,2014,NA,HC.3.3,Outpatient long-term care (health),4.146
+2160012E,2015,b,HC.3.3,Outpatient long-term care (health),5.636
+2160012E,2016,NA,HC.3.3,Outpatient long-term care (health),5.483
+2160012E,2017,NA,HC.3.3,Outpatient long-term care (health),4.45
+2160012E,2018,NA,HC.3.3,Outpatient long-term care (health),4.828
+2160012E,2019,NA,HC.3.3,Outpatient long-term care (health),4.945
+2160012E,2020,NA,HC.3.3,Outpatient long-term care (health),4.701
+2160012E,2021,NA,HC.3.3,Outpatient long-term care (health),3.687
+2160012E,2022,r,HC.3.3,Outpatient long-term care (health),3.19
+2160012E,2023,"p,r",HC.3.3,Outpatient long-term care (health),3.971
+2160012E,2024,p,HC.3.3,Outpatient long-term care (health),4.119
+2160012E,2010,NA,HC.3.4,Home-based long-term care (health),20.133
+2160012E,2011,NA,HC.3.4,Home-based long-term care (health),22.736
+2160012E,2012,NA,HC.3.4,Home-based long-term care (health),22.572
+2160012E,2013,NA,HC.3.4,Home-based long-term care (health),22.074
+2160012E,2014,NA,HC.3.4,Home-based long-term care (health),22.236
+2160012E,2015,b,HC.3.4,Home-based long-term care (health),31.83
+2160012E,2016,NA,HC.3.4,Home-based long-term care (health),32.69
+2160012E,2017,NA,HC.3.4,Home-based long-term care (health),34.146
+2160012E,2018,NA,HC.3.4,Home-based long-term care (health),36.227
+2160012E,2019,NA,HC.3.4,Home-based long-term care (health),38.866
+2160012E,2020,NA,HC.3.4,Home-based long-term care (health),41.814
+2160012E,2021,NA,HC.3.4,Home-based long-term care (health),59.832
+2160012E,2022,r,HC.3.4,Home-based long-term care (health),68.434
+2160012E,2023,"p,r",HC.3.4,Home-based long-term care (health),77.114
+2160012E,2024,p,HC.3.4,Home-based long-term care (health),84.632
+2160012E,2010,NA,HC.4,Ancillary services (non-specified by function),137.892
+2160012E,2011,NA,HC.4,Ancillary services (non-specified by function),138.098
+2160012E,2012,NA,HC.4,Ancillary services (non-specified by function),140.885
+2160012E,2013,NA,HC.4,Ancillary services (non-specified by function),140.543
+2160012E,2014,NA,HC.4,Ancillary services (non-specified by function),133.935
+2160012E,2015,b,HC.4,Ancillary services (non-specified by function),127.616
+2160012E,2016,NA,HC.4,Ancillary services (non-specified by function),134.381
+2160012E,2017,NA,HC.4,Ancillary services (non-specified by function),146.203
+2160012E,2018,NA,HC.4,Ancillary services (non-specified by function),161.447
+2160012E,2019,NA,HC.4,Ancillary services (non-specified by function),189.352
+2160012E,2020,NA,HC.4,Ancillary services (non-specified by function),227.603
+2160012E,2021,NA,HC.4,Ancillary services (non-specified by function),179.166
+2160012E,2022,r,HC.4,Ancillary services (non-specified by function),185.887
+2160012E,2023,"p,r",HC.4,Ancillary services (non-specified by function),194.49
+2160012E,2024,p,HC.4,Ancillary services (non-specified by function),209.011
+2160012E,2010,NA,HC.5,Medical goods (non-specified by function),228.337
+2160012E,2011,NA,HC.5,Medical goods (non-specified by function),228.232
+2160012E,2012,NA,HC.5,Medical goods (non-specified by function),230.358
+2160012E,2013,NA,HC.5,Medical goods (non-specified by function),230.321
+2160012E,2014,NA,HC.5,Medical goods (non-specified by function),229.045
+2160012E,2015,b,HC.5,Medical goods (non-specified by function),238.341
+2160012E,2016,NA,HC.5,Medical goods (non-specified by function),250.795
+2160012E,2017,NA,HC.5,Medical goods (non-specified by function),261.614
+2160012E,2018,NA,HC.5,Medical goods (non-specified by function),286.6
+2160012E,2019,NA,HC.5,Medical goods (non-specified by function),274.836
+2160012E,2020,NA,HC.5,Medical goods (non-specified by function),314.514
+2160012E,2021,NA,HC.5,Medical goods (non-specified by function),417.396
+2160012E,2022,r,HC.5,Medical goods (non-specified by function),443.456
+2160012E,2023,"p,r",HC.5,Medical goods (non-specified by function),441.476
+2160012E,2024,p,HC.5,Medical goods (non-specified by function),488.897
+2160012E,2010,NA,HC5.1,Pharmaceuticals and other medical non durable goods,203.363
+2160012E,2011,NA,HC5.1,Pharmaceuticals and other medical non durable goods,203.669
+2160012E,2012,NA,HC5.1,Pharmaceuticals and other medical non durable goods,205.076
+2160012E,2013,NA,HC5.1,Pharmaceuticals and other medical non durable goods,205.246
+2160012E,2014,NA,HC5.1,Pharmaceuticals and other medical non durable goods,203.205
+2160012E,2015,b,HC5.1,Pharmaceuticals and other medical non durable goods,224.372
+2160012E,2016,NA,HC5.1,Pharmaceuticals and other medical non durable goods,235.624
+2160012E,2017,NA,HC5.1,Pharmaceuticals and other medical non durable goods,245.181
+2160012E,2018,NA,HC5.1,Pharmaceuticals and other medical non durable goods,268.282
+2160012E,2019,NA,HC5.1,Pharmaceuticals and other medical non durable goods,253.796
+2160012E,2020,NA,HC5.1,Pharmaceuticals and other medical non durable goods,290.189
+2160012E,2021,NA,HC5.1,Pharmaceuticals and other medical non durable goods,398.379
+2160012E,2022,r,HC5.1,Pharmaceuticals and other medical non durable goods,421.901
+2160012E,2023,"p,r",HC5.1,Pharmaceuticals and other medical non durable goods,419.21
+2160012E,2024,p,HC5.1,Pharmaceuticals and other medical non durable goods,464.895
+2160012E,2010,NA,HC5.2,Therapeutic appliances and other medical durable goods,24.974
+2160012E,2011,NA,HC5.2,Therapeutic appliances and other medical durable goods,24.563
+2160012E,2012,NA,HC5.2,Therapeutic appliances and other medical durable goods,25.282
+2160012E,2013,NA,HC5.2,Therapeutic appliances and other medical durable goods,25.075
+2160012E,2014,NA,HC5.2,Therapeutic appliances and other medical durable goods,25.84
+2160012E,2015,b,HC5.2,Therapeutic appliances and other medical durable goods,13.969
+2160012E,2016,NA,HC5.2,Therapeutic appliances and other medical durable goods,15.171
+2160012E,2017,NA,HC5.2,Therapeutic appliances and other medical durable goods,16.432
+2160012E,2018,NA,HC5.2,Therapeutic appliances and other medical durable goods,18.318
+2160012E,2019,NA,HC5.2,Therapeutic appliances and other medical durable goods,21.039
+2160012E,2020,NA,HC5.2,Therapeutic appliances and other medical durable goods,24.325
+2160012E,2021,NA,HC5.2,Therapeutic appliances and other medical durable goods,19.017
+2160012E,2022,r,HC5.2,Therapeutic appliances and other medical durable goods,21.556
+2160012E,2023,"p,r",HC5.2,Therapeutic appliances and other medical durable goods,22.266
+2160012E,2024,p,HC5.2,Therapeutic appliances and other medical durable goods,24.002
+2160012E,2010,NA,HC.6,Preventive care,10.216
+2160012E,2011,NA,HC.6,Preventive care,9.044
+2160012E,2012,NA,HC.6,Preventive care,8.938
+2160012E,2013,NA,HC.6,Preventive care,8.232
+2160012E,2014,NA,HC.6,Preventive care,7.729
+2160012E,2015,b,HC.6,Preventive care,15.804
+2160012E,2016,NA,HC.6,Preventive care,16.8
+2160012E,2017,NA,HC.6,Preventive care,17.693
+2160012E,2018,NA,HC.6,Preventive care,18.522
+2160012E,2019,NA,HC.6,Preventive care,19.774
+2160012E,2020,NA,HC.6,Preventive care,31.613
+2160012E,2021,NA,HC.6,Preventive care,77.553
+2160012E,2022,r,HC.6,Preventive care,68.185
+2160012E,2023,"p,r",HC.6,Preventive care,37.806
+2160012E,2024,p,HC.6,Preventive care,37.253
+2160012E,2010,NA,HC.7,Governance and health system and financing administration,19.996
+2160012E,2011,NA,HC.7,Governance and health system and financing administration,24.045
+2160012E,2012,NA,HC.7,Governance and health system and financing administration,24.621
+2160012E,2013,NA,HC.7,Governance and health system and financing administration,24.957
+2160012E,2014,NA,HC.7,Governance and health system and financing administration,23.589
+2160012E,2015,b,HC.7,Governance and health system and financing administration,26.949
+2160012E,2016,NA,HC.7,Governance and health system and financing administration,28.421
+2160012E,2017,NA,HC.7,Governance and health system and financing administration,30.367
+2160012E,2018,NA,HC.7,Governance and health system and financing administration,41.263
+2160012E,2019,NA,HC.7,Governance and health system and financing administration,48.324
+2160012E,2020,NA,HC.7,Governance and health system and financing administration,36.346
+2160012E,2021,NA,HC.7,Governance and health system and financing administration,33.592
+2160012E,2022,r,HC.7,Governance and health system and financing administration,38.557
+2160012E,2023,"p,r",HC.7,Governance and health system and financing administration,56.379
+2160012E,2024,p,HC.7,Governance and health system and financing administration,55.093

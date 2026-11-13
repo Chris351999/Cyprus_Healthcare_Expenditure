@@ -1,0 +1,1729 @@
+year,geo,country,indicator,value
+2010,BE,Belgium,Health spending per person (PPS),3040.34
+2011,BE,Belgium,Health spending per person (PPS),3116.07
+2012,BE,Belgium,Health spending per person (PPS),3207.47
+2013,BE,Belgium,Health spending per person (PPS),3288.28
+2014,BE,Belgium,Health spending per person (PPS),3380.93
+2015,BE,Belgium,Health spending per person (PPS),3545.63
+2016,BE,Belgium,Health spending per person (PPS),3566.11
+2017,BE,Belgium,Health spending per person (PPS),3652.44
+2018,BE,Belgium,Health spending per person (PPS),3770.48
+2019,BE,Belgium,Health spending per person (PPS),3865.22
+2020,BE,Belgium,Health spending per person (PPS),3962.38
+2021,BE,Belgium,Health spending per person (PPS),4201.41
+2022,BE,Belgium,Health spending per person (PPS),4358.33
+2023,BE,Belgium,Health spending per person (PPS),4635.41
+2024,BE,Belgium,Health spending per person (PPS),4891.55
+2025,BE,Belgium,Health spending per person (PPS),NA
+2010,BG,Bulgaria,Health spending per person (PPS),NA
+2011,BG,Bulgaria,Health spending per person (PPS),864.25
+2012,BG,Bulgaria,Health spending per person (PPS),938.61
+2013,BG,Bulgaria,Health spending per person (PPS),922.88
+2014,BG,Bulgaria,Health spending per person (PPS),1052.44
+2015,BG,Bulgaria,Health spending per person (PPS),1081.64
+2016,BG,Bulgaria,Health spending per person (PPS),1170.09
+2017,BG,Bulgaria,Health spending per person (PPS),1240.01
+2018,BG,Bulgaria,Health spending per person (PPS),1290.38
+2019,BG,Bulgaria,Health spending per person (PPS),1334.24
+2020,BG,Bulgaria,Health spending per person (PPS),1555.68
+2021,BG,Bulgaria,Health spending per person (PPS),1822.43
+2022,BG,Bulgaria,Health spending per person (PPS),1850.45
+2023,BG,Bulgaria,Health spending per person (PPS),2073.77
+2024,BG,Bulgaria,Health spending per person (PPS),2408.34
+2025,BG,Bulgaria,Health spending per person (PPS),NA
+2010,CZ,Czechia,Health spending per person (PPS),1676.58
+2011,CZ,Czechia,Health spending per person (PPS),1686.94
+2012,CZ,Czechia,Health spending per person (PPS),1699.66
+2013,CZ,Czechia,Health spending per person (PPS),1743.92
+2014,CZ,Czechia,Health spending per person (PPS),1876.42
+2015,CZ,Czechia,Health spending per person (PPS),1900.25
+2016,CZ,Czechia,Health spending per person (PPS),1967.45
+2017,CZ,Czechia,Health spending per person (PPS),2079.82
+2018,CZ,Czechia,Health spending per person (PPS),2179.6
+2019,CZ,Czechia,Health spending per person (PPS),2323.89
+2020,CZ,Czechia,Health spending per person (PPS),2665.9
+2021,CZ,Czechia,Health spending per person (PPS),2862.67
+2022,CZ,Czechia,Health spending per person (PPS),2795.98
+2023,CZ,Czechia,Health spending per person (PPS),2965.76
+2024,CZ,Czechia,Health spending per person (PPS),3142.66
+2025,CZ,Czechia,Health spending per person (PPS),NA
+2010,DK,Denmark,Health spending per person (PPS),3256.75
+2011,DK,Denmark,Health spending per person (PPS),3247.21
+2012,DK,Denmark,Health spending per person (PPS),3312.37
+2013,DK,Denmark,Health spending per person (PPS),3320.99
+2014,DK,Denmark,Health spending per person (PPS),3364.52
+2015,DK,Denmark,Health spending per person (PPS),3462.7
+2016,DK,Denmark,Health spending per person (PPS),3470.17
+2017,DK,Denmark,Health spending per person (PPS),3601.35
+2018,DK,Denmark,Health spending per person (PPS),3702.14
+2019,DK,Denmark,Health spending per person (PPS),3765.64
+2020,DK,Denmark,Health spending per person (PPS),3998.54
+2021,DK,Denmark,Health spending per person (PPS),4434.84
+2022,DK,Denmark,Health spending per person (PPS),4241.83
+2023,DK,Denmark,Health spending per person (PPS),4265.19
+2024,DK,Denmark,Health spending per person (PPS),4471.49
+2025,DK,Denmark,Health spending per person (PPS),NA
+2010,DE,Germany,Health spending per person (PPS),3296.19
+2011,DE,Germany,Health spending per person (PPS),3454.81
+2012,DE,Germany,Health spending per person (PPS),3530.11
+2013,DE,Germany,Health spending per person (PPS),3619.87
+2014,DE,Germany,Health spending per person (PPS),3755.88
+2015,DE,Germany,Health spending per person (PPS),3863.76
+2016,DE,Germany,Health spending per person (PPS),3997.45
+2017,DE,Germany,Health spending per person (PPS),4183.95
+2018,DE,Germany,Health spending per person (PPS),4358.22
+2019,DE,Germany,Health spending per person (PPS),4517.08
+2020,DE,Germany,Health spending per person (PPS),4789.58
+2021,DE,Germany,Health spending per person (PPS),5198.57
+2022,DE,Germany,Health spending per person (PPS),5414.36
+2023,DE,Germany,Health spending per person (PPS),5380.74
+2024,DE,Germany,Health spending per person (PPS),5790.77
+2025,DE,Germany,Health spending per person (PPS),NA
+2010,EE,Estonia,Health spending per person (PPS),1083.95
+2011,EE,Estonia,Health spending per person (PPS),1113.85
+2012,EE,Estonia,Health spending per person (PPS),1182.77
+2013,EE,Estonia,Health spending per person (PPS),1253.28
+2014,EE,Estonia,Health spending per person (PPS),1332.82
+2015,EE,Estonia,Health spending per person (PPS),1422.36
+2016,EE,Estonia,Health spending per person (PPS),1484.48
+2017,EE,Estonia,Health spending per person (PPS),1550.62
+2018,EE,Estonia,Health spending per person (PPS),1649.26
+2019,EE,Estonia,Health spending per person (PPS),1740
+2020,EE,Estonia,Health spending per person (PPS),1900.72
+2021,EE,Estonia,Health spending per person (PPS),2037.44
+2022,EE,Estonia,Health spending per person (PPS),1959.32
+2023,EE,Estonia,Health spending per person (PPS),2150.6
+2024,EE,Estonia,Health spending per person (PPS),2374.73
+2025,EE,Estonia,Health spending per person (PPS),NA
+2010,IE,Ireland,Health spending per person (PPS),NA
+2011,IE,Ireland,Health spending per person (PPS),3176.61
+2012,IE,Ireland,Health spending per person (PPS),3233.12
+2013,IE,Ireland,Health spending per person (PPS),3124.53
+2014,IE,Ireland,Health spending per person (PPS),3067.83
+2015,IE,Ireland,Health spending per person (PPS),3152.54
+2016,IE,Ireland,Health spending per person (PPS),3226.23
+2017,IE,Ireland,Health spending per person (PPS),3293.88
+2018,IE,Ireland,Health spending per person (PPS),3387.3
+2019,IE,Ireland,Health spending per person (PPS),3450.95
+2020,IE,Ireland,Health spending per person (PPS),3633.14
+2021,IE,Ireland,Health spending per person (PPS),3970.4
+2022,IE,Ireland,Health spending per person (PPS),4226.76
+2023,IE,Ireland,Health spending per person (PPS),4420.24
+2024,IE,Ireland,Health spending per person (PPS),4773.28
+2025,IE,Ireland,Health spending per person (PPS),NA
+2010,EL,Greece,Health spending per person (PPS),1986.97
+2011,EL,Greece,Health spending per person (PPS),1739.47
+2012,EL,Greece,Health spending per person (PPS),1603.03
+2013,EL,Greece,Health spending per person (PPS),1536.02
+2014,EL,Greece,Health spending per person (PPS),1476.67
+2015,EL,Greece,Health spending per person (PPS),1561.58
+2016,EL,Greece,Health spending per person (PPS),1607.12
+2017,EL,Greece,Health spending per person (PPS),1595.37
+2018,EL,Greece,Health spending per person (PPS),1627.19
+2019,EL,Greece,Health spending per person (PPS),1667.78
+2020,EL,Greece,Health spending per person (PPS),1744.9
+2021,EL,Greece,Health spending per person (PPS),1890.28
+2022,EL,Greece,Health spending per person (PPS),1995.49
+2023,EL,Greece,Health spending per person (PPS),2186.83
+2024,EL,Greece,Health spending per person (PPS),2290.62
+2025,EL,Greece,Health spending per person (PPS),NA
+2010,ES,Spain,Health spending per person (PPS),2107.1
+2011,ES,Spain,Health spending per person (PPS),2097.96
+2012,ES,Spain,Health spending per person (PPS),2062.41
+2013,ES,Spain,Health spending per person (PPS),2055.38
+2014,ES,Spain,Health spending per person (PPS),2120.43
+2015,ES,Spain,Health spending per person (PPS),2244.71
+2016,ES,Spain,Health spending per person (PPS),2264.4
+2017,ES,Spain,Health spending per person (PPS),2373.47
+2018,ES,Spain,Health spending per person (PPS),2428.46
+2019,ES,Spain,Health spending per person (PPS),2544.39
+2020,ES,Spain,Health spending per person (PPS),2599.56
+2021,ES,Spain,Health spending per person (PPS),2826.11
+2022,ES,Spain,Health spending per person (PPS),2981.09
+2023,ES,Spain,Health spending per person (PPS),3164.64
+2024,ES,Spain,Health spending per person (PPS),3318.68
+2025,ES,Spain,Health spending per person (PPS),NA
+2010,FR,France,Health spending per person (PPS),3028.77
+2011,FR,France,Health spending per person (PPS),3107.83
+2012,FR,France,Health spending per person (PPS),3156.86
+2013,FR,France,Health spending per person (PPS),3295.03
+2014,FR,France,Health spending per person (PPS),3335.77
+2015,FR,France,Health spending per person (PPS),3375.13
+2016,FR,France,Health spending per person (PPS),3443.48
+2017,FR,France,Health spending per person (PPS),3482.56
+2018,FR,France,Health spending per person (PPS),3513.03
+2019,FR,France,Health spending per person (PPS),3617.27
+2020,FR,France,Health spending per person (PPS),3753.69
+2021,FR,France,Health spending per person (PPS),4041.63
+2022,FR,France,Health spending per person (PPS),4163.53
+2023,FR,France,Health spending per person (PPS),4318.63
+2024,FR,France,Health spending per person (PPS),4490.89
+2025,FR,France,Health spending per person (PPS),NA
+2010,HR,Croatia,Health spending per person (PPS),NA
+2011,HR,Croatia,Health spending per person (PPS),NA
+2012,HR,Croatia,Health spending per person (PPS),NA
+2013,HR,Croatia,Health spending per person (PPS),1015.75
+2014,HR,Croatia,Health spending per person (PPS),1064.57
+2015,HR,Croatia,Health spending per person (PPS),1129.48
+2016,HR,Croatia,Health spending per person (PPS),1205.77
+2017,HR,Croatia,Health spending per person (PPS),1267.09
+2018,HR,Croatia,Health spending per person (PPS),1345.75
+2019,HR,Croatia,Health spending per person (PPS),1429.94
+2020,HR,Croatia,Health spending per person (PPS),1505.87
+2021,HR,Croatia,Health spending per person (PPS),1865.91
+2022,HR,Croatia,Health spending per person (PPS),1826.77
+2023,HR,Croatia,Health spending per person (PPS),1988.95
+2024,HR,Croatia,Health spending per person (PPS),2265.56
+2025,HR,Croatia,Health spending per person (PPS),NA
+2010,IT,Italy,Health spending per person (PPS),NA
+2011,IT,Italy,Health spending per person (PPS),NA
+2012,IT,Italy,Health spending per person (PPS),2285.87
+2013,IT,Italy,Health spending per person (PPS),2245.49
+2014,IT,Italy,Health spending per person (PPS),2249.1
+2015,IT,Italy,Health spending per person (PPS),2289.8
+2016,IT,Italy,Health spending per person (PPS),2349.16
+2017,IT,Italy,Health spending per person (PPS),2413.63
+2018,IT,Italy,Health spending per person (PPS),2462.11
+2019,IT,Italy,Health spending per person (PPS),2528.37
+2020,IT,Italy,Health spending per person (PPS),2619.73
+2021,IT,Italy,Health spending per person (PPS),2828.34
+2022,IT,Italy,Health spending per person (PPS),2995.89
+2023,IT,Italy,Health spending per person (PPS),3082.39
+2024,IT,Italy,Health spending per person (PPS),3224.83
+2025,IT,Italy,Health spending per person (PPS),NA
+2010,CY,Cyprus,Health spending per person (PPS),1581.55
+2011,CY,Cyprus,Health spending per person (PPS),1536.71
+2012,CY,Cyprus,Health spending per person (PPS),1486.94
+2013,CY,Cyprus,Health spending per person (PPS),1480.97
+2014,CY,Cyprus,Health spending per person (PPS),1470.57
+2015,CY,Cyprus,Health spending per person (PPS),1501.71
+2016,CY,Cyprus,Health spending per person (PPS),1591.12
+2017,CY,Cyprus,Health spending per person (PPS),1672.55
+2018,CY,Cyprus,Health spending per person (PPS),1794.9
+2019,CY,Cyprus,Health spending per person (PPS),1946.93
+2020,CY,Cyprus,Health spending per person (PPS),2270.22
+2021,CY,Cyprus,Health spending per person (PPS),2593.64
+2022,CY,Cyprus,Health spending per person (PPS),2668.81
+2023,CY,Cyprus,Health spending per person (PPS),2792.88
+2024,CY,Cyprus,Health spending per person (PPS),3041.73
+2025,CY,Cyprus,Health spending per person (PPS),NA
+2010,LV,Latvia,Health spending per person (PPS),NA
+2011,LV,Latvia,Health spending per person (PPS),NA
+2012,LV,Latvia,Health spending per person (PPS),NA
+2013,LV,Latvia,Health spending per person (PPS),902.36
+2014,LV,Latvia,Health spending per person (PPS),941.47
+2015,LV,Latvia,Health spending per person (PPS),1029.02
+2016,LV,Latvia,Health spending per person (PPS),1142.67
+2017,LV,Latvia,Health spending per person (PPS),1180.79
+2018,LV,Latvia,Health spending per person (PPS),1298.28
+2019,LV,Latvia,Health spending per person (PPS),1436.67
+2020,LV,Latvia,Health spending per person (PPS),1563.43
+2021,LV,Latvia,Health spending per person (PPS),2242.26
+2022,LV,Latvia,Health spending per person (PPS),2024.3
+2023,LV,Latvia,Health spending per person (PPS),1956.83
+2024,LV,Latvia,Health spending per person (PPS),2274.04
+2025,LV,Latvia,Health spending per person (PPS),NA
+2010,LT,Lithuania,Health spending per person (PPS),1045.63
+2011,LT,Lithuania,Health spending per person (PPS),1128.01
+2012,LT,Lithuania,Health spending per person (PPS),1170.98
+2013,LT,Lithuania,Health spending per person (PPS),1218.55
+2014,LT,Lithuania,Health spending per person (PPS),1301.7
+2015,LT,Lithuania,Health spending per person (PPS),1401.43
+2016,LT,Lithuania,Health spending per person (PPS),1480.69
+2017,LT,Lithuania,Health spending per person (PPS),1563.52
+2018,LT,Lithuania,Health spending per person (PPS),1661.63
+2019,LT,Lithuania,Health spending per person (PPS),1898.88
+2020,LT,Lithuania,Health spending per person (PPS),2011.57
+2021,LT,Lithuania,Health spending per person (PPS),2310.2
+2022,LT,Lithuania,Health spending per person (PPS),2285.98
+2023,LT,Lithuania,Health spending per person (PPS),2382.07
+2024,LT,Lithuania,Health spending per person (PPS),2655.33
+2025,LT,Lithuania,Health spending per person (PPS),NA
+2010,LU,Luxembourg,Health spending per person (PPS),NA
+2011,LU,Luxembourg,Health spending per person (PPS),3669.89
+2012,LU,Luxembourg,Health spending per person (PPS),3305.74
+2013,LU,Luxembourg,Health spending per person (PPS),3402.42
+2014,LU,Luxembourg,Health spending per person (PPS),3444.7
+2015,LU,Luxembourg,Health spending per person (PPS),3437.47
+2016,LU,Luxembourg,Health spending per person (PPS),3452.74
+2017,LU,Luxembourg,Health spending per person (PPS),3514.05
+2018,LU,Luxembourg,Health spending per person (PPS),3691.94
+2019,LU,Luxembourg,Health spending per person (PPS),3741.72
+2020,LU,Luxembourg,Health spending per person (PPS),3811.08
+2021,LU,Luxembourg,Health spending per person (PPS),4126.4
+2022,LU,Luxembourg,Health spending per person (PPS),4399.61
+2023,LU,Luxembourg,Health spending per person (PPS),4662.95
+2024,LU,Luxembourg,Health spending per person (PPS),4944.38
+2025,LU,Luxembourg,Health spending per person (PPS),NA
+2010,HU,Hungary,Health spending per person (PPS),1270.12
+2011,HU,Hungary,Health spending per person (PPS),1333.73
+2012,HU,Hungary,Health spending per person (PPS),1319.86
+2013,HU,Hungary,Health spending per person (PPS),1339.45
+2014,HU,Hungary,Health spending per person (PPS),1368.57
+2015,HU,Hungary,Health spending per person (PPS),1391.89
+2016,HU,Hungary,Health spending per person (PPS),1423.77
+2017,HU,Hungary,Health spending per person (PPS),1416.6
+2018,HU,Hungary,Health spending per person (PPS),1480.23
+2019,HU,Hungary,Health spending per person (PPS),1494.84
+2020,HU,Hungary,Health spending per person (PPS),1701.33
+2021,HU,Hungary,Health spending per person (PPS),1892.36
+2022,HU,Hungary,Health spending per person (PPS),1850.4
+2023,HU,Hungary,Health spending per person (PPS),1905.77
+2024,HU,Hungary,Health spending per person (PPS),2018.32
+2025,HU,Hungary,Health spending per person (PPS),NA
+2010,MT,Malta,Health spending per person (PPS),NA
+2011,MT,Malta,Health spending per person (PPS),NA
+2012,MT,Malta,Health spending per person (PPS),NA
+2013,MT,Malta,Health spending per person (PPS),NA
+2014,MT,Malta,Health spending per person (PPS),2186.55
+2015,MT,Malta,Health spending per person (PPS),2360.02
+2016,MT,Malta,Health spending per person (PPS),2448.46
+2017,MT,Malta,Health spending per person (PPS),2578.74
+2018,MT,Malta,Health spending per person (PPS),2635.43
+2019,MT,Malta,Health spending per person (PPS),2958.52
+2020,MT,Malta,Health spending per person (PPS),3026.55
+2021,MT,Malta,Health spending per person (PPS),3322.21
+2022,MT,Malta,Health spending per person (PPS),3391.42
+2023,MT,Malta,Health spending per person (PPS),3593.37
+2024,MT,Malta,Health spending per person (PPS),3726.07
+2025,MT,Malta,Health spending per person (PPS),NA
+2010,NL,Netherlands,Health spending per person (PPS),3410.85
+2011,NL,Netherlands,Health spending per person (PPS),3469.96
+2012,NL,Netherlands,Health spending per person (PPS),3573.09
+2013,NL,Netherlands,Health spending per person (PPS),3613.21
+2014,NL,Netherlands,Health spending per person (PPS),3611.23
+2015,NL,Netherlands,Health spending per person (PPS),3609.47
+2016,NL,Netherlands,Health spending per person (PPS),3608.16
+2017,NL,Netherlands,Health spending per person (PPS),3700.54
+2018,NL,Netherlands,Health spending per person (PPS),3824.62
+2019,NL,Netherlands,Health spending per person (PPS),3933.23
+2020,NL,Netherlands,Health spending per person (PPS),4238.67
+2021,NL,Netherlands,Health spending per person (PPS),4704.07
+2022,NL,Netherlands,Health spending per person (PPS),4757.71
+2023,NL,Netherlands,Health spending per person (PPS),4913.02
+2024,NL,Netherlands,Health spending per person (PPS),5253.83
+2025,NL,Netherlands,Health spending per person (PPS),NA
+2010,AT,Austria,Health spending per person (PPS),3256.36
+2011,AT,Austria,Health spending per person (PPS),3316.55
+2012,AT,Austria,Health spending per person (PPS),3440.3
+2013,AT,Austria,Health spending per person (PPS),3509.24
+2014,AT,Austria,Health spending per person (PPS),3571.82
+2015,AT,Austria,Health spending per person (PPS),3650.33
+2016,AT,Austria,Health spending per person (PPS),3717.04
+2017,AT,Austria,Health spending per person (PPS),3790.13
+2018,AT,Austria,Health spending per person (PPS),3891.3
+2019,AT,Austria,Health spending per person (PPS),4004.98
+2020,AT,Austria,Health spending per person (PPS),4095.05
+2021,AT,Austria,Health spending per person (PPS),4788.91
+2022,AT,Austria,Health spending per person (PPS),4877.08
+2023,AT,Austria,Health spending per person (PPS),4989.61
+2024,AT,Austria,Health spending per person (PPS),5347.51
+2025,AT,Austria,Health spending per person (PPS),NA
+2010,PL,Poland,Health spending per person (PPS),NA
+2011,PL,Poland,Health spending per person (PPS),NA
+2012,PL,Poland,Health spending per person (PPS),NA
+2013,PL,Poland,Health spending per person (PPS),1226.04
+2014,PL,Poland,Health spending per person (PPS),1234.62
+2015,PL,Poland,Health spending per person (PPS),1320.5
+2016,PL,Poland,Health spending per person (PPS),1379.55
+2017,PL,Poland,Health spending per person (PPS),1452.9
+2018,PL,Poland,Health spending per person (PPS),1469.68
+2019,PL,Poland,Health spending per person (PPS),1592.08
+2020,PL,Poland,Health spending per person (PPS),1632.94
+2021,PL,Poland,Health spending per person (PPS),1788.72
+2022,PL,Poland,Health spending per person (PPS),2009.52
+2023,PL,Poland,Health spending per person (PPS),2236.98
+2024,PL,Poland,Health spending per person (PPS),2614.85
+2025,PL,Poland,Health spending per person (PPS),NA
+2010,PT,Portugal,Health spending per person (PPS),1977.18
+2011,PT,Portugal,Health spending per person (PPS),1876.53
+2012,PT,Portugal,Health spending per person (PPS),1819.54
+2013,PT,Portugal,Health spending per person (PPS),1848.8
+2014,PT,Portugal,Health spending per person (PPS),1869.83
+2015,PT,Portugal,Health spending per person (PPS),1943.72
+2016,PT,Portugal,Health spending per person (PPS),2002.94
+2017,PT,Portugal,Health spending per person (PPS),2057.87
+2018,PT,Portugal,Health spending per person (PPS),2194.54
+2019,PT,Portugal,Health spending per person (PPS),2293.33
+2020,PT,Portugal,Health spending per person (PPS),2341.35
+2021,PT,Portugal,Health spending per person (PPS),2699.6
+2022,PT,Portugal,Health spending per person (PPS),2887.82
+2023,PT,Portugal,Health spending per person (PPS),3016.91
+2024,PT,Portugal,Health spending per person (PPS),3247.42
+2025,PT,Portugal,Health spending per person (PPS),NA
+2010,RO,Romania,Health spending per person (PPS),NA
+2011,RO,Romania,Health spending per person (PPS),633.04
+2012,RO,Romania,Health spending per person (PPS),664.59
+2013,RO,Romania,Health spending per person (PPS),759.53
+2014,RO,Romania,Health spending per person (PPS),766.8
+2015,RO,Romania,Health spending per person (PPS),796.55
+2016,RO,Romania,Health spending per person (PPS),885.76
+2017,RO,Romania,Health spending per person (PPS),995.86
+2018,RO,Romania,Health spending per person (PPS),1157.6
+2019,RO,Romania,Health spending per person (PPS),1311.52
+2020,RO,Romania,Health spending per person (PPS),1443.03
+2021,RO,Romania,Health spending per person (PPS),1645.7
+2022,RO,Romania,Health spending per person (PPS),1574.91
+2023,RO,Romania,Health spending per person (PPS),1738.21
+2024,RO,Romania,Health spending per person (PPS),1968.69
+2025,RO,Romania,Health spending per person (PPS),NA
+2010,SI,Slovenia,Health spending per person (PPS),NA
+2011,SI,Slovenia,Health spending per person (PPS),NA
+2012,SI,Slovenia,Health spending per person (PPS),NA
+2013,SI,Slovenia,Health spending per person (PPS),NA
+2014,SI,Slovenia,Health spending per person (PPS),1828.9
+2015,SI,Slovenia,Health spending per person (PPS),1889.52
+2016,SI,Slovenia,Health spending per person (PPS),1938.83
+2017,SI,Slovenia,Health spending per person (PPS),1995.2
+2018,SI,Slovenia,Health spending per person (PPS),2124.37
+2019,SI,Slovenia,Health spending per person (PPS),2287.03
+2020,SI,Slovenia,Health spending per person (PPS),2443.42
+2021,SI,Slovenia,Health spending per person (PPS),2697.29
+2022,SI,Slovenia,Health spending per person (PPS),2964.59
+2023,SI,Slovenia,Health spending per person (PPS),3135.22
+2024,SI,Slovenia,Health spending per person (PPS),3250.96
+2025,SI,Slovenia,Health spending per person (PPS),NA
+2010,SK,Slovakia,Health spending per person (PPS),NA
+2011,SK,Slovakia,Health spending per person (PPS),NA
+2012,SK,Slovakia,Health spending per person (PPS),1567.06
+2013,SK,Slovakia,Health spending per person (PPS),1580.41
+2014,SK,Slovakia,Health spending per person (PPS),1471.04
+2015,SK,Slovakia,Health spending per person (PPS),1508.47
+2016,SK,Slovakia,Health spending per person (PPS),1444.17
+2017,SK,Slovakia,Health spending per person (PPS),1390.73
+2018,SK,Slovakia,Health spending per person (PPS),1401.53
+2019,SK,Slovakia,Health spending per person (PPS),1519.49
+2020,SK,Slovakia,Health spending per person (PPS),1593.07
+2021,SK,Slovakia,Health spending per person (PPS),1874.51
+2022,SK,Slovakia,Health spending per person (PPS),1961.89
+2023,SK,Slovakia,Health spending per person (PPS),2100.04
+2024,SK,Slovakia,Health spending per person (PPS),2370.3
+2025,SK,Slovakia,Health spending per person (PPS),NA
+2010,FI,Finland,Health spending per person (PPS),2612.6
+2011,FI,Finland,Health spending per person (PPS),2733.74
+2012,FI,Finland,Health spending per person (PPS),2828.83
+2013,FI,Finland,Health spending per person (PPS),2886.25
+2014,FI,Finland,Health spending per person (PPS),2894.91
+2015,FI,Finland,Health spending per person (PPS),2924.82
+2016,FI,Finland,Health spending per person (PPS),2905.57
+2017,FI,Finland,Health spending per person (PPS),2969.07
+2018,FI,Finland,Health spending per person (PPS),3021.08
+2019,FI,Finland,Health spending per person (PPS),3102.02
+2020,FI,Finland,Health spending per person (PPS),3230.9
+2021,FI,Finland,Health spending per person (PPS),3460.88
+2022,FI,Finland,Health spending per person (PPS),3592.58
+2023,FI,Finland,Health spending per person (PPS),3952.6
+2024,FI,Finland,Health spending per person (PPS),4079.12
+2025,FI,Finland,Health spending per person (PPS),NA
+2010,SE,Sweden,Health spending per person (PPS),2600.69
+2011,SE,Sweden,Health spending per person (PPS),3394.64
+2012,SE,Sweden,Health spending per person (PPS),3511.12
+2013,SE,Sweden,Health spending per person (PPS),3482.41
+2014,SE,Sweden,Health spending per person (PPS),3574.88
+2015,SE,Sweden,Health spending per person (PPS),3683.83
+2016,SE,Sweden,Health spending per person (PPS),3654.69
+2017,SE,Sweden,Health spending per person (PPS),3697.05
+2018,SE,Sweden,Health spending per person (PPS),3803.12
+2019,SE,Sweden,Health spending per person (PPS),3854.95
+2020,SE,Sweden,Health spending per person (PPS),3947.25
+2021,SE,Sweden,Health spending per person (PPS),4244.03
+2022,SE,Sweden,Health spending per person (PPS),4345.69
+2023,SE,Sweden,Health spending per person (PPS),4613.83
+2024,SE,Sweden,Health spending per person (PPS),4776.56
+2025,SE,Sweden,Health spending per person (PPS),NA
+2010,BE,Belgium,"Health spending, % of GDP",10.41
+2011,BE,Belgium,"Health spending, % of GDP",10.41
+2012,BE,Belgium,"Health spending, % of GDP",10.58
+2013,BE,Belgium,"Health spending, % of GDP",10.63
+2014,BE,Belgium,"Health spending, % of GDP",10.62
+2015,BE,Belgium,"Health spending, % of GDP",10.88
+2016,BE,Belgium,"Health spending, % of GDP",10.88
+2017,BE,Belgium,"Health spending, % of GDP",10.93
+2018,BE,Belgium,"Health spending, % of GDP",10.98
+2019,BE,Belgium,"Health spending, % of GDP",10.85
+2020,BE,Belgium,"Health spending, % of GDP",11.45
+2021,BE,Belgium,"Health spending, % of GDP",11.28
+2022,BE,Belgium,"Health spending, % of GDP",10.8
+2023,BE,Belgium,"Health spending, % of GDP",10.79
+2024,BE,Belgium,"Health spending, % of GDP",11.07
+2025,BE,Belgium,"Health spending, % of GDP",NA
+2010,BG,Bulgaria,"Health spending, % of GDP",NA
+2011,BG,Bulgaria,"Health spending, % of GDP",7.1
+2012,BG,Bulgaria,"Health spending, % of GDP",7.54
+2013,BG,Bulgaria,"Health spending, % of GDP",7.14
+2014,BG,Bulgaria,"Health spending, % of GDP",7.68
+2015,BG,Bulgaria,"Health spending, % of GDP",7.39
+2016,BG,Bulgaria,"Health spending, % of GDP",7.46
+2017,BG,Bulgaria,"Health spending, % of GDP",7.5
+2018,BG,Bulgaria,"Health spending, % of GDP",7.36
+2019,BG,Bulgaria,"Health spending, % of GDP",7.13
+2020,BG,Bulgaria,"Health spending, % of GDP",8.45
+2021,BG,Bulgaria,"Health spending, % of GDP",8.58
+2022,BG,Bulgaria,"Health spending, % of GDP",7.64
+2023,BG,Bulgaria,"Health spending, % of GDP",7.93
+2024,BG,Bulgaria,"Health spending, % of GDP",8.54
+2025,BG,Bulgaria,"Health spending, % of GDP",NA
+2010,CZ,Czechia,"Health spending, % of GDP",7.48
+2011,CZ,Czechia,"Health spending, % of GDP",7.47
+2012,CZ,Czechia,"Health spending, % of GDP",7.54
+2013,CZ,Czechia,"Health spending, % of GDP",7.45
+2014,CZ,Czechia,"Health spending, % of GDP",7.54
+2015,CZ,Czechia,"Health spending, % of GDP",7.29
+2016,CZ,Czechia,"Health spending, % of GDP",7.32
+2017,CZ,Czechia,"Health spending, % of GDP",7.24
+2018,CZ,Czechia,"Health spending, % of GDP",7.37
+2019,CZ,Czechia,"Health spending, % of GDP",7.49
+2020,CZ,Czechia,"Health spending, % of GDP",8.97
+2021,CZ,Czechia,"Health spending, % of GDP",9.15
+2022,CZ,Czechia,"Health spending, % of GDP",8.47
+2023,CZ,Czechia,"Health spending, % of GDP",8.38
+2024,CZ,Czechia,"Health spending, % of GDP",8.65
+2025,CZ,Czechia,"Health spending, % of GDP",8.94
+2010,DK,Denmark,"Health spending, % of GDP",10.6
+2011,DK,Denmark,"Health spending, % of GDP",10.4
+2012,DK,Denmark,"Health spending, % of GDP",10.53
+2013,DK,Denmark,"Health spending, % of GDP",10.3
+2014,DK,Denmark,"Health spending, % of GDP",10.31
+2015,DK,Denmark,"Health spending, % of GDP",10.38
+2016,DK,Denmark,"Health spending, % of GDP",10.28
+2017,DK,Denmark,"Health spending, % of GDP",10.11
+2018,DK,Denmark,"Health spending, % of GDP",10.14
+2019,DK,Denmark,"Health spending, % of GDP",10.18
+2020,DK,Denmark,"Health spending, % of GDP",10.69
+2021,DK,Denmark,"Health spending, % of GDP",10.72
+2022,DK,Denmark,"Health spending, % of GDP",9.6
+2023,DK,Denmark,"Health spending, % of GDP",9.61
+2024,DK,Denmark,"Health spending, % of GDP",9.59
+2025,DK,Denmark,"Health spending, % of GDP",9.58
+2010,DE,Germany,"Health spending, % of GDP",10.83
+2011,DE,Germany,"Health spending, % of GDP",10.52
+2012,DE,Germany,"Health spending, % of GDP",10.6
+2013,DE,Germany,"Health spending, % of GDP",10.75
+2014,DE,Germany,"Health spending, % of GDP",10.77
+2015,DE,Germany,"Health spending, % of GDP",10.92
+2016,DE,Germany,"Health spending, % of GDP",10.97
+2017,DE,Germany,"Health spending, % of GDP",11.04
+2018,DE,Germany,"Health spending, % of GDP",11.17
+2019,DE,Germany,"Health spending, % of GDP",11.42
+2020,DE,Germany,"Health spending, % of GDP",12.46
+2021,DE,Germany,"Health spending, % of GDP",12.7
+2022,DE,Germany,"Health spending, % of GDP",12.3
+2023,DE,Germany,"Health spending, % of GDP",11.64
+2024,DE,Germany,"Health spending, % of GDP",12.21
+2025,DE,Germany,"Health spending, % of GDP",12.73
+2010,EE,Estonia,"Health spending, % of GDP",6.59
+2011,EE,Estonia,"Health spending, % of GDP",6.05
+2012,EE,Estonia,"Health spending, % of GDP",6.04
+2013,EE,Estonia,"Health spending, % of GDP",6.2
+2014,EE,Estonia,"Health spending, % of GDP",6.26
+2015,EE,Estonia,"Health spending, % of GDP",6.52
+2016,EE,Estonia,"Health spending, % of GDP",6.57
+2017,EE,Estonia,"Health spending, % of GDP",6.47
+2018,EE,Estonia,"Health spending, % of GDP",6.56
+2019,EE,Estonia,"Health spending, % of GDP",6.65
+2020,EE,Estonia,"Health spending, % of GDP",7.47
+2021,EE,Estonia,"Health spending, % of GDP",7.48
+2022,EE,Estonia,"Health spending, % of GDP",6.96
+2023,EE,Estonia,"Health spending, % of GDP",7.44
+2024,EE,Estonia,"Health spending, % of GDP",7.96
+2025,EE,Estonia,"Health spending, % of GDP",8.06
+2010,IE,Ireland,"Health spending, % of GDP",NA
+2011,IE,Ireland,"Health spending, % of GDP",10.5
+2012,IE,Ireland,"Health spending, % of GDP",10.48
+2013,IE,Ireland,"Health spending, % of GDP",10.01
+2014,IE,Ireland,"Health spending, % of GDP",9.27
+2015,IE,Ireland,"Health spending, % of GDP",7.08
+2016,IE,Ireland,"Health spending, % of GDP",7.33
+2017,IE,Ireland,"Health spending, % of GDP",6.9
+2018,IE,Ireland,"Health spending, % of GDP",6.71
+2019,IE,Ireland,"Health spending, % of GDP",6.56
+2020,IE,Ireland,"Health spending, % of GDP",6.94
+2021,IE,Ireland,"Health spending, % of GDP",6.42
+2022,IE,Ireland,"Health spending, % of GDP",5.95
+2023,IE,Ireland,"Health spending, % of GDP",6.34
+2024,IE,Ireland,"Health spending, % of GDP",6.45
+2025,IE,Ireland,"Health spending, % of GDP",6.08
+2010,EL,Greece,"Health spending, % of GDP",9.62
+2011,EL,Greece,"Health spending, % of GDP",9.19
+2012,EL,Greece,"Health spending, % of GDP",9.04
+2013,EL,Greece,"Health spending, % of GDP",8.52
+2014,EL,Greece,"Health spending, % of GDP",7.94
+2015,EL,Greece,"Health spending, % of GDP",8.27
+2016,EL,Greece,"Health spending, % of GDP",8.45
+2017,EL,Greece,"Health spending, % of GDP",8.11
+2018,EL,Greece,"Health spending, % of GDP",8.07
+2019,EL,Greece,"Health spending, % of GDP",8.12
+2020,EL,Greece,"Health spending, % of GDP",9.38
+2021,EL,Greece,"Health spending, % of GDP",9.03
+2022,EL,Greece,"Health spending, % of GDP",8.48
+2023,EL,Greece,"Health spending, % of GDP",8.41
+2024,EL,Greece,"Health spending, % of GDP",8.39
+2025,EL,Greece,"Health spending, % of GDP",NA
+2010,ES,Spain,"Health spending, % of GDP",9.17
+2011,ES,Spain,"Health spending, % of GDP",9.22
+2012,ES,Spain,"Health spending, % of GDP",9.22
+2013,ES,Spain,"Health spending, % of GDP",9.14
+2014,ES,Spain,"Health spending, % of GDP",9.15
+2015,ES,Spain,"Health spending, % of GDP",9.18
+2016,ES,Spain,"Health spending, % of GDP",9.01
+2017,ES,Spain,"Health spending, % of GDP",9.02
+2018,ES,Spain,"Health spending, % of GDP",9.07
+2019,ES,Spain,"Health spending, % of GDP",9.22
+2020,ES,Spain,"Health spending, % of GDP",10.79
+2021,ES,Spain,"Health spending, % of GDP",10.34
+2022,ES,Spain,"Health spending, % of GDP",9.66
+2023,ES,Spain,"Health spending, % of GDP",9.22
+2024,ES,Spain,"Health spending, % of GDP",9.25
+2025,ES,Spain,"Health spending, % of GDP",NA
+2010,FR,France,"Health spending, % of GDP",11.02
+2011,FR,France,"Health spending, % of GDP",10.97
+2012,FR,France,"Health spending, % of GDP",11.11
+2013,FR,France,"Health spending, % of GDP",11.25
+2014,FR,France,"Health spending, % of GDP",11.34
+2015,FR,France,"Health spending, % of GDP",11.28
+2016,FR,France,"Health spending, % of GDP",11.35
+2017,FR,France,"Health spending, % of GDP",11.25
+2018,FR,France,"Health spending, % of GDP",11.11
+2019,FR,France,"Health spending, % of GDP",10.98
+2020,FR,France,"Health spending, % of GDP",11.92
+2021,FR,France,"Health spending, % of GDP",12.08
+2022,FR,France,"Health spending, % of GDP",11.7
+2023,FR,France,"Health spending, % of GDP",11.33
+2024,FR,France,"Health spending, % of GDP",11.33
+2025,FR,France,"Health spending, % of GDP",11.48
+2010,HR,Croatia,"Health spending, % of GDP",NA
+2011,HR,Croatia,"Health spending, % of GDP",NA
+2012,HR,Croatia,"Health spending, % of GDP",NA
+2013,HR,Croatia,"Health spending, % of GDP",6.37
+2014,HR,Croatia,"Health spending, % of GDP",6.57
+2015,HR,Croatia,"Health spending, % of GDP",6.66
+2016,HR,Croatia,"Health spending, % of GDP",6.69
+2017,HR,Croatia,"Health spending, % of GDP",6.63
+2018,HR,Croatia,"Health spending, % of GDP",6.71
+2019,HR,Croatia,"Health spending, % of GDP",6.79
+2020,HR,Croatia,"Health spending, % of GDP",7.68
+2021,HR,Croatia,"Health spending, % of GDP",8.08
+2022,HR,Croatia,"Health spending, % of GDP",7.3
+2023,HR,Croatia,"Health spending, % of GDP",6.96
+2024,HR,Croatia,"Health spending, % of GDP",7.55
+2025,HR,Croatia,"Health spending, % of GDP",NA
+2010,IT,Italy,"Health spending, % of GDP",NA
+2011,IT,Italy,"Health spending, % of GDP",NA
+2012,IT,Italy,"Health spending, % of GDP",8.8
+2013,IT,Italy,"Health spending, % of GDP",8.79
+2014,IT,Italy,"Health spending, % of GDP",8.86
+2015,IT,Italy,"Health spending, % of GDP",8.85
+2016,IT,Italy,"Health spending, % of GDP",8.72
+2017,IT,Italy,"Health spending, % of GDP",8.69
+2018,IT,Italy,"Health spending, % of GDP",8.65
+2019,IT,Italy,"Health spending, % of GDP",8.62
+2020,IT,Italy,"Health spending, % of GDP",9.56
+2021,IT,Italy,"Health spending, % of GDP",9.28
+2022,IT,Italy,"Health spending, % of GDP",8.85
+2023,IT,Italy,"Health spending, % of GDP",8.37
+2024,IT,Italy,"Health spending, % of GDP",8.46
+2025,IT,Italy,"Health spending, % of GDP",8.42
+2010,CY,Cyprus,"Health spending, % of GDP",6.5
+2011,CY,Cyprus,"Health spending, % of GDP",6.43
+2012,CY,Cyprus,"Health spending, % of GDP",6.54
+2013,CY,Cyprus,"Health spending, % of GDP",6.93
+2014,CY,Cyprus,"Health spending, % of GDP",6.93
+2015,CY,Cyprus,"Health spending, % of GDP",6.79
+2016,CY,Cyprus,"Health spending, % of GDP",6.65
+2017,CY,Cyprus,"Health spending, % of GDP",6.62
+2018,CY,Cyprus,"Health spending, % of GDP",6.78
+2019,CY,Cyprus,"Health spending, % of GDP",7
+2020,CY,Cyprus,"Health spending, % of GDP",8.65
+2021,CY,Cyprus,"Health spending, % of GDP",8.87
+2022,CY,Cyprus,"Health spending, % of GDP",8.08
+2023,CY,Cyprus,"Health spending, % of GDP",7.77
+2024,CY,Cyprus,"Health spending, % of GDP",8
+2025,CY,Cyprus,"Health spending, % of GDP",NA
+2010,LV,Latvia,"Health spending, % of GDP",NA
+2011,LV,Latvia,"Health spending, % of GDP",NA
+2012,LV,Latvia,"Health spending, % of GDP",NA
+2013,LV,Latvia,"Health spending, % of GDP",5.6
+2014,LV,Latvia,"Health spending, % of GDP",5.66
+2015,LV,Latvia,"Health spending, % of GDP",5.85
+2016,LV,Latvia,"Health spending, % of GDP",6.35
+2017,LV,Latvia,"Health spending, % of GDP",6.19
+2018,LV,Latvia,"Health spending, % of GDP",6.41
+2019,LV,Latvia,"Health spending, % of GDP",6.86
+2020,LV,Latvia,"Health spending, % of GDP",7.51
+2021,LV,Latvia,"Health spending, % of GDP",9.41
+2022,LV,Latvia,"Health spending, % of GDP",8.11
+2023,LV,Latvia,"Health spending, % of GDP",7.34
+2024,LV,Latvia,"Health spending, % of GDP",8.35
+2025,LV,Latvia,"Health spending, % of GDP",NA
+2010,LT,Lithuania,"Health spending, % of GDP",6.91
+2011,LT,Lithuania,"Health spending, % of GDP",6.54
+2012,LT,Lithuania,"Health spending, % of GDP",6.31
+2013,LT,Lithuania,"Health spending, % of GDP",6.16
+2014,LT,Lithuania,"Health spending, % of GDP",6.22
+2015,LT,Lithuania,"Health spending, % of GDP",6.47
+2016,LT,Lithuania,"Health spending, % of GDP",6.65
+2017,LT,Lithuania,"Health spending, % of GDP",6.46
+2018,LT,Lithuania,"Health spending, % of GDP",6.47
+2019,LT,Lithuania,"Health spending, % of GDP",6.94
+2020,LT,Lithuania,"Health spending, % of GDP",7.42
+2021,LT,Lithuania,"Health spending, % of GDP",7.73
+2022,LT,Lithuania,"Health spending, % of GDP",7.28
+2023,LT,Lithuania,"Health spending, % of GDP",7.27
+2024,LT,Lithuania,"Health spending, % of GDP",7.62
+2025,LT,Lithuania,"Health spending, % of GDP",7.64
+2010,LU,Luxembourg,"Health spending, % of GDP",NA
+2011,LU,Luxembourg,"Health spending, % of GDP",5.95
+2012,LU,Luxembourg,"Health spending, % of GDP",5.29
+2013,LU,Luxembourg,"Health spending, % of GDP",5.24
+2014,LU,Luxembourg,"Health spending, % of GDP",5.23
+2015,LU,Luxembourg,"Health spending, % of GDP",5.08
+2016,LU,Luxembourg,"Health spending, % of GDP",5.07
+2017,LU,Luxembourg,"Health spending, % of GDP",5.14
+2018,LU,Luxembourg,"Health spending, % of GDP",5.27
+2019,LU,Luxembourg,"Health spending, % of GDP",5.47
+2020,LU,Luxembourg,"Health spending, % of GDP",5.77
+2021,LU,Luxembourg,"Health spending, % of GDP",5.61
+2022,LU,Luxembourg,"Health spending, % of GDP",5.61
+2023,LU,Luxembourg,"Health spending, % of GDP",5.59
+2024,LU,Luxembourg,"Health spending, % of GDP",5.74
+2025,LU,Luxembourg,"Health spending, % of GDP",5.91
+2010,HU,Hungary,"Health spending, % of GDP",7.46
+2011,HU,Hungary,"Health spending, % of GDP",7.49
+2012,HU,Hungary,"Health spending, % of GDP",7.43
+2013,HU,Hungary,"Health spending, % of GDP",7.24
+2014,HU,Hungary,"Health spending, % of GDP",7.04
+2015,HU,Hungary,"Health spending, % of GDP",6.85
+2016,HU,Hungary,"Health spending, % of GDP",6.97
+2017,HU,Hungary,"Health spending, % of GDP",6.73
+2018,HU,Hungary,"Health spending, % of GDP",6.55
+2019,HU,Hungary,"Health spending, % of GDP",6.25
+2020,HU,Hungary,"Health spending, % of GDP",7.23
+2021,HU,Hungary,"Health spending, % of GDP",7.34
+2022,HU,Hungary,"Health spending, % of GDP",6.67
+2023,HU,Hungary,"Health spending, % of GDP",6.4
+2024,HU,Hungary,"Health spending, % of GDP",6.45
+2025,HU,Hungary,"Health spending, % of GDP",6.52
+2010,MT,Malta,"Health spending, % of GDP",NA
+2011,MT,Malta,"Health spending, % of GDP",NA
+2012,MT,Malta,"Health spending, % of GDP",NA
+2013,MT,Malta,"Health spending, % of GDP",NA
+2014,MT,Malta,"Health spending, % of GDP",8.88
+2015,MT,Malta,"Health spending, % of GDP",8.7
+2016,MT,Malta,"Health spending, % of GDP",8.7
+2017,MT,Malta,"Health spending, % of GDP",8.31
+2018,MT,Malta,"Health spending, % of GDP",8.11
+2019,MT,Malta,"Health spending, % of GDP",8.89
+2020,MT,Malta,"Health spending, % of GDP",9.86
+2021,MT,Malta,"Health spending, % of GDP",9.53
+2022,MT,Malta,"Health spending, % of GDP",9.23
+2023,MT,Malta,"Health spending, % of GDP",8.68
+2024,MT,Malta,"Health spending, % of GDP",8.67
+2025,MT,Malta,"Health spending, % of GDP",NA
+2010,NL,Netherlands,"Health spending, % of GDP",10.09
+2011,NL,Netherlands,"Health spending, % of GDP",10.15
+2012,NL,Netherlands,"Health spending, % of GDP",10.45
+2013,NL,Netherlands,"Health spending, % of GDP",10.5
+2014,NL,Netherlands,"Health spending, % of GDP",10.46
+2015,NL,Netherlands,"Health spending, % of GDP",10.19
+2016,NL,Netherlands,"Health spending, % of GDP",10.13
+2017,NL,Netherlands,"Health spending, % of GDP",9.94
+2018,NL,Netherlands,"Health spending, % of GDP",9.85
+2019,NL,Netherlands,"Health spending, % of GDP",9.94
+2020,NL,Netherlands,"Health spending, % of GDP",10.95
+2021,NL,Netherlands,"Health spending, % of GDP",11.16
+2022,NL,Netherlands,"Health spending, % of GDP",10.08
+2023,NL,Netherlands,"Health spending, % of GDP",10.04
+2024,NL,Netherlands,"Health spending, % of GDP",10.1
+2025,NL,Netherlands,"Health spending, % of GDP",10.19
+2010,AT,Austria,"Health spending, % of GDP",10.32
+2011,AT,Austria,"Health spending, % of GDP",10.14
+2012,AT,Austria,"Health spending, % of GDP",10.3
+2013,AT,Austria,"Health spending, % of GDP",10.41
+2014,AT,Austria,"Health spending, % of GDP",10.51
+2015,AT,Austria,"Health spending, % of GDP",10.52
+2016,AT,Austria,"Health spending, % of GDP",10.52
+2017,AT,Austria,"Health spending, % of GDP",10.57
+2018,AT,Austria,"Health spending, % of GDP",10.52
+2019,AT,Austria,"Health spending, % of GDP",10.63
+2020,AT,Austria,"Health spending, % of GDP",11.41
+2021,AT,Austria,"Health spending, % of GDP",12.19
+2022,AT,Austria,"Health spending, % of GDP",11.19
+2023,AT,Austria,"Health spending, % of GDP",11.18
+2024,AT,Austria,"Health spending, % of GDP",11.71
+2025,AT,Austria,"Health spending, % of GDP",11.93
+2010,PL,Poland,"Health spending, % of GDP",NA
+2011,PL,Poland,"Health spending, % of GDP",NA
+2012,PL,Poland,"Health spending, % of GDP",NA
+2013,PL,Poland,"Health spending, % of GDP",6.45
+2014,PL,Poland,"Health spending, % of GDP",6.28
+2015,PL,Poland,"Health spending, % of GDP",6.31
+2016,PL,Poland,"Health spending, % of GDP",6.49
+2017,PL,Poland,"Health spending, % of GDP",6.54
+2018,PL,Poland,"Health spending, % of GDP",6.25
+2019,PL,Poland,"Health spending, % of GDP",6.39
+2020,PL,Poland,"Health spending, % of GDP",6.43
+2021,PL,Poland,"Health spending, % of GDP",6.45
+2022,PL,Poland,"Health spending, % of GDP",6.64
+2023,PL,Poland,"Health spending, % of GDP",7.14
+2024,PL,Poland,"Health spending, % of GDP",7.84
+2025,PL,Poland,"Health spending, % of GDP",NA
+2010,PT,Portugal,"Health spending, % of GDP",10.07
+2011,PT,Portugal,"Health spending, % of GDP",9.78
+2012,PT,Portugal,"Health spending, % of GDP",9.71
+2013,PT,Portugal,"Health spending, % of GDP",9.47
+2014,PT,Portugal,"Health spending, % of GDP",9.42
+2015,PT,Portugal,"Health spending, % of GDP",9.42
+2016,PT,Portugal,"Health spending, % of GDP",9.47
+2017,PT,Portugal,"Health spending, % of GDP",9.41
+2018,PT,Portugal,"Health spending, % of GDP",9.5
+2019,PT,Portugal,"Health spending, % of GDP",9.61
+2020,PT,Portugal,"Health spending, % of GDP",10.64
+2021,PT,Portugal,"Health spending, % of GDP",11.22
+2022,PT,Portugal,"Health spending, % of GDP",10.56
+2023,PT,Portugal,"Health spending, % of GDP",9.95
+2024,PT,Portugal,"Health spending, % of GDP",10.2
+2025,PT,Portugal,"Health spending, % of GDP",10.39
+2010,RO,Romania,"Health spending, % of GDP",NA
+2011,RO,Romania,"Health spending, % of GDP",4.47
+2012,RO,Romania,"Health spending, % of GDP",4.51
+2013,RO,Romania,"Health spending, % of GDP",5.22
+2014,RO,Romania,"Health spending, % of GDP",5.03
+2015,RO,Romania,"Health spending, % of GDP",4.94
+2016,RO,Romania,"Health spending, % of GDP",5.08
+2017,RO,Romania,"Health spending, % of GDP",5.19
+2018,RO,Romania,"Health spending, % of GDP",5.55
+2019,RO,Romania,"Health spending, % of GDP",5.74
+2020,RO,Romania,"Health spending, % of GDP",6.24
+2021,RO,Romania,"Health spending, % of GDP",6.49
+2022,RO,Romania,"Health spending, % of GDP",5.82
+2023,RO,Romania,"Health spending, % of GDP",5.76
+2024,RO,Romania,"Health spending, % of GDP",6.16
+2025,RO,Romania,"Health spending, % of GDP",NA
+2010,SI,Slovenia,"Health spending, % of GDP",NA
+2011,SI,Slovenia,"Health spending, % of GDP",NA
+2012,SI,Slovenia,"Health spending, % of GDP",NA
+2013,SI,Slovenia,"Health spending, % of GDP",NA
+2014,SI,Slovenia,"Health spending, % of GDP",8.58
+2015,SI,Slovenia,"Health spending, % of GDP",8.6
+2016,SI,Slovenia,"Health spending, % of GDP",8.57
+2017,SI,Slovenia,"Health spending, % of GDP",8.26
+2018,SI,Slovenia,"Health spending, % of GDP",8.35
+2019,SI,Slovenia,"Health spending, % of GDP",8.57
+2020,SI,Slovenia,"Health spending, % of GDP",9.49
+2021,SI,Slovenia,"Health spending, % of GDP",9.53
+2022,SI,Slovenia,"Health spending, % of GDP",9.63
+2023,SI,Slovenia,"Health spending, % of GDP",9.32
+2024,SI,Slovenia,"Health spending, % of GDP",9.29
+2025,SI,Slovenia,"Health spending, % of GDP",9.71
+2010,SK,Slovakia,"Health spending, % of GDP",NA
+2011,SK,Slovakia,"Health spending, % of GDP",NA
+2012,SK,Slovakia,"Health spending, % of GDP",7.53
+2013,SK,Slovakia,"Health spending, % of GDP",7.48
+2014,SK,Slovakia,"Health spending, % of GDP",6.87
+2015,SK,Slovakia,"Health spending, % of GDP",6.74
+2016,SK,Slovakia,"Health spending, % of GDP",6.94
+2017,SK,Slovakia,"Health spending, % of GDP",6.73
+2018,SK,Slovakia,"Health spending, % of GDP",6.64
+2019,SK,Slovakia,"Health spending, % of GDP",6.91
+2020,SK,Slovakia,"Health spending, % of GDP",7.06
+2021,SK,Slovakia,"Health spending, % of GDP",7.63
+2022,SK,Slovakia,"Health spending, % of GDP",7.71
+2023,SK,Slovakia,"Health spending, % of GDP",7.37
+2024,SK,Slovakia,"Health spending, % of GDP",7.98
+2025,SK,Slovakia,"Health spending, % of GDP",NA
+2010,FI,Finland,"Health spending, % of GDP",9.14
+2011,FI,Finland,"Health spending, % of GDP",9.24
+2012,FI,Finland,"Health spending, % of GDP",9.62
+2013,FI,Finland,"Health spending, % of GDP",9.85
+2014,FI,Finland,"Health spending, % of GDP",9.83
+2015,FI,Finland,"Health spending, % of GDP",9.7
+2016,FI,Finland,"Health spending, % of GDP",9.46
+2017,FI,Finland,"Health spending, % of GDP",9.19
+2018,FI,Finland,"Health spending, % of GDP",9.1
+2019,FI,Finland,"Health spending, % of GDP",9.22
+2020,FI,Finland,"Health spending, % of GDP",9.7
+2021,FI,Finland,"Health spending, % of GDP",9.91
+2022,FI,Finland,"Health spending, % of GDP",9.74
+2023,FI,Finland,"Health spending, % of GDP",10.49
+2024,FI,Finland,"Health spending, % of GDP",10.64
+2025,FI,Finland,"Health spending, % of GDP",NA
+2010,SE,Sweden,"Health spending, % of GDP",8.32
+2011,SE,Sweden,"Health spending, % of GDP",10.5
+2012,SE,Sweden,"Health spending, % of GDP",10.83
+2013,SE,Sweden,"Health spending, % of GDP",10.99
+2014,SE,Sweden,"Health spending, % of GDP",11.07
+2015,SE,Sweden,"Health spending, % of GDP",10.93
+2016,SE,Sweden,"Health spending, % of GDP",10.98
+2017,SE,Sweden,"Health spending, % of GDP",10.96
+2018,SE,Sweden,"Health spending, % of GDP",11.12
+2019,SE,Sweden,"Health spending, % of GDP",10.96
+2020,SE,Sweden,"Health spending, % of GDP",11.44
+2021,SE,Sweden,"Health spending, % of GDP",11.33
+2022,SE,Sweden,"Health spending, % of GDP",10.95
+2023,SE,Sweden,"Health spending, % of GDP",11.24
+2024,SE,Sweden,"Health spending, % of GDP",11.16
+2025,SE,Sweden,"Health spending, % of GDP",10.91
+2010,BE,Belgium,Public share (%),74.64
+2011,BE,Belgium,Public share (%),75.19
+2012,BE,Belgium,Public share (%),75.48
+2013,BE,Belgium,Public share (%),75.16
+2014,BE,Belgium,Public share (%),75.62
+2015,BE,Belgium,Public share (%),75.93
+2016,BE,Belgium,Public share (%),76.25
+2017,BE,Belgium,Public share (%),75.98
+2018,BE,Belgium,Public share (%),75.72
+2019,BE,Belgium,Public share (%),74.4
+2020,BE,Belgium,Public share (%),76.08
+2021,BE,Belgium,Public share (%),75.18
+2022,BE,Belgium,Public share (%),74
+2023,BE,Belgium,Public share (%),73.06
+2024,BE,Belgium,Public share (%),73.39
+2025,BE,Belgium,Public share (%),NA
+2010,BG,Bulgaria,Public share (%),NA
+2011,BG,Bulgaria,Public share (%),54.34
+2012,BG,Bulgaria,Public share (%),51.01
+2013,BG,Bulgaria,Public share (%),56.79
+2014,BG,Bulgaria,Public share (%),58.48
+2015,BG,Bulgaria,Public share (%),56.12
+2016,BG,Bulgaria,Public share (%),55.36
+2017,BG,Bulgaria,Public share (%),56.35
+2018,BG,Bulgaria,Public share (%),59.08
+2019,BG,Bulgaria,Public share (%),60.59
+2020,BG,Bulgaria,Public share (%),63.12
+2021,BG,Bulgaria,Public share (%),64.95
+2022,BG,Bulgaria,Public share (%),63.53
+2023,BG,Bulgaria,Public share (%),63.02
+2024,BG,Bulgaria,Public share (%),64.46
+2025,BG,Bulgaria,Public share (%),NA
+2010,CZ,Czechia,Public share (%),85.26
+2011,CZ,Czechia,Public share (%),84.89
+2012,CZ,Czechia,Public share (%),84.96
+2013,CZ,Czechia,Public share (%),84.8
+2014,CZ,Czechia,Public share (%),84.31
+2015,CZ,Czechia,Public share (%),84.71
+2016,CZ,Czechia,Public share (%),84.85
+2017,CZ,Czechia,Public share (%),84.87
+2018,CZ,Czechia,Public share (%),84.99
+2019,CZ,Czechia,Public share (%),84.87
+2020,CZ,Czechia,Public share (%),88.24
+2021,CZ,Czechia,Public share (%),86.75
+2022,CZ,Czechia,Public share (%),84.97
+2023,CZ,Czechia,Public share (%),84.53
+2024,CZ,Czechia,Public share (%),85.55
+2025,CZ,Czechia,Public share (%),85.55
+2010,DK,Denmark,Public share (%),84.27
+2011,DK,Denmark,Public share (%),83.94
+2012,DK,Denmark,Public share (%),84.37
+2013,DK,Denmark,Public share (%),84.46
+2014,DK,Denmark,Public share (%),84.44
+2015,DK,Denmark,Public share (%),84.26
+2016,DK,Denmark,Public share (%),84.18
+2017,DK,Denmark,Public share (%),83.96
+2018,DK,Denmark,Public share (%),83.75
+2019,DK,Denmark,Public share (%),83.71
+2020,DK,Denmark,Public share (%),84.34
+2021,DK,Denmark,Public share (%),84.51
+2022,DK,Denmark,Public share (%),83.69
+2023,DK,Denmark,Public share (%),82.82
+2024,DK,Denmark,Public share (%),82.71
+2025,DK,Denmark,Public share (%),82.72
+2010,DE,Germany,Public share (%),83.59
+2011,DE,Germany,Public share (%),83.46
+2012,DE,Germany,Public share (%),83.34
+2013,DE,Germany,Public share (%),84.15
+2014,DE,Germany,Public share (%),84.55
+2015,DE,Germany,Public share (%),84.58
+2016,DE,Germany,Public share (%),84.77
+2017,DE,Germany,Public share (%),84.9
+2018,DE,Germany,Public share (%),84.72
+2019,DE,Germany,Public share (%),84.65
+2020,DE,Germany,Public share (%),85.76
+2021,DE,Germany,Public share (%),85.85
+2022,DE,Germany,Public share (%),86.71
+2023,DE,Germany,Public share (%),85.66
+2024,DE,Germany,Public share (%),85.88
+2025,DE,Germany,Public share (%),86.26
+2010,EE,Estonia,Public share (%),75.44
+2011,EE,Estonia,Public share (%),75.74
+2012,EE,Estonia,Public share (%),75.65
+2013,EE,Estonia,Public share (%),74.59
+2014,EE,Estonia,Public share (%),74.81
+2015,EE,Estonia,Public share (%),74.69
+2016,EE,Estonia,Public share (%),74.65
+2017,EE,Estonia,Public share (%),73.57
+2018,EE,Estonia,Public share (%),73.67
+2019,EE,Estonia,Public share (%),74.45
+2020,EE,Estonia,Public share (%),77.1
+2021,EE,Estonia,Public share (%),76.12
+2022,EE,Estonia,Public share (%),74.84
+2023,EE,Estonia,Public share (%),75.84
+2024,EE,Estonia,Public share (%),76.63
+2025,EE,Estonia,Public share (%),75.96
+2010,IE,Ireland,Public share (%),NA
+2011,IE,Ireland,Public share (%),72.05
+2012,IE,Ireland,Public share (%),72.14
+2013,IE,Ireland,Public share (%),71.4
+2014,IE,Ireland,Public share (%),71.18
+2015,IE,Ireland,Public share (%),71.93
+2016,IE,Ireland,Public share (%),72.24
+2017,IE,Ireland,Public share (%),72.75
+2018,IE,Ireland,Public share (%),73.85
+2019,IE,Ireland,Public share (%),74.59
+2020,IE,Ireland,Public share (%),78.3
+2021,IE,Ireland,Public share (%),77.27
+2022,IE,Ireland,Public share (%),77.59
+2023,IE,Ireland,Public share (%),77.45
+2024,IE,Ireland,Public share (%),77.73
+2025,IE,Ireland,Public share (%),77.85
+2010,EL,Greece,Public share (%),NA
+2011,EL,Greece,Public share (%),NA
+2012,EL,Greece,Public share (%),66.25
+2013,EL,Greece,Public share (%),62.9
+2014,EL,Greece,Public share (%),58.86
+2015,EL,Greece,Public share (%),60.04
+2016,EL,Greece,Public share (%),61.64
+2017,EL,Greece,Public share (%),60.74
+2018,EL,Greece,Public share (%),59.35
+2019,EL,Greece,Public share (%),61.64
+2020,EL,Greece,Public share (%),61.98
+2021,EL,Greece,Public share (%),62.27
+2022,EL,Greece,Public share (%),62.17
+2023,EL,Greece,Public share (%),61.14
+2024,EL,Greece,Public share (%),60.62
+2025,EL,Greece,Public share (%),NA
+2010,ES,Spain,Public share (%),73.73
+2011,ES,Spain,Public share (%),72.75
+2012,ES,Spain,Public share (%),71.29
+2013,ES,Spain,Public share (%),70.12
+2014,ES,Spain,Public share (%),69.35
+2015,ES,Spain,Public share (%),70.33
+2016,ES,Spain,Public share (%),70.51
+2017,ES,Spain,Public share (%),69.48
+2018,ES,Spain,Public share (%),69.18
+2019,ES,Spain,Public share (%),69.44
+2020,ES,Spain,Public share (%),72.09
+2021,ES,Spain,Public share (%),72.61
+2022,ES,Spain,Public share (%),72.94
+2023,ES,Spain,Public share (%),73.18
+2024,ES,Spain,Public share (%),72.25
+2025,ES,Spain,Public share (%),NA
+2010,FR,France,Public share (%),74.62
+2011,FR,France,Public share (%),74.35
+2012,FR,France,Public share (%),74.34
+2013,FR,France,Public share (%),74.54
+2014,FR,France,Public share (%),74.66
+2015,FR,France,Public share (%),74.7
+2016,FR,France,Public share (%),81.05
+2017,FR,France,Public share (%),81.2
+2018,FR,France,Public share (%),81.32
+2019,FR,France,Public share (%),81.44
+2020,FR,France,Public share (%),82.91
+2021,FR,France,Public share (%),83.18
+2022,FR,France,Public share (%),83.19
+2023,FR,France,Public share (%),83.33
+2024,FR,France,Public share (%),83.31
+2025,FR,France,Public share (%),83.17
+2010,HR,Croatia,Public share (%),NA
+2011,HR,Croatia,Public share (%),NA
+2012,HR,Croatia,Public share (%),NA
+2013,HR,Croatia,Public share (%),84.86
+2014,HR,Croatia,Public share (%),82.92
+2015,HR,Croatia,Public share (%),82.63
+2016,HR,Croatia,Public share (%),82.52
+2017,HR,Croatia,Public share (%),82.54
+2018,HR,Croatia,Public share (%),82
+2019,HR,Croatia,Public share (%),81.91
+2020,HR,Croatia,Public share (%),84.19
+2021,HR,Croatia,Public share (%),85.5
+2022,HR,Croatia,Public share (%),85.34
+2023,HR,Croatia,Public share (%),84.76
+2024,HR,Croatia,Public share (%),84.92
+2025,HR,Croatia,Public share (%),NA
+2010,IT,Italy,Public share (%),NA
+2011,IT,Italy,Public share (%),NA
+2012,IT,Italy,Public share (%),75.36
+2013,IT,Italy,Public share (%),75.18
+2014,IT,Italy,Public share (%),74.93
+2015,IT,Italy,Public share (%),74.02
+2016,IT,Italy,Public share (%),73.94
+2017,IT,Italy,Public share (%),73.32
+2018,IT,Italy,Public share (%),73.36
+2019,IT,Italy,Public share (%),73.24
+2020,IT,Italy,Public share (%),75.83
+2021,IT,Italy,Public share (%),74.53
+2022,IT,Italy,Public share (%),73.71
+2023,IT,Italy,Public share (%),73.02
+2024,IT,Italy,Public share (%),73.62
+2025,IT,Italy,Public share (%),74.05
+2010,CY,Cyprus,Public share (%),46.14
+2011,CY,Cyprus,Public share (%),47.84
+2012,CY,Cyprus,Public share (%),46.34
+2013,CY,Cyprus,Public share (%),46.09
+2014,CY,Cyprus,Public share (%),43.04
+2015,CY,Cyprus,Public share (%),42.13
+2016,CY,Cyprus,Public share (%),41.9
+2017,CY,Cyprus,Public share (%),41.51
+2018,CY,Cyprus,Public share (%),42.03
+2019,CY,Cyprus,Public share (%),54.2
+2020,CY,Cyprus,Public share (%),71.62
+2021,CY,Cyprus,Public share (%),78.95
+2022,CY,Cyprus,Public share (%),78.14
+2023,CY,Cyprus,Public share (%),77.89
+2024,CY,Cyprus,Public share (%),79.27
+2025,CY,Cyprus,Public share (%),NA
+2010,LV,Latvia,Public share (%),NA
+2011,LV,Latvia,Public share (%),NA
+2012,LV,Latvia,Public share (%),NA
+2013,LV,Latvia,Public share (%),60.01
+2014,LV,Latvia,Public share (%),59.67
+2015,LV,Latvia,Public share (%),58.65
+2016,LV,Latvia,Public share (%),55.87
+2017,LV,Latvia,Public share (%),57.33
+2018,LV,Latvia,Public share (%),59.88
+2019,LV,Latvia,Public share (%),60.12
+2020,LV,Latvia,Public share (%),63.61
+2021,LV,Latvia,Public share (%),69.47
+2022,LV,Latvia,Public share (%),64.91
+2023,LV,Latvia,Public share (%),59.28
+2024,LV,Latvia,Public share (%),62.81
+2025,LV,Latvia,Public share (%),NA
+2010,LT,Lithuania,Public share (%),71.71
+2011,LT,Lithuania,Public share (%),70.99
+2012,LT,Lithuania,Public share (%),67.32
+2013,LT,Lithuania,Public share (%),66.25
+2014,LT,Lithuania,Public share (%),67.56
+2015,LT,Lithuania,Public share (%),67.14
+2016,LT,Lithuania,Public share (%),66.6
+2017,LT,Lithuania,Public share (%),66.14
+2018,LT,Lithuania,Public share (%),67.17
+2019,LT,Lithuania,Public share (%),66.38
+2020,LT,Lithuania,Public share (%),70.17
+2021,LT,Lithuania,Public share (%),68.78
+2022,LT,Lithuania,Public share (%),66.54
+2023,LT,Lithuania,Public share (%),67.31
+2024,LT,Lithuania,Public share (%),68.66
+2025,LT,Lithuania,Public share (%),67.99
+2010,LU,Luxembourg,Public share (%),NA
+2011,LU,Luxembourg,Public share (%),83.16
+2012,LU,Luxembourg,Public share (%),82.85
+2013,LU,Luxembourg,Public share (%),83.09
+2014,LU,Luxembourg,Public share (%),83.48
+2015,LU,Luxembourg,Public share (%),83.66
+2016,LU,Luxembourg,Public share (%),83.61
+2017,LU,Luxembourg,Public share (%),83.95
+2018,LU,Luxembourg,Public share (%),84.08
+2019,LU,Luxembourg,Public share (%),84.96
+2020,LU,Luxembourg,Public share (%),86.49
+2021,LU,Luxembourg,Public share (%),86.17
+2022,LU,Luxembourg,Public share (%),86.11
+2023,LU,Luxembourg,Public share (%),85.58
+2024,LU,Luxembourg,Public share (%),85.78
+2025,LU,Luxembourg,Public share (%),86.06
+2010,HU,Hungary,Public share (%),67.08
+2011,HU,Hungary,Public share (%),66.5
+2012,HU,Hungary,Public share (%),65.51
+2013,HU,Hungary,Public share (%),66.62
+2014,HU,Hungary,Public share (%),67.08
+2015,HU,Hungary,Public share (%),68.17
+2016,HU,Hungary,Public share (%),68.08
+2017,HU,Hungary,Public share (%),68.9
+2018,HU,Hungary,Public share (%),69.55
+2019,HU,Hungary,Public share (%),68.67
+2020,HU,Hungary,Public share (%),70.79
+2021,HU,Hungary,Public share (%),72.45
+2022,HU,Hungary,Public share (%),72.97
+2023,HU,Hungary,Public share (%),73.67
+2024,HU,Hungary,Public share (%),73.84
+2025,HU,Hungary,Public share (%),73.84
+2010,MT,Malta,Public share (%),NA
+2011,MT,Malta,Public share (%),NA
+2012,MT,Malta,Public share (%),NA
+2013,MT,Malta,Public share (%),NA
+2014,MT,Malta,Public share (%),61.32
+2015,MT,Malta,Public share (%),60.57
+2016,MT,Malta,Public share (%),63.03
+2017,MT,Malta,Public share (%),62.9
+2018,MT,Malta,Public share (%),63.48
+2019,MT,Malta,Public share (%),62.51
+2020,MT,Malta,Public share (%),66.69
+2021,MT,Malta,Public share (%),67.37
+2022,MT,Malta,Public share (%),67.01
+2023,MT,Malta,Public share (%),66.02
+2024,MT,Malta,Public share (%),67.46
+2025,MT,Malta,Public share (%),NA
+2010,NL,Netherlands,Public share (%),83.38
+2011,NL,Netherlands,Public share (%),82.66
+2012,NL,Netherlands,Public share (%),82.11
+2013,NL,Netherlands,Public share (%),81.15
+2014,NL,Netherlands,Public share (%),81.08
+2015,NL,Netherlands,Public share (%),81.38
+2016,NL,Netherlands,Public share (%),81.19
+2017,NL,Netherlands,Public share (%),81.69
+2018,NL,Netherlands,Public share (%),82.11
+2019,NL,Netherlands,Public share (%),82.8
+2020,NL,Netherlands,Public share (%),84.97
+2021,NL,Netherlands,Public share (%),83.76
+2022,NL,Netherlands,Public share (%),82.92
+2023,NL,Netherlands,Public share (%),82.54
+2024,NL,Netherlands,Public share (%),83.04
+2025,NL,Netherlands,Public share (%),83.11
+2010,AT,Austria,Public share (%),74.46
+2011,AT,Austria,Public share (%),74.37
+2012,AT,Austria,Public share (%),74.51
+2013,AT,Austria,Public share (%),73.85
+2014,AT,Austria,Public share (%),73.78
+2015,AT,Austria,Public share (%),73.61
+2016,AT,Austria,Public share (%),73.35
+2017,AT,Austria,Public share (%),73.2
+2018,AT,Austria,Public share (%),73.95
+2019,AT,Austria,Public share (%),74.41
+2020,AT,Austria,Public share (%),76.41
+2021,AT,Austria,Public share (%),77.75
+2022,AT,Austria,Public share (%),77.2
+2023,AT,Austria,Public share (%),76.16
+2024,AT,Austria,Public share (%),75.72
+2025,AT,Austria,Public share (%),75.62
+2010,PL,Poland,Public share (%),NA
+2011,PL,Poland,Public share (%),NA
+2012,PL,Poland,Public share (%),NA
+2013,PL,Poland,Public share (%),70.66
+2014,PL,Poland,Public share (%),70.66
+2015,PL,Poland,Public share (%),69.99
+2016,PL,Poland,Public share (%),69.85
+2017,PL,Poland,Public share (%),69.29
+2018,PL,Poland,Public share (%),71.49
+2019,PL,Poland,Public share (%),71.78
+2020,PL,Poland,Public share (%),72.27
+2021,PL,Poland,Public share (%),73.17
+2022,PL,Poland,Public share (%),74.96
+2023,PL,Poland,Public share (%),77.57
+2024,PL,Poland,Public share (%),76.92
+2025,PL,Poland,Public share (%),NA
+2010,PT,Portugal,Public share (%),66.38
+2011,PT,Portugal,Public share (%),64.38
+2012,PT,Portugal,Public share (%),61.14
+2013,PT,Portugal,Public share (%),62.09
+2014,PT,Portugal,Public share (%),61.5
+2015,PT,Portugal,Public share (%),61.4
+2016,PT,Portugal,Public share (%),61.4
+2017,PT,Portugal,Public share (%),60.98
+2018,PT,Portugal,Public share (%),60.91
+2019,PT,Portugal,Public share (%),60.81
+2020,PT,Portugal,Public share (%),63.96
+2021,PT,Portugal,Public share (%),62.52
+2022,PT,Portugal,Public share (%),62.44
+2023,PT,Portugal,Public share (%),61.49
+2024,PT,Portugal,Public share (%),61.88
+2025,PT,Portugal,Public share (%),62.65
+2010,RO,Romania,Public share (%),NA
+2011,RO,Romania,Public share (%),75.25
+2012,RO,Romania,Public share (%),76.92
+2013,RO,Romania,Public share (%),79.34
+2014,RO,Romania,Public share (%),79
+2015,RO,Romania,Public share (%),78.02
+2016,RO,Romania,Public share (%),78.33
+2017,RO,Romania,Public share (%),78.65
+2018,RO,Romania,Public share (%),79.73
+2019,RO,Romania,Public share (%),80.45
+2020,RO,Romania,Public share (%),80.27
+2021,RO,Romania,Public share (%),78.33
+2022,RO,Romania,Public share (%),77.79
+2023,RO,Romania,Public share (%),76.24
+2024,RO,Romania,Public share (%),77.28
+2025,RO,Romania,Public share (%),NA
+2010,SI,Slovenia,Public share (%),NA
+2011,SI,Slovenia,Public share (%),NA
+2012,SI,Slovenia,Public share (%),NA
+2013,SI,Slovenia,Public share (%),NA
+2014,SI,Slovenia,Public share (%),71.11
+2015,SI,Slovenia,Public share (%),71.81
+2016,SI,Slovenia,Public share (%),72.73
+2017,SI,Slovenia,Public share (%),72.2
+2018,SI,Slovenia,Public share (%),72.82
+2019,SI,Slovenia,Public share (%),72.78
+2020,SI,Slovenia,Public share (%),73.17
+2021,SI,Slovenia,Public share (%),73.78
+2022,SI,Slovenia,Public share (%),73.97
+2023,SI,Slovenia,Public share (%),73.33
+2024,SI,Slovenia,Public share (%),85.51
+2025,SI,Slovenia,Public share (%),85.71
+2010,SK,Slovakia,Public share (%),NA
+2011,SK,Slovakia,Public share (%),NA
+2012,SK,Slovakia,Public share (%),72.17
+2013,SK,Slovakia,Public share (%),74.21
+2014,SK,Slovakia,Public share (%),80.23
+2015,SK,Slovakia,Public share (%),79.72
+2016,SK,Slovakia,Public share (%),80.36
+2017,SK,Slovakia,Public share (%),79.94
+2018,SK,Slovakia,Public share (%),80.13
+2019,SK,Slovakia,Public share (%),79.79
+2020,SK,Slovakia,Public share (%),80.27
+2021,SK,Slovakia,Public share (%),79.73
+2022,SK,Slovakia,Public share (%),79.88
+2023,SK,Slovakia,Public share (%),78.95
+2024,SK,Slovakia,Public share (%),78.98
+2025,SK,Slovakia,Public share (%),NA
+2010,FI,Finland,Public share (%),77.08
+2011,FI,Finland,Public share (%),77.61
+2012,FI,Finland,Public share (%),78.19
+2013,FI,Finland,Public share (%),77.95
+2014,FI,Finland,Public share (%),78.02
+2015,FI,Finland,Public share (%),76.94
+2016,FI,Finland,Public share (%),76.23
+2017,FI,Finland,Public share (%),76.42
+2018,FI,Finland,Public share (%),76.96
+2019,FI,Finland,Public share (%),77.87
+2020,FI,Finland,Public share (%),79.06
+2021,FI,Finland,Public share (%),79.16
+2022,FI,Finland,Public share (%),79.59
+2023,FI,Finland,Public share (%),80.82
+2024,FI,Finland,Public share (%),80.36
+2025,FI,Finland,Public share (%),NA
+2010,SE,Sweden,Public share (%),82.35
+2011,SE,Sweden,Public share (%),84.51
+2012,SE,Sweden,Public share (%),84.23
+2013,SE,Sweden,Public share (%),84.03
+2014,SE,Sweden,Public share (%),84.01
+2015,SE,Sweden,Public share (%),83.81
+2016,SE,Sweden,Public share (%),84.1
+2017,SE,Sweden,Public share (%),84.55
+2018,SE,Sweden,Public share (%),84.5
+2019,SE,Sweden,Public share (%),84.89
+2020,SE,Sweden,Public share (%),86.07
+2021,SE,Sweden,Public share (%),85.79
+2022,SE,Sweden,Public share (%),85.86
+2023,SE,Sweden,Public share (%),86.23
+2024,SE,Sweden,Public share (%),86.06
+2025,SE,Sweden,Public share (%),85.57
+2010,BE,Belgium,Out-of-pocket share (%),21.33
+2011,BE,Belgium,Out-of-pocket share (%),20.53
+2012,BE,Belgium,Out-of-pocket share (%),20.38
+2013,BE,Belgium,Out-of-pocket share (%),20.52
+2014,BE,Belgium,Out-of-pocket share (%),19.97
+2015,BE,Belgium,Out-of-pocket share (%),19.4
+2016,BE,Belgium,Out-of-pocket share (%),18.91
+2017,BE,Belgium,Out-of-pocket share (%),19.09
+2018,BE,Belgium,Out-of-pocket share (%),19.34
+2019,BE,Belgium,Out-of-pocket share (%),20.57
+2020,BE,Belgium,Out-of-pocket share (%),19.27
+2021,BE,Belgium,Out-of-pocket share (%),20.29
+2022,BE,Belgium,Out-of-pocket share (%),21.25
+2023,BE,Belgium,Out-of-pocket share (%),22.08
+2024,BE,Belgium,Out-of-pocket share (%),21.78
+2025,BE,Belgium,Out-of-pocket share (%),NA
+2010,BG,Bulgaria,Out-of-pocket share (%),NA
+2011,BG,Bulgaria,Out-of-pocket share (%),44.46
+2012,BG,Bulgaria,Out-of-pocket share (%),47.74
+2013,BG,Bulgaria,Out-of-pocket share (%),41.86
+2014,BG,Bulgaria,Out-of-pocket share (%),40.24
+2015,BG,Bulgaria,Out-of-pocket share (%),42.51
+2016,BG,Bulgaria,Out-of-pocket share (%),43.25
+2017,BG,Bulgaria,Out-of-pocket share (%),42.19
+2018,BG,Bulgaria,Out-of-pocket share (%),39.33
+2019,BG,Bulgaria,Out-of-pocket share (%),37.8
+2020,BG,Bulgaria,Out-of-pocket share (%),35.53
+2021,BG,Bulgaria,Out-of-pocket share (%),33.73
+2022,BG,Bulgaria,Out-of-pocket share (%),35.08
+2023,BG,Bulgaria,Out-of-pocket share (%),35.5
+2024,BG,Bulgaria,Out-of-pocket share (%),34.11
+2025,BG,Bulgaria,Out-of-pocket share (%),NA
+2010,CZ,Czechia,Out-of-pocket share (%),13.85
+2011,CZ,Czechia,Out-of-pocket share (%),14.21
+2012,CZ,Czechia,Out-of-pocket share (%),14.22
+2013,CZ,Czechia,Out-of-pocket share (%),14.33
+2014,CZ,Czechia,Out-of-pocket share (%),14.46
+2015,CZ,Czechia,Out-of-pocket share (%),14.51
+2016,CZ,Czechia,Out-of-pocket share (%),14.29
+2017,CZ,Czechia,Out-of-pocket share (%),14.14
+2018,CZ,Czechia,Out-of-pocket share (%),14.16
+2019,CZ,Czechia,Out-of-pocket share (%),14.31
+2020,CZ,Czechia,Out-of-pocket share (%),11.08
+2021,CZ,Czechia,Out-of-pocket share (%),12.48
+2022,CZ,Czechia,Out-of-pocket share (%),14.29
+2023,CZ,Czechia,Out-of-pocket share (%),14.6
+2024,CZ,Czechia,Out-of-pocket share (%),13.56
+2025,CZ,Czechia,Out-of-pocket share (%),13.57
+2010,DK,Denmark,Out-of-pocket share (%),13.71
+2011,DK,Denmark,Out-of-pocket share (%),13.9
+2012,DK,Denmark,Out-of-pocket share (%),13.51
+2013,DK,Denmark,Out-of-pocket share (%),13.35
+2014,DK,Denmark,Out-of-pocket share (%),13.34
+2015,DK,Denmark,Out-of-pocket share (%),13.46
+2016,DK,Denmark,Out-of-pocket share (%),13.52
+2017,DK,Denmark,Out-of-pocket share (%),13.69
+2018,DK,Denmark,Out-of-pocket share (%),13.82
+2019,DK,Denmark,Out-of-pocket share (%),13.79
+2020,DK,Denmark,Out-of-pocket share (%),13.38
+2021,DK,Denmark,Out-of-pocket share (%),13.3
+2022,DK,Denmark,Out-of-pocket share (%),13.95
+2023,DK,Denmark,Out-of-pocket share (%),14.46
+2024,DK,Denmark,Out-of-pocket share (%),14.61
+2025,DK,Denmark,Out-of-pocket share (%),14.55
+2010,DE,Germany,Out-of-pocket share (%),13.3
+2011,DE,Germany,Out-of-pocket share (%),13.32
+2012,DE,Germany,Out-of-pocket share (%),13.49
+2013,DE,Germany,Out-of-pocket share (%),12.69
+2014,DE,Germany,Out-of-pocket share (%),12.35
+2015,DE,Germany,Out-of-pocket share (%),12.35
+2016,DE,Germany,Out-of-pocket share (%),12.19
+2017,DE,Germany,Out-of-pocket share (%),12.02
+2018,DE,Germany,Out-of-pocket share (%),12.18
+2019,DE,Germany,Out-of-pocket share (%),12.38
+2020,DE,Germany,Out-of-pocket share (%),11.35
+2021,DE,Germany,Out-of-pocket share (%),11.37
+2022,DE,Germany,Out-of-pocket share (%),10.4
+2023,DE,Germany,Out-of-pocket share (%),11.32
+2024,DE,Germany,Out-of-pocket share (%),11.1
+2025,DE,Germany,Out-of-pocket share (%),10.76
+2010,EE,Estonia,Out-of-pocket share (%),22.81
+2011,EE,Estonia,Out-of-pocket share (%),22.53
+2012,EE,Estonia,Out-of-pocket share (%),22.54
+2013,EE,Estonia,Out-of-pocket share (%),23.61
+2014,EE,Estonia,Out-of-pocket share (%),23.52
+2015,EE,Estonia,Out-of-pocket share (%),23.72
+2016,EE,Estonia,Out-of-pocket share (%),23.74
+2017,EE,Estonia,Out-of-pocket share (%),24.81
+2018,EE,Estonia,Out-of-pocket share (%),24.51
+2019,EE,Estonia,Out-of-pocket share (%),23.92
+2020,EE,Estonia,Out-of-pocket share (%),21.43
+2021,EE,Estonia,Out-of-pocket share (%),22.15
+2022,EE,Estonia,Out-of-pocket share (%),23.14
+2023,EE,Estonia,Out-of-pocket share (%),22.1
+2024,EE,Estonia,Out-of-pocket share (%),21.1
+2025,EE,Estonia,Out-of-pocket share (%),21.54
+2010,IE,Ireland,Out-of-pocket share (%),NA
+2011,IE,Ireland,Out-of-pocket share (%),13.7
+2012,IE,Ireland,Out-of-pocket share (%),13.41
+2013,IE,Ireland,Out-of-pocket share (%),13.73
+2014,IE,Ireland,Out-of-pocket share (%),13.89
+2015,IE,Ireland,Out-of-pocket share (%),13.59
+2016,IE,Ireland,Out-of-pocket share (%),13.41
+2017,IE,Ireland,Out-of-pocket share (%),12.97
+2018,IE,Ireland,Out-of-pocket share (%),12.46
+2019,IE,Ireland,Out-of-pocket share (%),12.36
+2020,IE,Ireland,Out-of-pocket share (%),11.22
+2021,IE,Ireland,Out-of-pocket share (%),11.17
+2022,IE,Ireland,Out-of-pocket share (%),11.25
+2023,IE,Ireland,Out-of-pocket share (%),11.1
+2024,IE,Ireland,Out-of-pocket share (%),10.6
+2025,IE,Ireland,Out-of-pocket share (%),10.15
+2010,EL,Greece,Out-of-pocket share (%),NA
+2011,EL,Greece,Out-of-pocket share (%),NA
+2012,EL,Greece,Out-of-pocket share (%),30.45
+2013,EL,Greece,Out-of-pocket share (%),33.74
+2014,EL,Greece,Out-of-pocket share (%),37.2
+2015,EL,Greece,Out-of-pocket share (%),36.03
+2016,EL,Greece,Out-of-pocket share (%),34.31
+2017,EL,Greece,Out-of-pocket share (%),35
+2018,EL,Greece,Out-of-pocket share (%),36.08
+2019,EL,Greece,Out-of-pocket share (%),33.64
+2020,EL,Greece,Out-of-pocket share (%),33.45
+2021,EL,Greece,Out-of-pocket share (%),33.32
+2022,EL,Greece,Out-of-pocket share (%),33.54
+2023,EL,Greece,Out-of-pocket share (%),34.3
+2024,EL,Greece,Out-of-pocket share (%),34.24
+2025,EL,Greece,Out-of-pocket share (%),NA
+2010,ES,Spain,Out-of-pocket share (%),21.37
+2011,ES,Spain,Out-of-pocket share (%),21.66
+2012,ES,Spain,Out-of-pocket share (%),23.17
+2013,ES,Spain,Out-of-pocket share (%),24.24
+2014,ES,Spain,Out-of-pocket share (%),24.65
+2015,ES,Spain,Out-of-pocket share (%),23.87
+2016,ES,Spain,Out-of-pocket share (%),23.62
+2017,ES,Spain,Out-of-pocket share (%),24.09
+2018,ES,Spain,Out-of-pocket share (%),24.15
+2019,ES,Spain,Out-of-pocket share (%),23.85
+2020,ES,Spain,Out-of-pocket share (%),21.66
+2021,ES,Spain,Out-of-pocket share (%),21.3
+2022,ES,Spain,Out-of-pocket share (%),21.03
+2023,ES,Spain,Out-of-pocket share (%),20.86
+2024,ES,Spain,Out-of-pocket share (%),21.47
+2025,ES,Spain,Out-of-pocket share (%),NA
+2010,FR,France,Out-of-pocket share (%),11.96
+2011,FR,France,Out-of-pocket share (%),11.95
+2012,FR,France,Out-of-pocket share (%),11.88
+2013,FR,France,Out-of-pocket share (%),11.77
+2014,FR,France,Out-of-pocket share (%),11.76
+2015,FR,France,Out-of-pocket share (%),11.73
+2016,FR,France,Out-of-pocket share (%),11.57
+2017,FR,France,Out-of-pocket share (%),11.62
+2018,FR,France,Out-of-pocket share (%),11.49
+2019,FR,France,Out-of-pocket share (%),11.55
+2020,FR,France,Out-of-pocket share (%),10.68
+2021,FR,France,Out-of-pocket share (%),10.3
+2022,FR,France,Out-of-pocket share (%),10.38
+2023,FR,France,Out-of-pocket share (%),10.21
+2024,FR,France,Out-of-pocket share (%),10.17
+2025,FR,France,Out-of-pocket share (%),10.32
+2010,HR,Croatia,Out-of-pocket share (%),NA
+2011,HR,Croatia,Out-of-pocket share (%),NA
+2012,HR,Croatia,Out-of-pocket share (%),NA
+2013,HR,Croatia,Out-of-pocket share (%),8.83
+2014,HR,Croatia,Out-of-pocket share (%),11.28
+2015,HR,Croatia,Out-of-pocket share (%),10.95
+2016,HR,Croatia,Out-of-pocket share (%),10.97
+2017,HR,Croatia,Out-of-pocket share (%),10.97
+2018,HR,Croatia,Out-of-pocket share (%),11.39
+2019,HR,Croatia,Out-of-pocket share (%),11.46
+2020,HR,Croatia,Out-of-pocket share (%),10.45
+2021,HR,Croatia,Out-of-pocket share (%),9.4
+2022,HR,Croatia,Out-of-pocket share (%),9.19
+2023,HR,Croatia,Out-of-pocket share (%),9.49
+2024,HR,Croatia,Out-of-pocket share (%),8.6
+2025,HR,Croatia,Out-of-pocket share (%),NA
+2010,IT,Italy,Out-of-pocket share (%),NA
+2011,IT,Italy,Out-of-pocket share (%),NA
+2012,IT,Italy,Out-of-pocket share (%),22.55
+2013,IT,Italy,Out-of-pocket share (%),22.74
+2014,IT,Italy,Out-of-pocket share (%),22.96
+2015,IT,Italy,Out-of-pocket share (%),23.8
+2016,IT,Italy,Out-of-pocket share (%),23.69
+2017,IT,Italy,Out-of-pocket share (%),24.13
+2018,IT,Italy,Out-of-pocket share (%),23.97
+2019,IT,Italy,Out-of-pocket share (%),23.87
+2020,IT,Italy,Out-of-pocket share (%),21.48
+2021,IT,Italy,Out-of-pocket share (%),22.81
+2022,IT,Italy,Out-of-pocket share (%),23.32
+2023,IT,Italy,Out-of-pocket share (%),23.7
+2024,IT,Italy,Out-of-pocket share (%),22.98
+2025,IT,Italy,Out-of-pocket share (%),22.28
+2010,CY,Cyprus,Out-of-pocket share (%),43.11
+2011,CY,Cyprus,Out-of-pocket share (%),41.37
+2012,CY,Cyprus,Out-of-pocket share (%),42.37
+2013,CY,Cyprus,Out-of-pocket share (%),42.6
+2014,CY,Cyprus,Out-of-pocket share (%),45.11
+2015,CY,Cyprus,Out-of-pocket share (%),43.62
+2016,CY,Cyprus,Out-of-pocket share (%),44.61
+2017,CY,Cyprus,Out-of-pocket share (%),44.76
+2018,CY,Cyprus,Out-of-pocket share (%),44.36
+2019,CY,Cyprus,Out-of-pocket share (%),33.73
+2020,CY,Cyprus,Out-of-pocket share (%),21.37
+2021,CY,Cyprus,Out-of-pocket share (%),16.23
+2022,CY,Cyprus,Out-of-pocket share (%),16.87
+2023,CY,Cyprus,Out-of-pocket share (%),17.44
+2024,CY,Cyprus,Out-of-pocket share (%),16.95
+2025,CY,Cyprus,Out-of-pocket share (%),NA
+2010,LV,Latvia,Out-of-pocket share (%),NA
+2011,LV,Latvia,Out-of-pocket share (%),NA
+2012,LV,Latvia,Out-of-pocket share (%),NA
+2013,LV,Latvia,Out-of-pocket share (%),38.47
+2014,LV,Latvia,Out-of-pocket share (%),39.11
+2015,LV,Latvia,Out-of-pocket share (%),40.45
+2016,LV,Latvia,Out-of-pocket share (%),43.32
+2017,LV,Latvia,Out-of-pocket share (%),41.79
+2018,LV,Latvia,Out-of-pocket share (%),39.18
+2019,LV,Latvia,Out-of-pocket share (%),35.11
+2020,LV,Latvia,Out-of-pocket share (%),31.87
+2021,LV,Latvia,Out-of-pocket share (%),26.98
+2022,LV,Latvia,Out-of-pocket share (%),30.74
+2023,LV,Latvia,Out-of-pocket share (%),35.45
+2024,LV,Latvia,Out-of-pocket share (%),31.95
+2025,LV,Latvia,Out-of-pocket share (%),NA
+2010,LT,Lithuania,Out-of-pocket share (%),27.59
+2011,LT,Lithuania,Out-of-pocket share (%),28.22
+2012,LT,Lithuania,Out-of-pocket share (%),31.8
+2013,LT,Lithuania,Out-of-pocket share (%),32.82
+2014,LT,Lithuania,Out-of-pocket share (%),31.49
+2015,LT,Lithuania,Out-of-pocket share (%),31.84
+2016,LT,Lithuania,Out-of-pocket share (%),32.32
+2017,LT,Lithuania,Out-of-pocket share (%),32.64
+2018,LT,Lithuania,Out-of-pocket share (%),31.52
+2019,LT,Lithuania,Out-of-pocket share (%),32.27
+2020,LT,Lithuania,Out-of-pocket share (%),28.66
+2021,LT,Lithuania,Out-of-pocket share (%),29.93
+2022,LT,Lithuania,Out-of-pocket share (%),31.8
+2023,LT,Lithuania,Out-of-pocket share (%),31.02
+2024,LT,Lithuania,Out-of-pocket share (%),29.67
+2025,LT,Lithuania,Out-of-pocket share (%),30.34
+2010,LU,Luxembourg,Out-of-pocket share (%),NA
+2011,LU,Luxembourg,Out-of-pocket share (%),10.88
+2012,LU,Luxembourg,Out-of-pocket share (%),11.47
+2013,LU,Luxembourg,Out-of-pocket share (%),11.2
+2014,LU,Luxembourg,Out-of-pocket share (%),11.07
+2015,LU,Luxembourg,Out-of-pocket share (%),10.72
+2016,LU,Luxembourg,Out-of-pocket share (%),10.74
+2017,LU,Luxembourg,Out-of-pocket share (%),10.66
+2018,LU,Luxembourg,Out-of-pocket share (%),10.44
+2019,LU,Luxembourg,Out-of-pocket share (%),9.59
+2020,LU,Luxembourg,Out-of-pocket share (%),8.39
+2021,LU,Luxembourg,Out-of-pocket share (%),8.8
+2022,LU,Luxembourg,Out-of-pocket share (%),8.67
+2023,LU,Luxembourg,Out-of-pocket share (%),8.77
+2024,LU,Luxembourg,Out-of-pocket share (%),8.75
+2025,LU,Luxembourg,Out-of-pocket share (%),8.44
+2010,HU,Hungary,Out-of-pocket share (%),27.45
+2011,HU,Hungary,Out-of-pocket share (%),28.24
+2012,HU,Hungary,Out-of-pocket share (%),29.4
+2013,HU,Hungary,Out-of-pocket share (%),28.38
+2014,HU,Hungary,Out-of-pocket share (%),28.36
+2015,HU,Hungary,Out-of-pocket share (%),27.49
+2016,HU,Hungary,Out-of-pocket share (%),27.69
+2017,HU,Hungary,Out-of-pocket share (%),27.25
+2018,HU,Hungary,Out-of-pocket share (%),26.79
+2019,HU,Hungary,Out-of-pocket share (%),27.79
+2020,HU,Hungary,Out-of-pocket share (%),26.15
+2021,HU,Hungary,Out-of-pocket share (%),24.64
+2022,HU,Hungary,Out-of-pocket share (%),24.01
+2023,HU,Hungary,Out-of-pocket share (%),23.1
+2024,HU,Hungary,Out-of-pocket share (%),22.8
+2025,HU,Hungary,Out-of-pocket share (%),26.16
+2010,MT,Malta,Out-of-pocket share (%),NA
+2011,MT,Malta,Out-of-pocket share (%),NA
+2012,MT,Malta,Out-of-pocket share (%),NA
+2013,MT,Malta,Out-of-pocket share (%),NA
+2014,MT,Malta,Out-of-pocket share (%),36.76
+2015,MT,Malta,Out-of-pocket share (%),37.47
+2016,MT,Malta,Out-of-pocket share (%),35.14
+2017,MT,Malta,Out-of-pocket share (%),35.22
+2018,MT,Malta,Out-of-pocket share (%),34.3
+2019,MT,Malta,Out-of-pocket share (%),34.13
+2020,MT,Malta,Out-of-pocket share (%),30.3
+2021,MT,Malta,Out-of-pocket share (%),29.67
+2022,MT,Malta,Out-of-pocket share (%),30.02
+2023,MT,Malta,Out-of-pocket share (%),30.93
+2024,MT,Malta,Out-of-pocket share (%),29.62
+2025,MT,Malta,Out-of-pocket share (%),NA
+2010,NL,Netherlands,Out-of-pocket share (%),9.1
+2011,NL,Netherlands,Out-of-pocket share (%),9.48
+2012,NL,Netherlands,Out-of-pocket share (%),10.09
+2013,NL,Netherlands,Out-of-pocket share (%),11.53
+2014,NL,Netherlands,Out-of-pocket share (%),11.59
+2015,NL,Netherlands,Out-of-pocket share (%),11.29
+2016,NL,Netherlands,Out-of-pocket share (%),11.28
+2017,NL,Netherlands,Out-of-pocket share (%),11.05
+2018,NL,Netherlands,Out-of-pocket share (%),10.79
+2019,NL,Netherlands,Out-of-pocket share (%),10.42
+2020,NL,Netherlands,Out-of-pocket share (%),9.28
+2021,NL,Netherlands,Out-of-pocket share (%),10.97
+2022,NL,Netherlands,Out-of-pocket share (%),11.89
+2023,NL,Netherlands,Out-of-pocket share (%),12.2
+2024,NL,Netherlands,Out-of-pocket share (%),11.85
+2025,NL,Netherlands,Out-of-pocket share (%),11.92
+2010,AT,Austria,Out-of-pocket share (%),19.24
+2011,AT,Austria,Out-of-pocket share (%),19.31
+2012,AT,Austria,Out-of-pocket share (%),19.14
+2013,AT,Austria,Out-of-pocket share (%),19.6
+2014,AT,Austria,Out-of-pocket share (%),19.61
+2015,AT,Austria,Out-of-pocket share (%),19.85
+2016,AT,Austria,Out-of-pocket share (%),20.05
+2017,AT,Austria,Out-of-pocket share (%),20.11
+2018,AT,Austria,Out-of-pocket share (%),19.29
+2019,AT,Austria,Out-of-pocket share (%),18.76
+2020,AT,Austria,Out-of-pocket share (%),17.17
+2021,AT,Austria,Out-of-pocket share (%),16.03
+2022,AT,Austria,Out-of-pocket share (%),16.26
+2023,AT,Austria,Out-of-pocket share (%),16.79
+2024,AT,Austria,Out-of-pocket share (%),16.72
+2025,AT,Austria,Out-of-pocket share (%),16.65
+2010,PL,Poland,Out-of-pocket share (%),NA
+2011,PL,Poland,Out-of-pocket share (%),NA
+2012,PL,Poland,Out-of-pocket share (%),NA
+2013,PL,Poland,Out-of-pocket share (%),23.65
+2014,PL,Poland,Out-of-pocket share (%),23.13
+2015,PL,Poland,Out-of-pocket share (%),23.25
+2016,PL,Poland,Out-of-pocket share (%),22.94
+2017,PL,Poland,Out-of-pocket share (%),22.74
+2018,PL,Poland,Out-of-pocket share (%),20.42
+2019,PL,Poland,Out-of-pocket share (%),20.09
+2020,PL,Poland,Out-of-pocket share (%),19.53
+2021,PL,Poland,Out-of-pocket share (%),19.59
+2022,PL,Poland,Out-of-pocket share (%),17.95
+2023,PL,Poland,Out-of-pocket share (%),15.85
+2024,PL,Poland,Out-of-pocket share (%),16.57
+2025,PL,Poland,Out-of-pocket share (%),NA
+2010,PT,Portugal,Out-of-pocket share (%),24.76
+2011,PT,Portugal,Out-of-pocket share (%),26.7
+2012,PT,Portugal,Out-of-pocket share (%),29.66
+2013,PT,Portugal,Out-of-pocket share (%),28.94
+2014,PT,Portugal,Out-of-pocket share (%),29.51
+2015,PT,Portugal,Out-of-pocket share (%),29.7
+2016,PT,Portugal,Out-of-pocket share (%),29.5
+2017,PT,Portugal,Out-of-pocket share (%),29.78
+2018,PT,Portugal,Out-of-pocket share (%),30.14
+2019,PT,Portugal,Out-of-pocket share (%),30.2
+2020,PT,Portugal,Out-of-pocket share (%),27.61
+2021,PT,Portugal,Out-of-pocket share (%),29.14
+2022,PT,Portugal,Out-of-pocket share (%),29.13
+2023,PT,Portugal,Out-of-pocket share (%),29.37
+2024,PT,Portugal,Out-of-pocket share (%),28.67
+2025,PT,Portugal,Out-of-pocket share (%),27.77
+2010,RO,Romania,Out-of-pocket share (%),NA
+2011,RO,Romania,Out-of-pocket share (%),24.28
+2012,RO,Romania,Out-of-pocket share (%),22.43
+2013,RO,Romania,Out-of-pocket share (%),20.18
+2014,RO,Romania,Out-of-pocket share (%),20.31
+2015,RO,Romania,Out-of-pocket share (%),21.28
+2016,RO,Romania,Out-of-pocket share (%),20.75
+2017,RO,Romania,Out-of-pocket share (%),20.49
+2018,RO,Romania,Out-of-pocket share (%),19.46
+2019,RO,Romania,Out-of-pocket share (%),18.88
+2020,RO,Romania,Out-of-pocket share (%),19.03
+2021,RO,Romania,Out-of-pocket share (%),20.94
+2022,RO,Romania,Out-of-pocket share (%),21.42
+2023,RO,Romania,Out-of-pocket share (%),22.96
+2024,RO,Romania,Out-of-pocket share (%),21.98
+2025,RO,Romania,Out-of-pocket share (%),NA
+2010,SI,Slovenia,Out-of-pocket share (%),NA
+2011,SI,Slovenia,Out-of-pocket share (%),NA
+2012,SI,Slovenia,Out-of-pocket share (%),NA
+2013,SI,Slovenia,Out-of-pocket share (%),NA
+2014,SI,Slovenia,Out-of-pocket share (%),12.98
+2015,SI,Slovenia,Out-of-pocket share (%),12.47
+2016,SI,Slovenia,Out-of-pocket share (%),11.98
+2017,SI,Slovenia,Out-of-pocket share (%),12.32
+2018,SI,Slovenia,Out-of-pocket share (%),11.98
+2019,SI,Slovenia,Out-of-pocket share (%),11.66
+2020,SI,Slovenia,Out-of-pocket share (%),12.47
+2021,SI,Slovenia,Out-of-pocket share (%),12.88
+2022,SI,Slovenia,Out-of-pocket share (%),12.43
+2023,SI,Slovenia,Out-of-pocket share (%),12.35
+2024,SI,Slovenia,Out-of-pocket share (%),12.88
+2025,SI,Slovenia,Out-of-pocket share (%),12.29
+2010,SK,Slovakia,Out-of-pocket share (%),NA
+2011,SK,Slovakia,Out-of-pocket share (%),NA
+2012,SK,Slovakia,Out-of-pocket share (%),23.23
+2013,SK,Slovakia,Out-of-pocket share (%),23.32
+2014,SK,Slovakia,Out-of-pocket share (%),18.01
+2015,SK,Slovakia,Out-of-pocket share (%),18.44
+2016,SK,Slovakia,Out-of-pocket share (%),18.19
+2017,SK,Slovakia,Out-of-pocket share (%),18.71
+2018,SK,Slovakia,Out-of-pocket share (%),18.91
+2019,SK,Slovakia,Out-of-pocket share (%),19.16
+2020,SK,Slovakia,Out-of-pocket share (%),18.75
+2021,SK,Slovakia,Out-of-pocket share (%),19.4
+2022,SK,Slovakia,Out-of-pocket share (%),19.26
+2023,SK,Slovakia,Out-of-pocket share (%),20.15
+2024,SK,Slovakia,Out-of-pocket share (%),20.22
+2025,SK,Slovakia,Out-of-pocket share (%),NA
+2010,FI,Finland,Out-of-pocket share (%),18.8
+2011,FI,Finland,Out-of-pocket share (%),18.15
+2012,FI,Finland,Out-of-pocket share (%),17.46
+2013,FI,Finland,Out-of-pocket share (%),17.79
+2014,FI,Finland,Out-of-pocket share (%),17.64
+2015,FI,Finland,Out-of-pocket share (%),18.63
+2016,FI,Finland,Out-of-pocket share (%),19.27
+2017,FI,Finland,Out-of-pocket share (%),19.05
+2018,FI,Finland,Out-of-pocket share (%),18.37
+2019,FI,Finland,Out-of-pocket share (%),17.42
+2020,FI,Finland,Out-of-pocket share (%),16.47
+2021,FI,Finland,Out-of-pocket share (%),16.66
+2022,FI,Finland,Out-of-pocket share (%),16.1
+2023,FI,Finland,Out-of-pocket share (%),14.3
+2024,FI,Finland,Out-of-pocket share (%),14.54
+2025,FI,Finland,Out-of-pocket share (%),NA
+2010,SE,Sweden,Out-of-pocket share (%),16.51
+2011,SE,Sweden,Out-of-pocket share (%),14.52
+2012,SE,Sweden,Out-of-pocket share (%),14.8
+2013,SE,Sweden,Out-of-pocket share (%),14.93
+2014,SE,Sweden,Out-of-pocket share (%),14.94
+2015,SE,Sweden,Out-of-pocket share (%),15.03
+2016,SE,Sweden,Out-of-pocket share (%),14.62
+2017,SE,Sweden,Out-of-pocket share (%),14.22
+2018,SE,Sweden,Out-of-pocket share (%),14.2
+2019,SE,Sweden,Out-of-pocket share (%),13.91
+2020,SE,Sweden,Out-of-pocket share (%),12.91
+2021,SE,Sweden,Out-of-pocket share (%),13.07
+2022,SE,Sweden,Out-of-pocket share (%),13.09
+2023,SE,Sweden,Out-of-pocket share (%),12.69
+2024,SE,Sweden,Out-of-pocket share (%),12.83
+2025,SE,Sweden,Out-of-pocket share (%),13.27

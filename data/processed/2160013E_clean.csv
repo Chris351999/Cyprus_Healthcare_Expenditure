@@ -1,0 +1,151 @@
+table,year,year_flag,health_care_providers_code,health_care_providers_label,value_meur
+2160013E,2010,NA,All HP,Total Health Care Providers,1265.08
+2160013E,2011,NA,All HP,Total Health Care Providers,1277.153
+2160013E,2012,NA,All HP,Total Health Care Providers,1274.295
+2160013E,2013,NA,All HP,Total Health Care Providers,1249.786
+2160013E,2014,NA,All HP,Total Health Care Providers,1211.798
+2160013E,2015,b,All HP,Total Health Care Providers,1219.097
+2160013E,2016,NA,All HP,Total Health Care Providers,1264.903
+2160013E,2017,NA,All HP,Total Health Care Providers,1345.072
+2160013E,2018,NA,All HP,Total Health Care Providers,1479.541
+2160013E,2019,NA,All HP,Total Health Care Providers,1637.696
+2160013E,2020,NA,All HP,Total Health Care Providers,1934.862
+2160013E,2021,NA,All HP,Total Health Care Providers,2278.951
+2160013E,2022,r,All HP,Total Health Care Providers,2393.988
+2160013E,2023,"p,r",All HP,Total Health Care Providers,2519.137
+2160013E,2024,p,All HP,Total Health Care Providers,2781.869
+2160013E,2010,NA,HP.1,Hospitals,557.223
+2160013E,2011,NA,HP.1,Hospitals,579.823
+2160013E,2012,NA,HP.1,Hospitals,576.234
+2160013E,2013,NA,HP.1,Hospitals,572.992
+2160013E,2014,NA,HP.1,Hospitals,532.4
+2160013E,2015,b,HP.1,Hospitals,559.331
+2160013E,2016,NA,HP.1,Hospitals,575.219
+2160013E,2017,NA,HP.1,Hospitals,607.384
+2160013E,2018,NA,HP.1,Hospitals,665.719
+2160013E,2019,NA,HP.1,Hospitals,719.525
+2160013E,2020,NA,HP.1,Hospitals,895.998
+2160013E,2021,NA,HP.1,Hospitals,1056.632
+2160013E,2022,r,HP.1,Hospitals,1093.923
+2160013E,2023,"p,r",HP.1,Hospitals,1203.952
+2160013E,2024,p,HP.1,Hospitals,1374.439
+2160013E,2010,NA,HP.2,Residential long-term care facilities,24.324
+2160013E,2011,NA,HP.2,Residential long-term care facilities,22.692
+2160013E,2012,NA,HP.2,Residential long-term care facilities,23.191
+2160013E,2013,NA,HP.2,Residential long-term care facilities,19.389
+2160013E,2014,NA,HP.2,Residential long-term care facilities,17.607
+2160013E,2015,b,HP.2,Residential long-term care facilities,22.945
+2160013E,2016,NA,HP.2,Residential long-term care facilities,22.663
+2160013E,2017,NA,HP.2,Residential long-term care facilities,23.847
+2160013E,2018,NA,HP.2,Residential long-term care facilities,26.456
+2160013E,2019,NA,HP.2,Residential long-term care facilities,27.614
+2160013E,2020,NA,HP.2,Residential long-term care facilities,28.186
+2160013E,2021,NA,HP.2,Residential long-term care facilities,37.968
+2160013E,2022,r,HP.2,Residential long-term care facilities,45.712
+2160013E,2023,"p,r",HP.2,Residential long-term care facilities,42.838
+2160013E,2024,p,HP.2,Residential long-term care facilities,47.62
+2160013E,2010,NA,HP.3,Providers of ambulatory health care (includes home care services),315.568
+2160013E,2011,NA,HP.3,Providers of ambulatory health care (includes home care services),312.974
+2160013E,2012,NA,HP.3,Providers of ambulatory health care (includes home care services),317.911
+2160013E,2013,NA,HP.3,Providers of ambulatory health care (includes home care services),313.204
+2160013E,2014,NA,HP.3,Providers of ambulatory health care (includes home care services),316.44
+2160013E,2015,b,HP.3,Providers of ambulatory health care (includes home care services),306.748
+2160013E,2016,NA,HP.3,Providers of ambulatory health care (includes home care services),319.728
+2160013E,2017,NA,HP.3,Providers of ambulatory health care (includes home care services),339.914
+2160013E,2018,NA,HP.3,Providers of ambulatory health care (includes home care services),369.654
+2160013E,2019,NA,HP.3,Providers of ambulatory health care (includes home care services),443.153
+2160013E,2020,NA,HP.3,Providers of ambulatory health care (includes home care services),487.953
+2160013E,2021,NA,HP.3,Providers of ambulatory health care (includes home care services),522.712
+2160013E,2022,r,HP.3,Providers of ambulatory health care (includes home care services),573.501
+2160013E,2023,"p,r",HP.3,Providers of ambulatory health care (includes home care services),606.013
+2160013E,2024,p,HP.3,Providers of ambulatory health care (includes home care services),643.809
+2160013E,2010,NA,HP.4,Providers of ancillary services,96.196
+2160013E,2011,NA,HP.4,Providers of ancillary services,94.917
+2160013E,2012,NA,HP.4,Providers of ancillary services,97.289
+2160013E,2013,NA,HP.4,Providers of ancillary services,97.242
+2160013E,2014,NA,HP.4,Providers of ancillary services,98.467
+2160013E,2015,b,HP.4,Providers of ancillary services,83.515
+2160013E,2016,NA,HP.4,Providers of ancillary services,86.239
+2160013E,2017,NA,HP.4,Providers of ancillary services,94.995
+2160013E,2018,NA,HP.4,Providers of ancillary services,105.035
+2160013E,2019,NA,HP.4,Providers of ancillary services,124.529
+2160013E,2020,NA,HP.4,Providers of ancillary services,148.911
+2160013E,2021,NA,HP.4,Providers of ancillary services,138.126
+2160013E,2022,r,HP.4,Providers of ancillary services,139.06
+2160013E,2023,"p,r",HP.4,Providers of ancillary services,132.605
+2160013E,2024,p,HP.4,Providers of ancillary services,139.063
+2160013E,2010,NA,HP.5,Retailers and other providers of medical goods,184.028
+2160013E,2011,NA,HP.5,Retailers and other providers of medical goods,180.889
+2160013E,2012,NA,HP.5,Retailers and other providers of medical goods,185.771
+2160013E,2013,NA,HP.5,Retailers and other providers of medical goods,183.753
+2160013E,2014,NA,HP.5,Retailers and other providers of medical goods,188.896
+2160013E,2015,b,HP.5,Retailers and other providers of medical goods,192.276
+2160013E,2016,NA,HP.5,Retailers and other providers of medical goods,202.741
+2160013E,2017,NA,HP.5,Retailers and other providers of medical goods,215.217
+2160013E,2018,NA,HP.5,Retailers and other providers of medical goods,234.305
+2160013E,2019,NA,HP.5,Retailers and other providers of medical goods,230.108
+2160013E,2020,NA,HP.5,Retailers and other providers of medical goods,291.141
+2160013E,2021,NA,HP.5,Retailers and other providers of medical goods,396.359
+2160013E,2022,r,HP.5,Retailers and other providers of medical goods,412.486
+2160013E,2023,"p,r",HP.5,Retailers and other providers of medical goods,412.782
+2160013E,2024,p,HP.5,Retailers and other providers of medical goods,457.901
+2160013E,2010,NA,HP.6,Providers of preventive care,7.019
+2160013E,2011,NA,HP.6,Providers of preventive care,5.808
+2160013E,2012,NA,HP.6,Providers of preventive care,5.784
+2160013E,2013,NA,HP.6,Providers of preventive care,5.354
+2160013E,2014,NA,HP.6,Providers of preventive care,4.908
+2160013E,2015,b,HP.6,Providers of preventive care,6.858
+2160013E,2016,NA,HP.6,Providers of preventive care,6.938
+2160013E,2017,NA,HP.6,Providers of preventive care,7.015
+2160013E,2018,NA,HP.6,Providers of preventive care,7.319
+2160013E,2019,NA,HP.6,Providers of preventive care,8.034
+2160013E,2020,NA,HP.6,Providers of preventive care,12.043
+2160013E,2021,NA,HP.6,Providers of preventive care,60.373
+2160013E,2022,r,HP.6,Providers of preventive care,50.932
+2160013E,2023,"p,r",HP.6,Providers of preventive care,25.29
+2160013E,2024,p,HP.6,Providers of preventive care,22.997
+2160013E,2010,NA,HP.7,Providers of health care system administration and financing,19.996
+2160013E,2011,NA,HP.7,Providers of health care system administration and financing,24.045
+2160013E,2012,NA,HP.7,Providers of health care system administration and financing,24.621
+2160013E,2013,NA,HP.7,Providers of health care system administration and financing,24.957
+2160013E,2014,NA,HP.7,Providers of health care system administration and financing,23.589
+2160013E,2015,b,HP.7,Providers of health care system administration and financing,26.949
+2160013E,2016,NA,HP.7,Providers of health care system administration and financing,28.421
+2160013E,2017,NA,HP.7,Providers of health care system administration and financing,30.367
+2160013E,2018,NA,HP.7,Providers of health care system administration and financing,41.263
+2160013E,2019,NA,HP.7,Providers of health care system administration and financing,48.324
+2160013E,2020,NA,HP.7,Providers of health care system administration and financing,36.346
+2160013E,2021,NA,HP.7,Providers of health care system administration and financing,33.592
+2160013E,2022,r,HP.7,Providers of health care system administration and financing,38.557
+2160013E,2023,"p,r",HP.7,Providers of health care system administration and financing,56.379
+2160013E,2024,p,HP.7,Providers of health care system administration and financing,55.093
+2160013E,2010,NA,HP.8,Rest of economy,0
+2160013E,2011,NA,HP.8,Rest of economy,0
+2160013E,2012,NA,HP.8,Rest of economy,0
+2160013E,2013,NA,HP.8,Rest of economy,0
+2160013E,2014,NA,HP.8,Rest of economy,0
+2160013E,2015,b,HP.8,Rest of economy,0
+2160013E,2016,NA,HP.8,Rest of economy,0
+2160013E,2017,NA,HP.8,Rest of economy,0
+2160013E,2018,NA,HP.8,Rest of economy,0
+2160013E,2019,NA,HP.8,Rest of economy,0
+2160013E,2020,NA,HP.8,Rest of economy,0.057
+2160013E,2021,NA,HP.8,Rest of economy,0.359
+2160013E,2022,r,HP.8,Rest of economy,0.209
+2160013E,2023,"p,r",HP.8,Rest of economy,0
+2160013E,2024,p,HP.8,Rest of economy,0
+2160013E,2010,NA,HP.9,Rest of the world,60.726
+2160013E,2011,NA,HP.9,Rest of the world,56.005
+2160013E,2012,NA,HP.9,Rest of the world,43.495
+2160013E,2013,NA,HP.9,Rest of the world,32.894
+2160013E,2014,NA,HP.9,Rest of the world,29.491
+2160013E,2015,b,HP.9,Rest of the world,20.475
+2160013E,2016,NA,HP.9,Rest of the world,22.954
+2160013E,2017,NA,HP.9,Rest of the world,26.333
+2160013E,2018,NA,HP.9,Rest of the world,29.79
+2160013E,2019,NA,HP.9,Rest of the world,36.409
+2160013E,2020,NA,HP.9,Rest of the world,34.227
+2160013E,2021,NA,HP.9,Rest of the world,32.83
+2160013E,2022,r,HP.9,Rest of the world,39.608
+2160013E,2023,"p,r",HP.9,Rest of the world,39.278
+2160013E,2024,p,HP.9,Rest of the world,40.947

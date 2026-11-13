@@ -1,0 +1,121 @@
+table,year,year_flag,financing_schemes_code,financing_schemes_label,value_meur
+2160011E,2010,NA,All HF,Total Financing Schemes,1265.079
+2160011E,2011,NA,All HF,Total Financing Schemes,1277.153
+2160011E,2012,NA,All HF,Total Financing Schemes,1274.295
+2160011E,2013,NA,All HF,Total Financing Schemes,1249.786
+2160011E,2014,NA,All HF,Total Financing Schemes,1211.798
+2160011E,2015,b,All HF,Total Financing Schemes,1219.097
+2160011E,2016,NA,All HF,Total Financing Schemes,1264.902
+2160011E,2017,NA,All HF,Total Financing Schemes,1345.073
+2160011E,2018,NA,All HF,Total Financing Schemes,1479.543
+2160011E,2019,NA,All HF,Total Financing Schemes,1637.695
+2160011E,2020,NA,All HF,Total Financing Schemes,1934.861
+2160011E,2021,NA,All HF,Total Financing Schemes,2278.951
+2160011E,2022,r,All HF,Total Financing Schemes,2393.988
+2160011E,2023,"p,r",All HF,Total Financing Schemes,2519.135
+2160011E,2024,p,All HF,Total Financing Schemes,2781.869
+2160011E,2010,NA,HF.1.1,Government schemes,575.042
+2160011E,2011,NA,HF.1.1,Government schemes,601.787
+2160011E,2012,NA,HF.1.1,Government schemes,581.566
+2160011E,2013,NA,HF.1.1,Government schemes,567.857
+2160011E,2014,NA,HF.1.1,Government schemes,513.996
+2160011E,2015,b,HF.1.1,Government schemes,509.652
+2160011E,2016,NA,HF.1.1,Government schemes,525.791
+2160011E,2017,NA,HF.1.1,Government schemes,554.671
+2160011E,2018,NA,HF.1.1,Government schemes,618.494
+2160011E,2019,NA,HF.1.1,Government schemes,662.836
+2160011E,2020,NA,HF.1.1,Government schemes,624.794
+2160011E,2021,NA,HF.1.1,Government schemes,479.512
+2160011E,2022,r,HF.1.1,Government schemes,512.861
+2160011E,2023,"p,r",HF.1.1,Government schemes,508.578
+2160011E,2024,p,HF.1.1,Government schemes,577.781
+2160011E,2010,NA,HF.1.2,Social health insurance schemes,8.657
+2160011E,2011,NA,HF.1.2,Social health insurance schemes,9.198
+2160011E,2012,NA,HF.1.2,Social health insurance schemes,8.975
+2160011E,2013,NA,HF.1.2,Social health insurance schemes,8.179
+2160011E,2014,NA,HF.1.2,Social health insurance schemes,7.621
+2160011E,2015,b,HF.1.2,Social health insurance schemes,3.965
+2160011E,2016,NA,HF.1.2,Social health insurance schemes,4.141
+2160011E,2017,NA,HF.1.2,Social health insurance schemes,3.614
+2160011E,2018,NA,HF.1.2,Social health insurance schemes,3.302
+2160011E,2019,NA,HF.1.2,Social health insurance schemes,224.738
+2160011E,2020,NA,HF.1.2,Social health insurance schemes,760.886
+2160011E,2021,NA,HF.1.2,Social health insurance schemes,1319.744
+2160011E,2022,r,HF.1.2,Social health insurance schemes,1357.769
+2160011E,2023,"p,r",HF.1.2,Social health insurance schemes,1453.611
+2160011E,2024,p,HF.1.2,Social health insurance schemes,1627.324
+2160011E,2010,NA,HF.2.1,Voluntary health insurance schemes,115.818
+2160011E,2011,NA,HF.2.1,Voluntary health insurance schemes,121.575
+2160011E,2012,NA,HF.2.1,Voluntary health insurance schemes,126.101
+2160011E,2013,NA,HF.2.1,Voluntary health insurance schemes,124.964
+2160011E,2014,NA,HF.2.1,Voluntary health insurance schemes,129.789
+2160011E,2015,b,HF.2.1,Voluntary health insurance schemes,147.199
+2160011E,2016,NA,HF.2.1,Voluntary health insurance schemes,151.819
+2160011E,2017,NA,HF.2.1,Voluntary health insurance schemes,162.212
+2160011E,2018,NA,HF.2.1,Voluntary health insurance schemes,176.338
+2160011E,2019,NA,HF.2.1,Voluntary health insurance schemes,171.486
+2160011E,2020,NA,HF.2.1,Voluntary health insurance schemes,107.816
+2160011E,2021,NA,HF.2.1,Voluntary health insurance schemes,77.96
+2160011E,2022,r,HF.2.1,Voluntary health insurance schemes,83.784
+2160011E,2023,"p,r",HF.2.1,Voluntary health insurance schemes,91.065
+2160011E,2024,p,HF.2.1,Voluntary health insurance schemes,76.648
+2160011E,2010,NA,HF.2.2,Non-profit institutions serving households (NPISH) financing schemes,16.268
+2160011E,2011,NA,HF.2.2,Non-profit institutions serving households (NPISH) financing schemes,11.783
+2160011E,2012,NA,HF.2.2,Non-profit institutions serving households (NPISH) financing schemes,13.222
+2160011E,2013,NA,HF.2.2,Non-profit institutions serving households (NPISH) financing schemes,10.832
+2160011E,2014,NA,HF.2.2,Non-profit institutions serving households (NPISH) financing schemes,8.68
+2160011E,2015,b,HF.2.2,Non-profit institutions serving households (NPISH) financing schemes,17.415
+2160011E,2016,NA,HF.2.2,Non-profit institutions serving households (NPISH) financing schemes,18.916
+2160011E,2017,NA,HF.2.2,Non-profit institutions serving households (NPISH) financing schemes,22.544
+2160011E,2018,NA,HF.2.2,Non-profit institutions serving households (NPISH) financing schemes,25.07
+2160011E,2019,NA,HF.2.2,Non-profit institutions serving households (NPISH) financing schemes,26.298
+2160011E,2020,NA,HF.2.2,Non-profit institutions serving households (NPISH) financing schemes,27.947
+2160011E,2021,NA,HF.2.2,Non-profit institutions serving households (NPISH) financing schemes,31.837
+2160011E,2022,r,HF.2.2,Non-profit institutions serving households (NPISH) financing schemes,35.751
+2160011E,2023,"p,r",HF.2.2,Non-profit institutions serving households (NPISH) financing schemes,26.483
+2160011E,2024,p,HF.2.2,Non-profit institutions serving households (NPISH) financing schemes,28.712
+2160011E,2010,NA,HF.2.3,Enterprise financing schemes,0
+2160011E,2011,NA,HF.2.3,Enterprise financing schemes,0
+2160011E,2012,NA,HF.2.3,Enterprise financing schemes,0
+2160011E,2013,NA,HF.2.3,Enterprise financing schemes,0
+2160011E,2014,NA,HF.2.3,Enterprise financing schemes,0
+2160011E,2015,b,HF.2.3,Enterprise financing schemes,0
+2160011E,2016,NA,HF.2.3,Enterprise financing schemes,0
+2160011E,2017,NA,HF.2.3,Enterprise financing schemes,0
+2160011E,2018,NA,HF.2.3,Enterprise financing schemes,0
+2160011E,2019,NA,HF.2.3,Enterprise financing schemes,0
+2160011E,2020,NA,HF.2.3,Enterprise financing schemes,0
+2160011E,2021,NA,HF.2.3,Enterprise financing schemes,0
+2160011E,2022,r,HF.2.3,Enterprise financing schemes,0
+2160011E,2023,"p,r",HF.2.3,Enterprise financing schemes,0
+2160011E,2024,p,HF.2.3,Enterprise financing schemes,0
+2160011E,2010,NA,HF.3,Household out-of-pocket payment,545.325
+2160011E,2011,NA,HF.3,Household out-of-pocket payment,528.418
+2160011E,2012,NA,HF.3,Household out-of-pocket payment,539.94
+2160011E,2013,NA,HF.3,Household out-of-pocket payment,532.398
+2160011E,2014,NA,HF.3,Household out-of-pocket payment,546.653
+2160011E,2015,b,HF.3,Household out-of-pocket payment,531.829
+2160011E,2016,NA,HF.3,Household out-of-pocket payment,564.235
+2160011E,2017,NA,HF.3,Household out-of-pocket payment,602.032
+2160011E,2018,NA,HF.3,Household out-of-pocket payment,656.339
+2160011E,2019,NA,HF.3,Household out-of-pocket payment,552.337
+2160011E,2020,NA,HF.3,Household out-of-pocket payment,413.418
+2160011E,2021,NA,HF.3,Household out-of-pocket payment,NA
+2160011E,2022,r,HF.3,Household out-of-pocket payment,403.823
+2160011E,2023,"p,r",HF.3,Household out-of-pocket payment,439.398
+2160011E,2024,p,HF.3,Household out-of-pocket payment,471.404
+2160011E,2010,NA,HF.4,Rest of the world financing schemes (non-residents),3.969
+2160011E,2011,NA,HF.4,Rest of the world financing schemes (non-residents),4.392
+2160011E,2012,NA,HF.4,Rest of the world financing schemes (non-residents),4.491
+2160011E,2013,NA,HF.4,Rest of the world financing schemes (non-residents),5.556
+2160011E,2014,NA,HF.4,Rest of the world financing schemes (non-residents),5.059
+2160011E,2015,b,HF.4,Rest of the world financing schemes (non-residents),9.037
+2160011E,2016,NA,HF.4,Rest of the world financing schemes (non-residents),NA
+2160011E,2017,NA,HF.4,Rest of the world financing schemes (non-residents),NA
+2160011E,2018,NA,HF.4,Rest of the world financing schemes (non-residents),NA
+2160011E,2019,NA,HF.4,Rest of the world financing schemes (non-residents),NA
+2160011E,2020,NA,HF.4,Rest of the world financing schemes (non-residents),NA
+2160011E,2021,NA,HF.4,Rest of the world financing schemes (non-residents),NA
+2160011E,2022,r,HF.4,Rest of the world financing schemes (non-residents),NA
+2160011E,2023,"p,r",HF.4,Rest of the world financing schemes (non-residents),NA
+2160011E,2024,p,HF.4,Rest of the world financing schemes (non-residents),NA

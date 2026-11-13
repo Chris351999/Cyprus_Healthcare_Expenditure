@@ -53,7 +53,6 @@ Per person (2024 euros), out-of-pocket fell from **€873 to €488** a year, wi
 | ![EU arrows](outputs/figures/linkedin_eu_arrows.png) | ![Spending vs mortality](outputs/figures/10_spending_vs_mortality.png) |
 | ![Unmet needs](outputs/figures/09_unmet_needs_cyprus.png) | ![Household burden](outputs/figures/13_household_burden.png) |
 
-An interactive Sankey diagram of money flows (payers → providers → types of care) is saved as `outputs/figures/14_sankey_2024.html`.
 
 ---
 

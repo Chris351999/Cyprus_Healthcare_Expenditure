@@ -27,9 +27,7 @@ jobs:
           use-public-rspm: true
 
       - name: Install shinylive
-        uses: r-lib/actions/setup-r-dependencies@v2
-        with:
-          packages: any::shinylive
+        run: Rscript -e 'install.packages("shinylive")'
 
       - name: Turn the Shiny app into a web page
         run: Rscript -e 'shinylive::export("app", "site")'

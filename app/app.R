@@ -373,7 +373,7 @@ ui <- page_navbar(
   ),
   
   nav_spacer(),
-  nav_item(tags$a(bs_icon("github"), " Code", href = "https://github.com/", target = "_blank"))
+  nav_item(tags$a(bs_icon("github"), " Code", href = "   https://github.com/Chris351999/Cyprus_Healthcare_Expenditure", target = "_blank"))
 )
 
 

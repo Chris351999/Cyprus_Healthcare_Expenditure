@@ -27,8 +27,8 @@ jobs:
           use-public-rspm: true
 
       - name: Install shinylive
-        run: Rscript -e 'install.packages("shinylive")'
-
+        run: Rscript -e 'install.packages(c("shinylive", "shiny", "bslib", "bsicons", "dplyr", "tidyr", "readr", "plotly"))'
+        
       - name: Turn the Shiny app into a web page
         run: Rscript -e 'shinylive::export("app", "site")'
 

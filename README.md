@@ -4,8 +4,8 @@ An end-to-end health economics project in **R**: official health accounts data f
 
 **Research question:** *Where does Cyprus's health money go, and what changed with the General Healthcare System (GeSY)?*
 
-> 🔗 **Live dashboard:** *(add link after publishing)*
-> 📊 **Main figures:** [`outputs/figures/`](outputs/figures)
+   > 🔗 **Live dashboard:** [Open the interactive dashboard](https://chris351999.github.io/Cyprus_Healthcare_Expenditure/)
+   > 📊 **Main figures:** [`outputs/figures/`](outputs/figures)
 
 ![Who pays for every €100](outputs/figures/linkedin_waffle.png)
 

@@ -1,0 +1,1108 @@
+year,geo,country,indicator,value
+2010,BE,Belgium,Life expectancy at birth (years),80.3
+2011,BE,Belgium,Life expectancy at birth (years),80.7
+2012,BE,Belgium,Life expectancy at birth (years),80.5
+2013,BE,Belgium,Life expectancy at birth (years),80.7
+2014,BE,Belgium,Life expectancy at birth (years),81.1
+2015,BE,Belgium,Life expectancy at birth (years),80.9
+2016,BE,Belgium,Life expectancy at birth (years),81.3
+2017,BE,Belgium,Life expectancy at birth (years),81.4
+2018,BE,Belgium,Life expectancy at birth (years),81.5
+2019,BE,Belgium,Life expectancy at birth (years),81.8
+2020,BE,Belgium,Life expectancy at birth (years),80.8
+2021,BE,Belgium,Life expectancy at birth (years),81.7
+2022,BE,Belgium,Life expectancy at birth (years),81.7
+2023,BE,Belgium,Life expectancy at birth (years),82.3
+2024,BE,Belgium,Life expectancy at birth (years),82.4
+2010,BG,Bulgaria,Life expectancy at birth (years),73.8
+2011,BG,Bulgaria,Life expectancy at birth (years),74.2
+2012,BG,Bulgaria,Life expectancy at birth (years),74.4
+2013,BG,Bulgaria,Life expectancy at birth (years),74.9
+2014,BG,Bulgaria,Life expectancy at birth (years),74.4
+2015,BG,Bulgaria,Life expectancy at birth (years),74.5
+2016,BG,Bulgaria,Life expectancy at birth (years),74.7
+2017,BG,Bulgaria,Life expectancy at birth (years),74.6
+2018,BG,Bulgaria,Life expectancy at birth (years),74.7
+2019,BG,Bulgaria,Life expectancy at birth (years),74.8
+2020,BG,Bulgaria,Life expectancy at birth (years),73.3
+2021,BG,Bulgaria,Life expectancy at birth (years),71.2
+2022,BG,Bulgaria,Life expectancy at birth (years),74.1
+2023,BG,Bulgaria,Life expectancy at birth (years),75.7
+2024,BG,Bulgaria,Life expectancy at birth (years),75.8
+2010,CZ,Czechia,Life expectancy at birth (years),77.7
+2011,CZ,Czechia,Life expectancy at birth (years),78
+2012,CZ,Czechia,Life expectancy at birth (years),78.1
+2013,CZ,Czechia,Life expectancy at birth (years),78.3
+2014,CZ,Czechia,Life expectancy at birth (years),78.8
+2015,CZ,Czechia,Life expectancy at birth (years),78.6
+2016,CZ,Czechia,Life expectancy at birth (years),79
+2017,CZ,Czechia,Life expectancy at birth (years),79
+2018,CZ,Czechia,Life expectancy at birth (years),79
+2019,CZ,Czechia,Life expectancy at birth (years),79.2
+2020,CZ,Czechia,Life expectancy at birth (years),78.3
+2021,CZ,Czechia,Life expectancy at birth (years),77.2
+2022,CZ,Czechia,Life expectancy at birth (years),79
+2023,CZ,Czechia,Life expectancy at birth (years),79.8
+2024,CZ,Czechia,Life expectancy at birth (years),80.1
+2010,DK,Denmark,Life expectancy at birth (years),79.3
+2011,DK,Denmark,Life expectancy at birth (years),79.9
+2012,DK,Denmark,Life expectancy at birth (years),80.2
+2013,DK,Denmark,Life expectancy at birth (years),80.4
+2014,DK,Denmark,Life expectancy at birth (years),80.6
+2015,DK,Denmark,Life expectancy at birth (years),80.7
+2016,DK,Denmark,Life expectancy at birth (years),80.9
+2017,DK,Denmark,Life expectancy at birth (years),81.1
+2018,DK,Denmark,Life expectancy at birth (years),81
+2019,DK,Denmark,Life expectancy at birth (years),81.4
+2020,DK,Denmark,Life expectancy at birth (years),81.5
+2021,DK,Denmark,Life expectancy at birth (years),81.4
+2022,DK,Denmark,Life expectancy at birth (years),81.3
+2023,DK,Denmark,Life expectancy at birth (years),81.7
+2024,DK,Denmark,Life expectancy at birth (years),82
+2010,DE,Germany,Life expectancy at birth (years),80.5
+2011,DE,Germany,Life expectancy at birth (years),80.6
+2012,DE,Germany,Life expectancy at birth (years),80.7
+2013,DE,Germany,Life expectancy at birth (years),80.6
+2014,DE,Germany,Life expectancy at birth (years),80.9
+2015,DE,Germany,Life expectancy at birth (years),80.6
+2016,DE,Germany,Life expectancy at birth (years),80.9
+2017,DE,Germany,Life expectancy at birth (years),81
+2018,DE,Germany,Life expectancy at birth (years),80.9
+2019,DE,Germany,Life expectancy at birth (years),81.2
+2020,DE,Germany,Life expectancy at birth (years),81
+2021,DE,Germany,Life expectancy at birth (years),80.7
+2022,DE,Germany,Life expectancy at birth (years),80.5
+2023,DE,Germany,Life expectancy at birth (years),80.9
+2024,DE,Germany,Life expectancy at birth (years),81.2
+2010,EE,Estonia,Life expectancy at birth (years),76
+2011,EE,Estonia,Life expectancy at birth (years),76.6
+2012,EE,Estonia,Life expectancy at birth (years),76.7
+2013,EE,Estonia,Life expectancy at birth (years),77.5
+2014,EE,Estonia,Life expectancy at birth (years),77.1
+2015,EE,Estonia,Life expectancy at birth (years),77.7
+2016,EE,Estonia,Life expectancy at birth (years),77.8
+2017,EE,Estonia,Life expectancy at birth (years),78.2
+2018,EE,Estonia,Life expectancy at birth (years),78.4
+2019,EE,Estonia,Life expectancy at birth (years),78.8
+2020,EE,Estonia,Life expectancy at birth (years),78.8
+2021,EE,Estonia,Life expectancy at birth (years),77.2
+2022,EE,Estonia,Life expectancy at birth (years),78.1
+2023,EE,Estonia,Life expectancy at birth (years),78.9
+2024,EE,Estonia,Life expectancy at birth (years),79.4
+2010,IE,Ireland,Life expectancy at birth (years),80.8
+2011,IE,Ireland,Life expectancy at birth (years),80.9
+2012,IE,Ireland,Life expectancy at birth (years),80.9
+2013,IE,Ireland,Life expectancy at birth (years),81
+2014,IE,Ireland,Life expectancy at birth (years),81.3
+2015,IE,Ireland,Life expectancy at birth (years),81.4
+2016,IE,Ireland,Life expectancy at birth (years),81.6
+2017,IE,Ireland,Life expectancy at birth (years),82
+2018,IE,Ireland,Life expectancy at birth (years),82
+2019,IE,Ireland,Life expectancy at birth (years),82.5
+2020,IE,Ireland,Life expectancy at birth (years),82.3
+2021,IE,Ireland,Life expectancy at birth (years),82.1
+2022,IE,Ireland,Life expectancy at birth (years),82.4
+2023,IE,Ireland,Life expectancy at birth (years),82.7
+2024,IE,Ireland,Life expectancy at birth (years),83.1
+2010,EL,Greece,Life expectancy at birth (years),80.6
+2011,EL,Greece,Life expectancy at birth (years),80.8
+2012,EL,Greece,Life expectancy at birth (years),80.7
+2013,EL,Greece,Life expectancy at birth (years),81.4
+2014,EL,Greece,Life expectancy at birth (years),81
+2015,EL,Greece,Life expectancy at birth (years),80.8
+2016,EL,Greece,Life expectancy at birth (years),81
+2017,EL,Greece,Life expectancy at birth (years),81
+2018,EL,Greece,Life expectancy at birth (years),81.5
+2019,EL,Greece,Life expectancy at birth (years),81.4
+2020,EL,Greece,Life expectancy at birth (years),81.1
+2021,EL,Greece,Life expectancy at birth (years),80.1
+2022,EL,Greece,Life expectancy at birth (years),80.8
+2023,EL,Greece,Life expectancy at birth (years),81.7
+2024,EL,Greece,Life expectancy at birth (years),81.9
+2010,ES,Spain,Life expectancy at birth (years),82.4
+2011,ES,Spain,Life expectancy at birth (years),82.6
+2012,ES,Spain,Life expectancy at birth (years),82.5
+2013,ES,Spain,Life expectancy at birth (years),83.2
+2014,ES,Spain,Life expectancy at birth (years),82.9
+2015,ES,Spain,Life expectancy at birth (years),82.7
+2016,ES,Spain,Life expectancy at birth (years),83.1
+2017,ES,Spain,Life expectancy at birth (years),83
+2018,ES,Spain,Life expectancy at birth (years),83.1
+2019,ES,Spain,Life expectancy at birth (years),83.5
+2020,ES,Spain,Life expectancy at birth (years),82.3
+2021,ES,Spain,Life expectancy at birth (years),83
+2022,ES,Spain,Life expectancy at birth (years),83.1
+2023,ES,Spain,Life expectancy at birth (years),83.8
+2024,ES,Spain,Life expectancy at birth (years),84
+2010,FR,France,Life expectancy at birth (years),81.8
+2011,FR,France,Life expectancy at birth (years),82.3
+2012,FR,France,Life expectancy at birth (years),82.1
+2013,FR,France,Life expectancy at birth (years),82.4
+2014,FR,France,Life expectancy at birth (years),82.4
+2015,FR,France,Life expectancy at birth (years),82.1
+2016,FR,France,Life expectancy at birth (years),82.4
+2017,FR,France,Life expectancy at birth (years),82.4
+2018,FR,France,Life expectancy at birth (years),82.6
+2019,FR,France,Life expectancy at birth (years),82.7
+2020,FR,France,Life expectancy at birth (years),82.2
+2021,FR,France,Life expectancy at birth (years),82.2
+2022,FR,France,Life expectancy at birth (years),82.2
+2023,FR,France,Life expectancy at birth (years),82.9
+2024,FR,France,Life expectancy at birth (years),83
+2010,HR,Croatia,Life expectancy at birth (years),76.7
+2011,HR,Croatia,Life expectancy at birth (years),77.2
+2012,HR,Croatia,Life expectancy at birth (years),77.3
+2013,HR,Croatia,Life expectancy at birth (years),77.8
+2014,HR,Croatia,Life expectancy at birth (years),77.8
+2015,HR,Croatia,Life expectancy at birth (years),77.4
+2016,HR,Croatia,Life expectancy at birth (years),78
+2017,HR,Croatia,Life expectancy at birth (years),77.8
+2018,HR,Croatia,Life expectancy at birth (years),78
+2019,HR,Croatia,Life expectancy at birth (years),78.3
+2020,HR,Croatia,Life expectancy at birth (years),77.6
+2021,HR,Croatia,Life expectancy at birth (years),76.6
+2022,HR,Croatia,Life expectancy at birth (years),77.7
+2023,HR,Croatia,Life expectancy at birth (years),78.5
+2024,HR,Croatia,Life expectancy at birth (years),78.9
+2010,IT,Italy,Life expectancy at birth (years),82.2
+2011,IT,Italy,Life expectancy at birth (years),82.4
+2012,IT,Italy,Life expectancy at birth (years),82.4
+2013,IT,Italy,Life expectancy at birth (years),82.9
+2014,IT,Italy,Life expectancy at birth (years),82.8
+2015,IT,Italy,Life expectancy at birth (years),82.4
+2016,IT,Italy,Life expectancy at birth (years),83
+2017,IT,Italy,Life expectancy at birth (years),82.8
+2018,IT,Italy,Life expectancy at birth (years),83.1
+2019,IT,Italy,Life expectancy at birth (years),83.4
+2020,IT,Italy,Life expectancy at birth (years),82.2
+2021,IT,Italy,Life expectancy at birth (years),82.6
+2022,IT,Italy,Life expectancy at birth (years),82.8
+2023,IT,Italy,Life expectancy at birth (years),83.3
+2024,IT,Italy,Life expectancy at birth (years),83.7
+2010,CY,Cyprus,Life expectancy at birth (years),81.5
+2011,CY,Cyprus,Life expectancy at birth (years),81.2
+2012,CY,Cyprus,Life expectancy at birth (years),81.1
+2013,CY,Cyprus,Life expectancy at birth (years),82.5
+2014,CY,Cyprus,Life expectancy at birth (years),82.3
+2015,CY,Cyprus,Life expectancy at birth (years),81.9
+2016,CY,Cyprus,Life expectancy at birth (years),82.8
+2017,CY,Cyprus,Life expectancy at birth (years),82.4
+2018,CY,Cyprus,Life expectancy at birth (years),83
+2019,CY,Cyprus,Life expectancy at birth (years),82.6
+2020,CY,Cyprus,Life expectancy at birth (years),82.7
+2021,CY,Cyprus,Life expectancy at birth (years),81.8
+2022,CY,Cyprus,Life expectancy at birth (years),82.2
+2023,CY,Cyprus,Life expectancy at birth (years),83
+2024,CY,Cyprus,Life expectancy at birth (years),83.5
+2010,LV,Latvia,Life expectancy at birth (years),73.1
+2011,LV,Latvia,Life expectancy at birth (years),73.9
+2012,LV,Latvia,Life expectancy at birth (years),74.1
+2013,LV,Latvia,Life expectancy at birth (years),74.3
+2014,LV,Latvia,Life expectancy at birth (years),74.3
+2015,LV,Latvia,Life expectancy at birth (years),74.7
+2016,LV,Latvia,Life expectancy at birth (years),74.8
+2017,LV,Latvia,Life expectancy at birth (years),74.8
+2018,LV,Latvia,Life expectancy at birth (years),75
+2019,LV,Latvia,Life expectancy at birth (years),75.7
+2020,LV,Latvia,Life expectancy at birth (years),75.4
+2021,LV,Latvia,Life expectancy at birth (years),73.2
+2022,LV,Latvia,Life expectancy at birth (years),74.5
+2023,LV,Latvia,Life expectancy at birth (years),75.6
+2024,LV,Latvia,Life expectancy at birth (years),76.4
+2010,LT,Lithuania,Life expectancy at birth (years),73.3
+2011,LT,Lithuania,Life expectancy at birth (years),73.7
+2012,LT,Lithuania,Life expectancy at birth (years),74.1
+2013,LT,Lithuania,Life expectancy at birth (years),74.1
+2014,LT,Lithuania,Life expectancy at birth (years),74.5
+2015,LT,Lithuania,Life expectancy at birth (years),74.4
+2016,LT,Lithuania,Life expectancy at birth (years),74.8
+2017,LT,Lithuania,Life expectancy at birth (years),75.7
+2018,LT,Lithuania,Life expectancy at birth (years),75.9
+2019,LT,Lithuania,Life expectancy at birth (years),76.4
+2020,LT,Lithuania,Life expectancy at birth (years),75.2
+2021,LT,Lithuania,Life expectancy at birth (years),74.3
+2022,LT,Lithuania,Life expectancy at birth (years),75.8
+2023,LT,Lithuania,Life expectancy at birth (years),77.4
+2024,LT,Lithuania,Life expectancy at birth (years),77.5
+2010,LU,Luxembourg,Life expectancy at birth (years),80.8
+2011,LU,Luxembourg,Life expectancy at birth (years),81.1
+2012,LU,Luxembourg,Life expectancy at birth (years),81.5
+2013,LU,Luxembourg,Life expectancy at birth (years),81.9
+2014,LU,Luxembourg,Life expectancy at birth (years),81.8
+2015,LU,Luxembourg,Life expectancy at birth (years),82
+2016,LU,Luxembourg,Life expectancy at birth (years),82.3
+2017,LU,Luxembourg,Life expectancy at birth (years),81.8
+2018,LU,Luxembourg,Life expectancy at birth (years),82.1
+2019,LU,Luxembourg,Life expectancy at birth (years),82.4
+2020,LU,Luxembourg,Life expectancy at birth (years),82.1
+2021,LU,Luxembourg,Life expectancy at birth (years),82.5
+2022,LU,Luxembourg,Life expectancy at birth (years),82.8
+2023,LU,Luxembourg,Life expectancy at birth (years),83.1
+2024,LU,Luxembourg,Life expectancy at birth (years),83.2
+2010,HU,Hungary,Life expectancy at birth (years),74.7
+2011,HU,Hungary,Life expectancy at birth (years),75.1
+2012,HU,Hungary,Life expectancy at birth (years),75.3
+2013,HU,Hungary,Life expectancy at birth (years),75.8
+2014,HU,Hungary,Life expectancy at birth (years),75.8
+2015,HU,Hungary,Life expectancy at birth (years),75.6
+2016,HU,Hungary,Life expectancy at birth (years),76.1
+2017,HU,Hungary,Life expectancy at birth (years),75.9
+2018,HU,Hungary,Life expectancy at birth (years),76
+2019,HU,Hungary,Life expectancy at birth (years),76.3
+2020,HU,Hungary,Life expectancy at birth (years),75.5
+2021,HU,Hungary,Life expectancy at birth (years),74.1
+2022,HU,Hungary,Life expectancy at birth (years),75.9
+2023,HU,Hungary,Life expectancy at birth (years),76.7
+2024,HU,Hungary,Life expectancy at birth (years),76.8
+2010,MT,Malta,Life expectancy at birth (years),81.5
+2011,MT,Malta,Life expectancy at birth (years),80.9
+2012,MT,Malta,Life expectancy at birth (years),80.8
+2013,MT,Malta,Life expectancy at birth (years),81.8
+2014,MT,Malta,Life expectancy at birth (years),81.8
+2015,MT,Malta,Life expectancy at birth (years),81.7
+2016,MT,Malta,Life expectancy at birth (years),82.1
+2017,MT,Malta,Life expectancy at birth (years),82
+2018,MT,Malta,Life expectancy at birth (years),82.1
+2019,MT,Malta,Life expectancy at birth (years),82.4
+2020,MT,Malta,Life expectancy at birth (years),81.9
+2021,MT,Malta,Life expectancy at birth (years),82
+2022,MT,Malta,Life expectancy at birth (years),82.1
+2023,MT,Malta,Life expectancy at birth (years),83.1
+2024,MT,Malta,Life expectancy at birth (years),83
+2010,NL,Netherlands,Life expectancy at birth (years),81
+2011,NL,Netherlands,Life expectancy at birth (years),81.3
+2012,NL,Netherlands,Life expectancy at birth (years),81.2
+2013,NL,Netherlands,Life expectancy at birth (years),81.4
+2014,NL,Netherlands,Life expectancy at birth (years),81.6
+2015,NL,Netherlands,Life expectancy at birth (years),81.5
+2016,NL,Netherlands,Life expectancy at birth (years),81.5
+2017,NL,Netherlands,Life expectancy at birth (years),81.7
+2018,NL,Netherlands,Life expectancy at birth (years),81.8
+2019,NL,Netherlands,Life expectancy at birth (years),82.1
+2020,NL,Netherlands,Life expectancy at birth (years),81.4
+2021,NL,Netherlands,Life expectancy at birth (years),81.3
+2022,NL,Netherlands,Life expectancy at birth (years),81.6
+2023,NL,Netherlands,Life expectancy at birth (years),81.8
+2024,NL,Netherlands,Life expectancy at birth (years),81.9
+2010,AT,Austria,Life expectancy at birth (years),80.7
+2011,AT,Austria,Life expectancy at birth (years),81.1
+2012,AT,Austria,Life expectancy at birth (years),81.1
+2013,AT,Austria,Life expectancy at birth (years),81.3
+2014,AT,Austria,Life expectancy at birth (years),81.4
+2015,AT,Austria,Life expectancy at birth (years),81.2
+2016,AT,Austria,Life expectancy at birth (years),81.6
+2017,AT,Austria,Life expectancy at birth (years),81.6
+2018,AT,Austria,Life expectancy at birth (years),81.7
+2019,AT,Austria,Life expectancy at birth (years),81.9
+2020,AT,Austria,Life expectancy at birth (years),81.3
+2021,AT,Austria,Life expectancy at birth (years),81.3
+2022,AT,Austria,Life expectancy at birth (years),81.4
+2023,AT,Austria,Life expectancy at birth (years),81.9
+2024,AT,Austria,Life expectancy at birth (years),82.1
+2010,PL,Poland,Life expectancy at birth (years),76.4
+2011,PL,Poland,Life expectancy at birth (years),76.8
+2012,PL,Poland,Life expectancy at birth (years),76.9
+2013,PL,Poland,Life expectancy at birth (years),77.1
+2014,PL,Poland,Life expectancy at birth (years),77.5
+2015,PL,Poland,Life expectancy at birth (years),77.4
+2016,PL,Poland,Life expectancy at birth (years),77.8
+2017,PL,Poland,Life expectancy at birth (years),77.7
+2018,PL,Poland,Life expectancy at birth (years),77.6
+2019,PL,Poland,Life expectancy at birth (years),77.9
+2020,PL,Poland,Life expectancy at birth (years),76.4
+2021,PL,Poland,Life expectancy at birth (years),75.4
+2022,PL,Poland,Life expectancy at birth (years),77.1
+2023,PL,Poland,Life expectancy at birth (years),78.2
+2024,PL,Poland,Life expectancy at birth (years),78.5
+2010,PT,Portugal,Life expectancy at birth (years),80.1
+2011,PT,Portugal,Life expectancy at birth (years),80.7
+2012,PT,Portugal,Life expectancy at birth (years),80.6
+2013,PT,Portugal,Life expectancy at birth (years),80.9
+2014,PT,Portugal,Life expectancy at birth (years),81.3
+2015,PT,Portugal,Life expectancy at birth (years),81.3
+2016,PT,Portugal,Life expectancy at birth (years),81.4
+2017,PT,Portugal,Life expectancy at birth (years),81.6
+2018,PT,Portugal,Life expectancy at birth (years),81.6
+2019,PT,Portugal,Life expectancy at birth (years),82
+2020,PT,Portugal,Life expectancy at birth (years),81.4
+2021,PT,Portugal,Life expectancy at birth (years),81.4
+2022,PT,Portugal,Life expectancy at birth (years),81.7
+2023,PT,Portugal,Life expectancy at birth (years),82.3
+2024,PT,Portugal,Life expectancy at birth (years),82.5
+2010,RO,Romania,Life expectancy at birth (years),73.7
+2011,RO,Romania,Life expectancy at birth (years),74.4
+2012,RO,Romania,Life expectancy at birth (years),74.4
+2013,RO,Romania,Life expectancy at birth (years),75.1
+2014,RO,Romania,Life expectancy at birth (years),74.9
+2015,RO,Romania,Life expectancy at birth (years),74.9
+2016,RO,Romania,Life expectancy at birth (years),75.2
+2017,RO,Romania,Life expectancy at birth (years),75.2
+2018,RO,Romania,Life expectancy at birth (years),75.3
+2019,RO,Romania,Life expectancy at birth (years),75.6
+2020,RO,Romania,Life expectancy at birth (years),74.1
+2021,RO,Romania,Life expectancy at birth (years),72.8
+2022,RO,Romania,Life expectancy at birth (years),75.1
+2023,RO,Romania,Life expectancy at birth (years),76.3
+2024,RO,Romania,Life expectancy at birth (years),76.5
+2010,SI,Slovenia,Life expectancy at birth (years),79.8
+2011,SI,Slovenia,Life expectancy at birth (years),80.1
+2012,SI,Slovenia,Life expectancy at birth (years),80.3
+2013,SI,Slovenia,Life expectancy at birth (years),80.5
+2014,SI,Slovenia,Life expectancy at birth (years),80.9
+2015,SI,Slovenia,Life expectancy at birth (years),80.6
+2016,SI,Slovenia,Life expectancy at birth (years),81
+2017,SI,Slovenia,Life expectancy at birth (years),80.9
+2018,SI,Slovenia,Life expectancy at birth (years),81.2
+2019,SI,Slovenia,Life expectancy at birth (years),81.4
+2020,SI,Slovenia,Life expectancy at birth (years),80.5
+2021,SI,Slovenia,Life expectancy at birth (years),80.6
+2022,SI,Slovenia,Life expectancy at birth (years),81.2
+2023,SI,Slovenia,Life expectancy at birth (years),81.8
+2024,SI,Slovenia,Life expectancy at birth (years),82.1
+2010,SK,Slovakia,Life expectancy at birth (years),75.6
+2011,SK,Slovakia,Life expectancy at birth (years),76.1
+2012,SK,Slovakia,Life expectancy at birth (years),76.3
+2013,SK,Slovakia,Life expectancy at birth (years),76.6
+2014,SK,Slovakia,Life expectancy at birth (years),76.9
+2015,SK,Slovakia,Life expectancy at birth (years),76.7
+2016,SK,Slovakia,Life expectancy at birth (years),77.3
+2017,SK,Slovakia,Life expectancy at birth (years),77.3
+2018,SK,Slovakia,Life expectancy at birth (years),77.3
+2019,SK,Slovakia,Life expectancy at birth (years),77.7
+2020,SK,Slovakia,Life expectancy at birth (years),77
+2021,SK,Slovakia,Life expectancy at birth (years),74.6
+2022,SK,Slovakia,Life expectancy at birth (years),77
+2023,SK,Slovakia,Life expectancy at birth (years),78.1
+2024,SK,Slovakia,Life expectancy at birth (years),78.4
+2010,FI,Finland,Life expectancy at birth (years),80.2
+2011,FI,Finland,Life expectancy at birth (years),80.6
+2012,FI,Finland,Life expectancy at birth (years),80.7
+2013,FI,Finland,Life expectancy at birth (years),81.1
+2014,FI,Finland,Life expectancy at birth (years),81.1
+2015,FI,Finland,Life expectancy at birth (years),81.4
+2016,FI,Finland,Life expectancy at birth (years),81.3
+2017,FI,Finland,Life expectancy at birth (years),81.5
+2018,FI,Finland,Life expectancy at birth (years),81.6
+2019,FI,Finland,Life expectancy at birth (years),81.9
+2020,FI,Finland,Life expectancy at birth (years),81.8
+2021,FI,Finland,Life expectancy at birth (years),81.8
+2022,FI,Finland,Life expectancy at birth (years),81.2
+2023,FI,Finland,Life expectancy at birth (years),81.6
+2024,FI,Finland,Life expectancy at birth (years),82.2
+2010,SE,Sweden,Life expectancy at birth (years),81.6
+2011,SE,Sweden,Life expectancy at birth (years),81.9
+2012,SE,Sweden,Life expectancy at birth (years),81.8
+2013,SE,Sweden,Life expectancy at birth (years),82
+2014,SE,Sweden,Life expectancy at birth (years),82.2
+2015,SE,Sweden,Life expectancy at birth (years),82.2
+2016,SE,Sweden,Life expectancy at birth (years),82.3
+2017,SE,Sweden,Life expectancy at birth (years),82.4
+2018,SE,Sweden,Life expectancy at birth (years),82.5
+2019,SE,Sweden,Life expectancy at birth (years),83.1
+2020,SE,Sweden,Life expectancy at birth (years),82.4
+2021,SE,Sweden,Life expectancy at birth (years),83
+2022,SE,Sweden,Life expectancy at birth (years),83
+2023,SE,Sweden,Life expectancy at birth (years),83.2
+2024,SE,Sweden,Life expectancy at birth (years),83.8
+2011,BE,Belgium,"Preventable mortality (per 100,000)",172.38
+2012,BE,Belgium,"Preventable mortality (per 100,000)",170.9
+2013,BE,Belgium,"Preventable mortality (per 100,000)",167.71
+2014,BE,Belgium,"Preventable mortality (per 100,000)",161.47
+2015,BE,Belgium,"Preventable mortality (per 100,000)",160.75
+2016,BE,Belgium,"Preventable mortality (per 100,000)",154.88
+2017,BE,Belgium,"Preventable mortality (per 100,000)",149.74
+2018,BE,Belgium,"Preventable mortality (per 100,000)",146.72
+2019,BE,Belgium,"Preventable mortality (per 100,000)",142.96
+2020,BE,Belgium,"Preventable mortality (per 100,000)",177.16
+2021,BE,Belgium,"Preventable mortality (per 100,000)",164.05
+2022,BE,Belgium,"Preventable mortality (per 100,000)",152.21
+2023,BE,Belgium,"Preventable mortality (per 100,000)",136.93
+2011,BG,Bulgaria,"Preventable mortality (per 100,000)",222.86
+2012,BG,Bulgaria,"Preventable mortality (per 100,000)",236.49
+2013,BG,Bulgaria,"Preventable mortality (per 100,000)",238.8
+2014,BG,Bulgaria,"Preventable mortality (per 100,000)",243.99
+2015,BG,Bulgaria,"Preventable mortality (per 100,000)",244.81
+2016,BG,Bulgaria,"Preventable mortality (per 100,000)",232.15
+2017,BG,Bulgaria,"Preventable mortality (per 100,000)",230.22
+2018,BG,Bulgaria,"Preventable mortality (per 100,000)",226.31
+2019,BG,Bulgaria,"Preventable mortality (per 100,000)",230.88
+2020,BG,Bulgaria,"Preventable mortality (per 100,000)",316.48
+2021,BG,Bulgaria,"Preventable mortality (per 100,000)",459.97
+2022,BG,Bulgaria,"Preventable mortality (per 100,000)",276.58
+2023,BG,Bulgaria,"Preventable mortality (per 100,000)",220.09
+2011,CZ,Czechia,"Preventable mortality (per 100,000)",225.72
+2012,CZ,Czechia,"Preventable mortality (per 100,000)",219.43
+2013,CZ,Czechia,"Preventable mortality (per 100,000)",219.72
+2014,CZ,Czechia,"Preventable mortality (per 100,000)",204.71
+2015,CZ,Czechia,"Preventable mortality (per 100,000)",206.6
+2016,CZ,Czechia,"Preventable mortality (per 100,000)",195.07
+2017,CZ,Czechia,"Preventable mortality (per 100,000)",196.95
+2018,CZ,Czechia,"Preventable mortality (per 100,000)",195.14
+2019,CZ,Czechia,"Preventable mortality (per 100,000)",188.33
+2020,CZ,Czechia,"Preventable mortality (per 100,000)",218.38
+2021,CZ,Czechia,"Preventable mortality (per 100,000)",285.92
+2022,CZ,Czechia,"Preventable mortality (per 100,000)",195.45
+2023,CZ,Czechia,"Preventable mortality (per 100,000)",173.86
+2011,DK,Denmark,"Preventable mortality (per 100,000)",183.37
+2012,DK,Denmark,"Preventable mortality (per 100,000)",182.63
+2013,DK,Denmark,"Preventable mortality (per 100,000)",172.52
+2014,DK,Denmark,"Preventable mortality (per 100,000)",173.19
+2015,DK,Denmark,"Preventable mortality (per 100,000)",164.21
+2016,DK,Denmark,"Preventable mortality (per 100,000)",160.76
+2017,DK,Denmark,"Preventable mortality (per 100,000)",156.77
+2018,DK,Denmark,"Preventable mortality (per 100,000)",151.99
+2019,DK,Denmark,"Preventable mortality (per 100,000)",151.27
+2020,DK,Denmark,"Preventable mortality (per 100,000)",145.85
+2021,DK,Denmark,"Preventable mortality (per 100,000)",148.93
+2022,DK,Denmark,"Preventable mortality (per 100,000)",147.18
+2023,DK,Denmark,"Preventable mortality (per 100,000)",139.22
+2011,DE,Germany,"Preventable mortality (per 100,000)",163.45
+2012,DE,Germany,"Preventable mortality (per 100,000)",160.8
+2013,DE,Germany,"Preventable mortality (per 100,000)",162.24
+2014,DE,Germany,"Preventable mortality (per 100,000)",155.92
+2015,DE,Germany,"Preventable mortality (per 100,000)",159.85
+2016,DE,Germany,"Preventable mortality (per 100,000)",157.64
+2017,DE,Germany,"Preventable mortality (per 100,000)",155.55
+2018,DE,Germany,"Preventable mortality (per 100,000)",155.65
+2019,DE,Germany,"Preventable mortality (per 100,000)",149.66
+2020,DE,Germany,"Preventable mortality (per 100,000)",157.23
+2021,DE,Germany,"Preventable mortality (per 100,000)",171.28
+2022,DE,Germany,"Preventable mortality (per 100,000)",165.44
+2023,DE,Germany,"Preventable mortality (per 100,000)",157.05
+2011,EE,Estonia,"Preventable mortality (per 100,000)",301.67
+2012,EE,Estonia,"Preventable mortality (per 100,000)",303.58
+2013,EE,Estonia,"Preventable mortality (per 100,000)",281.71
+2014,EE,Estonia,"Preventable mortality (per 100,000)",280.01
+2015,EE,Estonia,"Preventable mortality (per 100,000)",270.72
+2016,EE,Estonia,"Preventable mortality (per 100,000)",262.38
+2017,EE,Estonia,"Preventable mortality (per 100,000)",247.27
+2018,EE,Estonia,"Preventable mortality (per 100,000)",253
+2019,EE,Estonia,"Preventable mortality (per 100,000)",234.11
+2020,EE,Estonia,"Preventable mortality (per 100,000)",251.77
+2021,EE,Estonia,"Preventable mortality (per 100,000)",304.67
+2022,EE,Estonia,"Preventable mortality (per 100,000)",266.71
+2023,EE,Estonia,"Preventable mortality (per 100,000)",241.28
+2011,IE,Ireland,"Preventable mortality (per 100,000)",157.72
+2012,IE,Ireland,"Preventable mortality (per 100,000)",152.91
+2013,IE,Ireland,"Preventable mortality (per 100,000)",150.14
+2014,IE,Ireland,"Preventable mortality (per 100,000)",147.23
+2015,IE,Ireland,"Preventable mortality (per 100,000)",136.92
+2016,IE,Ireland,"Preventable mortality (per 100,000)",138.12
+2017,IE,Ireland,"Preventable mortality (per 100,000)",129.41
+2018,IE,Ireland,"Preventable mortality (per 100,000)",132.06
+2019,IE,Ireland,"Preventable mortality (per 100,000)",127
+2020,IE,Ireland,"Preventable mortality (per 100,000)",141.77
+2021,IE,Ireland,"Preventable mortality (per 100,000)",148.42
+2022,IE,Ireland,"Preventable mortality (per 100,000)",132.37
+2023,IE,Ireland,"Preventable mortality (per 100,000)",126.33
+2011,EL,Greece,"Preventable mortality (per 100,000)",148.68
+2012,EL,Greece,"Preventable mortality (per 100,000)",151
+2013,EL,Greece,"Preventable mortality (per 100,000)",149.78
+2014,EL,Greece,"Preventable mortality (per 100,000)",142.35
+2015,EL,Greece,"Preventable mortality (per 100,000)",145.15
+2016,EL,Greece,"Preventable mortality (per 100,000)",141.38
+2017,EL,Greece,"Preventable mortality (per 100,000)",141.4
+2018,EL,Greece,"Preventable mortality (per 100,000)",138.56
+2019,EL,Greece,"Preventable mortality (per 100,000)",138.07
+2020,EL,Greece,"Preventable mortality (per 100,000)",152.9
+2021,EL,Greece,"Preventable mortality (per 100,000)",195.91
+2022,EL,Greece,"Preventable mortality (per 100,000)",166.12
+2023,EL,Greece,"Preventable mortality (per 100,000)",136.91
+2011,ES,Spain,"Preventable mortality (per 100,000)",128.2
+2012,ES,Spain,"Preventable mortality (per 100,000)",125.74
+2013,ES,Spain,"Preventable mortality (per 100,000)",123.32
+2014,ES,Spain,"Preventable mortality (per 100,000)",120.14
+2015,ES,Spain,"Preventable mortality (per 100,000)",119.41
+2016,ES,Spain,"Preventable mortality (per 100,000)",117.8
+2017,ES,Spain,"Preventable mortality (per 100,000)",115.86
+2018,ES,Spain,"Preventable mortality (per 100,000)",113.39
+2019,ES,Spain,"Preventable mortality (per 100,000)",110.01
+2020,ES,Spain,"Preventable mortality (per 100,000)",143.35
+2021,ES,Spain,"Preventable mortality (per 100,000)",133.97
+2022,ES,Spain,"Preventable mortality (per 100,000)",124.41
+2023,ES,Spain,"Preventable mortality (per 100,000)",110.36
+2011,FR,France,"Preventable mortality (per 100,000)",147.19
+2012,FR,France,"Preventable mortality (per 100,000)",142.78
+2013,FR,France,"Preventable mortality (per 100,000)",140.08
+2014,FR,France,"Preventable mortality (per 100,000)",135.44
+2015,FR,France,"Preventable mortality (per 100,000)",136.48
+2016,FR,France,"Preventable mortality (per 100,000)",133.51
+2017,FR,France,"Preventable mortality (per 100,000)",129.9
+2018,FR,France,"Preventable mortality (per 100,000)",127.87
+2019,FR,France,"Preventable mortality (per 100,000)",125.53
+2020,FR,France,"Preventable mortality (per 100,000)",142.68
+2021,FR,France,"Preventable mortality (per 100,000)",145.24
+2022,FR,France,"Preventable mortality (per 100,000)",137.37
+2023,FR,France,"Preventable mortality (per 100,000)",127.21
+2011,HR,Croatia,"Preventable mortality (per 100,000)",260.04
+2012,HR,Croatia,"Preventable mortality (per 100,000)",254.28
+2013,HR,Croatia,"Preventable mortality (per 100,000)",242.72
+2014,HR,Croatia,"Preventable mortality (per 100,000)",238.32
+2015,HR,Croatia,"Preventable mortality (per 100,000)",244.34
+2016,HR,Croatia,"Preventable mortality (per 100,000)",231.72
+2017,HR,Croatia,"Preventable mortality (per 100,000)",231.88
+2018,HR,Croatia,"Preventable mortality (per 100,000)",238.62
+2019,HR,Croatia,"Preventable mortality (per 100,000)",232.63
+2020,HR,Croatia,"Preventable mortality (per 100,000)",264.38
+2021,HR,Croatia,"Preventable mortality (per 100,000)",312
+2022,HR,Croatia,"Preventable mortality (per 100,000)",253.13
+2023,HR,Croatia,"Preventable mortality (per 100,000)",225.22
+2011,IT,Italy,"Preventable mortality (per 100,000)",124.8
+2012,IT,Italy,"Preventable mortality (per 100,000)",122.12
+2013,IT,Italy,"Preventable mortality (per 100,000)",116.43
+2014,IT,Italy,"Preventable mortality (per 100,000)",112.86
+2015,IT,Italy,"Preventable mortality (per 100,000)",113.6
+2016,IT,Italy,"Preventable mortality (per 100,000)",109.97
+2017,IT,Italy,"Preventable mortality (per 100,000)",108.57
+2018,IT,Italy,"Preventable mortality (per 100,000)",104.44
+2019,IT,Italy,"Preventable mortality (per 100,000)",101.2
+2020,IT,Italy,"Preventable mortality (per 100,000)",130.6
+2021,IT,Italy,"Preventable mortality (per 100,000)",127.95
+2022,IT,Italy,"Preventable mortality (per 100,000)",113.28
+2023,IT,Italy,"Preventable mortality (per 100,000)",98.44
+2011,CY,Cyprus,"Preventable mortality (per 100,000)",108.76
+2012,CY,Cyprus,"Preventable mortality (per 100,000)",112.69
+2013,CY,Cyprus,"Preventable mortality (per 100,000)",108.23
+2014,CY,Cyprus,"Preventable mortality (per 100,000)",108.54
+2015,CY,Cyprus,"Preventable mortality (per 100,000)",110.14
+2016,CY,Cyprus,"Preventable mortality (per 100,000)",99.94
+2017,CY,Cyprus,"Preventable mortality (per 100,000)",111.48
+2018,CY,Cyprus,"Preventable mortality (per 100,000)",103.81
+2019,CY,Cyprus,"Preventable mortality (per 100,000)",99.81
+2020,CY,Cyprus,"Preventable mortality (per 100,000)",112.42
+2021,CY,Cyprus,"Preventable mortality (per 100,000)",139.46
+2022,CY,Cyprus,"Preventable mortality (per 100,000)",123.03
+2023,CY,Cyprus,"Preventable mortality (per 100,000)",89.7
+2011,LV,Latvia,"Preventable mortality (per 100,000)",369.91
+2012,LV,Latvia,"Preventable mortality (per 100,000)",365.8
+2013,LV,Latvia,"Preventable mortality (per 100,000)",360.78
+2014,LV,Latvia,"Preventable mortality (per 100,000)",348.74
+2015,LV,Latvia,"Preventable mortality (per 100,000)",340.9
+2016,LV,Latvia,"Preventable mortality (per 100,000)",331.89
+2017,LV,Latvia,"Preventable mortality (per 100,000)",326.37
+2018,LV,Latvia,"Preventable mortality (per 100,000)",325.66
+2019,LV,Latvia,"Preventable mortality (per 100,000)",296.47
+2020,LV,Latvia,"Preventable mortality (per 100,000)",317.05
+2021,LV,Latvia,"Preventable mortality (per 100,000)",439
+2022,LV,Latvia,"Preventable mortality (per 100,000)",342.63
+2023,LV,Latvia,"Preventable mortality (per 100,000)",309.01
+2011,LT,Lithuania,"Preventable mortality (per 100,000)",380.89
+2012,LT,Lithuania,"Preventable mortality (per 100,000)",371.96
+2013,LT,Lithuania,"Preventable mortality (per 100,000)",365.13
+2014,LT,Lithuania,"Preventable mortality (per 100,000)",344.49
+2015,LT,Lithuania,"Preventable mortality (per 100,000)",343.73
+2016,LT,Lithuania,"Preventable mortality (per 100,000)",336.09
+2017,LT,Lithuania,"Preventable mortality (per 100,000)",307.89
+2018,LT,Lithuania,"Preventable mortality (per 100,000)",292.99
+2019,LT,Lithuania,"Preventable mortality (per 100,000)",285.12
+2020,LT,Lithuania,"Preventable mortality (per 100,000)",340.33
+2021,LT,Lithuania,"Preventable mortality (per 100,000)",394.09
+2022,LT,Lithuania,"Preventable mortality (per 100,000)",309.19
+2023,LT,Lithuania,"Preventable mortality (per 100,000)",264.83
+2011,LU,Luxembourg,"Preventable mortality (per 100,000)",150
+2012,LU,Luxembourg,"Preventable mortality (per 100,000)",151.51
+2013,LU,Luxembourg,"Preventable mortality (per 100,000)",147.56
+2014,LU,Luxembourg,"Preventable mortality (per 100,000)",146.27
+2015,LU,Luxembourg,"Preventable mortality (per 100,000)",134.92
+2016,LU,Luxembourg,"Preventable mortality (per 100,000)",140.33
+2017,LU,Luxembourg,"Preventable mortality (per 100,000)",130.16
+2018,LU,Luxembourg,"Preventable mortality (per 100,000)",131.46
+2019,LU,Luxembourg,"Preventable mortality (per 100,000)",116.25
+2020,LU,Luxembourg,"Preventable mortality (per 100,000)",133.69
+2021,LU,Luxembourg,"Preventable mortality (per 100,000)",132.63
+2022,LU,Luxembourg,"Preventable mortality (per 100,000)",119.75
+2023,LU,Luxembourg,"Preventable mortality (per 100,000)",105.92
+2011,HU,Hungary,"Preventable mortality (per 100,000)",358.54
+2012,HU,Hungary,"Preventable mortality (per 100,000)",349.32
+2013,HU,Hungary,"Preventable mortality (per 100,000)",331.7
+2014,HU,Hungary,"Preventable mortality (per 100,000)",330.09
+2015,HU,Hungary,"Preventable mortality (per 100,000)",334.32
+2016,HU,Hungary,"Preventable mortality (per 100,000)",325.27
+2017,HU,Hungary,"Preventable mortality (per 100,000)",327.76
+2018,HU,Hungary,"Preventable mortality (per 100,000)",325.62
+2019,HU,Hungary,"Preventable mortality (per 100,000)",315.36
+2020,HU,Hungary,"Preventable mortality (per 100,000)",350.44
+2021,HU,Hungary,"Preventable mortality (per 100,000)",452.37
+2022,HU,Hungary,"Preventable mortality (per 100,000)",333.38
+2023,HU,Hungary,"Preventable mortality (per 100,000)",300.35
+2011,MT,Malta,"Preventable mortality (per 100,000)",133.54
+2012,MT,Malta,"Preventable mortality (per 100,000)",129.97
+2013,MT,Malta,"Preventable mortality (per 100,000)",118.09
+2014,MT,Malta,"Preventable mortality (per 100,000)",121.73
+2015,MT,Malta,"Preventable mortality (per 100,000)",114.23
+2016,MT,Malta,"Preventable mortality (per 100,000)",115.15
+2017,MT,Malta,"Preventable mortality (per 100,000)",118.05
+2018,MT,Malta,"Preventable mortality (per 100,000)",110.74
+2019,MT,Malta,"Preventable mortality (per 100,000)",101.91
+2020,MT,Malta,"Preventable mortality (per 100,000)",114.87
+2021,MT,Malta,"Preventable mortality (per 100,000)",132.8
+2022,MT,Malta,"Preventable mortality (per 100,000)",119.45
+2023,MT,Malta,"Preventable mortality (per 100,000)",103.93
+2011,NL,Netherlands,"Preventable mortality (per 100,000)",141.37
+2012,NL,Netherlands,"Preventable mortality (per 100,000)",139.81
+2013,NL,Netherlands,"Preventable mortality (per 100,000)",136.5
+2014,NL,Netherlands,"Preventable mortality (per 100,000)",132.29
+2015,NL,Netherlands,"Preventable mortality (per 100,000)",135.27
+2016,NL,Netherlands,"Preventable mortality (per 100,000)",133.91
+2017,NL,Netherlands,"Preventable mortality (per 100,000)",128.21
+2018,NL,Netherlands,"Preventable mortality (per 100,000)",128.69
+2019,NL,Netherlands,"Preventable mortality (per 100,000)",123.62
+2020,NL,Netherlands,"Preventable mortality (per 100,000)",141.47
+2021,NL,Netherlands,"Preventable mortality (per 100,000)",146.52
+2022,NL,Netherlands,"Preventable mortality (per 100,000)",132.74
+2023,NL,Netherlands,"Preventable mortality (per 100,000)",123.09
+2011,AT,Austria,"Preventable mortality (per 100,000)",168.77
+2012,AT,Austria,"Preventable mortality (per 100,000)",170.95
+2013,AT,Austria,"Preventable mortality (per 100,000)",166.38
+2014,AT,Austria,"Preventable mortality (per 100,000)",163.24
+2015,AT,Austria,"Preventable mortality (per 100,000)",166.79
+2016,AT,Austria,"Preventable mortality (per 100,000)",161.06
+2017,AT,Austria,"Preventable mortality (per 100,000)",157.04
+2018,AT,Austria,"Preventable mortality (per 100,000)",157
+2019,AT,Austria,"Preventable mortality (per 100,000)",151.97
+2020,AT,Austria,"Preventable mortality (per 100,000)",165
+2021,AT,Austria,"Preventable mortality (per 100,000)",173.31
+2022,AT,Austria,"Preventable mortality (per 100,000)",163.29
+2023,AT,Austria,"Preventable mortality (per 100,000)",149.8
+2011,PL,Poland,"Preventable mortality (per 100,000)",246.29
+2012,PL,Poland,"Preventable mortality (per 100,000)",242.66
+2013,PL,Poland,"Preventable mortality (per 100,000)",235.26
+2014,PL,Poland,"Preventable mortality (per 100,000)",224.24
+2015,PL,Poland,"Preventable mortality (per 100,000)",221.37
+2016,PL,Poland,"Preventable mortality (per 100,000)",218.47
+2017,PL,Poland,"Preventable mortality (per 100,000)",219.48
+2018,PL,Poland,"Preventable mortality (per 100,000)",221.9
+2019,PL,Poland,"Preventable mortality (per 100,000)",218.57
+2020,PL,Poland,"Preventable mortality (per 100,000)",274.7
+2021,PL,Poland,"Preventable mortality (per 100,000)",335.85
+2022,PL,Poland,"Preventable mortality (per 100,000)",243.66
+2023,PL,Poland,"Preventable mortality (per 100,000)",208.78
+2011,PT,Portugal,"Preventable mortality (per 100,000)",149.25
+2012,PT,Portugal,"Preventable mortality (per 100,000)",143.21
+2013,PT,Portugal,"Preventable mortality (per 100,000)",141.15
+2014,PT,Portugal,"Preventable mortality (per 100,000)",143.95
+2015,PT,Portugal,"Preventable mortality (per 100,000)",141.74
+2016,PT,Portugal,"Preventable mortality (per 100,000)",140.47
+2017,PT,Portugal,"Preventable mortality (per 100,000)",138.28
+2018,PT,Portugal,"Preventable mortality (per 100,000)",138.36
+2019,PT,Portugal,"Preventable mortality (per 100,000)",135.59
+2020,PT,Portugal,"Preventable mortality (per 100,000)",145.7
+2021,PT,Portugal,"Preventable mortality (per 100,000)",155.89
+2022,PT,Portugal,"Preventable mortality (per 100,000)",138.83
+2023,PT,Portugal,"Preventable mortality (per 100,000)",125.94
+2011,RO,Romania,"Preventable mortality (per 100,000)",338.76
+2012,RO,Romania,"Preventable mortality (per 100,000)",332.47
+2013,RO,Romania,"Preventable mortality (per 100,000)",318.13
+2014,RO,Romania,"Preventable mortality (per 100,000)",318.65
+2015,RO,Romania,"Preventable mortality (per 100,000)",314.03
+2016,RO,Romania,"Preventable mortality (per 100,000)",310.22
+2017,RO,Romania,"Preventable mortality (per 100,000)",306.91
+2018,RO,Romania,"Preventable mortality (per 100,000)",306.99
+2019,RO,Romania,"Preventable mortality (per 100,000)",296.17
+2020,RO,Romania,"Preventable mortality (per 100,000)",358.14
+2021,RO,Romania,"Preventable mortality (per 100,000)",440.08
+2022,RO,Romania,"Preventable mortality (per 100,000)",304.31
+2023,RO,Romania,"Preventable mortality (per 100,000)",264.04
+2011,SI,Slovenia,"Preventable mortality (per 100,000)",208.67
+2012,SI,Slovenia,"Preventable mortality (per 100,000)",203.29
+2013,SI,Slovenia,"Preventable mortality (per 100,000)",199.64
+2014,SI,Slovenia,"Preventable mortality (per 100,000)",188.25
+2015,SI,Slovenia,"Preventable mortality (per 100,000)",192.61
+2016,SI,Slovenia,"Preventable mortality (per 100,000)",183.98
+2017,SI,Slovenia,"Preventable mortality (per 100,000)",187.3
+2018,SI,Slovenia,"Preventable mortality (per 100,000)",175.47
+2019,SI,Slovenia,"Preventable mortality (per 100,000)",173.38
+2020,SI,Slovenia,"Preventable mortality (per 100,000)",198.56
+2021,SI,Slovenia,"Preventable mortality (per 100,000)",211.88
+2022,SI,Slovenia,"Preventable mortality (per 100,000)",189.21
+2023,SI,Slovenia,"Preventable mortality (per 100,000)",167.6
+2011,SK,Slovakia,"Preventable mortality (per 100,000)",280.04
+2012,SK,Slovakia,"Preventable mortality (per 100,000)",276.16
+2013,SK,Slovakia,"Preventable mortality (per 100,000)",261.08
+2014,SK,Slovakia,"Preventable mortality (per 100,000)",252.81
+2015,SK,Slovakia,"Preventable mortality (per 100,000)",258.27
+2016,SK,Slovakia,"Preventable mortality (per 100,000)",243.87
+2017,SK,Slovakia,"Preventable mortality (per 100,000)",238.75
+2018,SK,Slovakia,"Preventable mortality (per 100,000)",241.32
+2019,SK,Slovakia,"Preventable mortality (per 100,000)",231.15
+2020,SK,Slovakia,"Preventable mortality (per 100,000)",262.43
+2021,SK,Slovakia,"Preventable mortality (per 100,000)",379.27
+2022,SK,Slovakia,"Preventable mortality (per 100,000)",245.28
+2023,SK,Slovakia,"Preventable mortality (per 100,000)",204.85
+2011,FI,Finland,"Preventable mortality (per 100,000)",188.04
+2012,FI,Finland,"Preventable mortality (per 100,000)",182.95
+2013,FI,Finland,"Preventable mortality (per 100,000)",179.28
+2014,FI,Finland,"Preventable mortality (per 100,000)",168.87
+2015,FI,Finland,"Preventable mortality (per 100,000)",163.26
+2016,FI,Finland,"Preventable mortality (per 100,000)",166.01
+2017,FI,Finland,"Preventable mortality (per 100,000)",160.87
+2018,FI,Finland,"Preventable mortality (per 100,000)",159.11
+2019,FI,Finland,"Preventable mortality (per 100,000)",153.73
+2020,FI,Finland,"Preventable mortality (per 100,000)",157.36
+2021,FI,Finland,"Preventable mortality (per 100,000)",156.41
+2022,FI,Finland,"Preventable mortality (per 100,000)",166.02
+2023,FI,Finland,"Preventable mortality (per 100,000)",154.89
+2011,SE,Sweden,"Preventable mortality (per 100,000)",127.65
+2012,SE,Sweden,"Preventable mortality (per 100,000)",125.76
+2013,SE,Sweden,"Preventable mortality (per 100,000)",126.59
+2014,SE,Sweden,"Preventable mortality (per 100,000)",123.92
+2015,SE,Sweden,"Preventable mortality (per 100,000)",122.39
+2016,SE,Sweden,"Preventable mortality (per 100,000)",121.27
+2017,SE,Sweden,"Preventable mortality (per 100,000)",118.07
+2018,SE,Sweden,"Preventable mortality (per 100,000)",117.68
+2019,SE,Sweden,"Preventable mortality (per 100,000)",110.02
+2020,SE,Sweden,"Preventable mortality (per 100,000)",123.33
+2021,SE,Sweden,"Preventable mortality (per 100,000)",117.83
+2022,SE,Sweden,"Preventable mortality (per 100,000)",110.16
+2023,SE,Sweden,"Preventable mortality (per 100,000)",105.71
+2011,BE,Belgium,"Treatable mortality (per 100,000)",82.31
+2012,BE,Belgium,"Treatable mortality (per 100,000)",82.04
+2013,BE,Belgium,"Treatable mortality (per 100,000)",81.65
+2014,BE,Belgium,"Treatable mortality (per 100,000)",74.86
+2015,BE,Belgium,"Treatable mortality (per 100,000)",73.93
+2016,BE,Belgium,"Treatable mortality (per 100,000)",71.5
+2017,BE,Belgium,"Treatable mortality (per 100,000)",70.97
+2018,BE,Belgium,"Treatable mortality (per 100,000)",69.89
+2019,BE,Belgium,"Treatable mortality (per 100,000)",65.17
+2020,BE,Belgium,"Treatable mortality (per 100,000)",62.67
+2021,BE,Belgium,"Treatable mortality (per 100,000)",61.64
+2022,BE,Belgium,"Treatable mortality (per 100,000)",62.27
+2023,BE,Belgium,"Treatable mortality (per 100,000)",58.83
+2011,BG,Bulgaria,"Treatable mortality (per 100,000)",195.09
+2012,BG,Bulgaria,"Treatable mortality (per 100,000)",206.11
+2013,BG,Bulgaria,"Treatable mortality (per 100,000)",192.83
+2014,BG,Bulgaria,"Treatable mortality (per 100,000)",200.79
+2015,BG,Bulgaria,"Treatable mortality (per 100,000)",197.45
+2016,BG,Bulgaria,"Treatable mortality (per 100,000)",194.35
+2017,BG,Bulgaria,"Treatable mortality (per 100,000)",191.84
+2018,BG,Bulgaria,"Treatable mortality (per 100,000)",188.26
+2019,BG,Bulgaria,"Treatable mortality (per 100,000)",188.99
+2020,BG,Bulgaria,"Treatable mortality (per 100,000)",212.97
+2021,BG,Bulgaria,"Treatable mortality (per 100,000)",225.09
+2022,BG,Bulgaria,"Treatable mortality (per 100,000)",194.13
+2023,BG,Bulgaria,"Treatable mortality (per 100,000)",185.28
+2011,CZ,Czechia,"Treatable mortality (per 100,000)",147.74
+2012,CZ,Czechia,"Treatable mortality (per 100,000)",145.47
+2013,CZ,Czechia,"Treatable mortality (per 100,000)",142.95
+2014,CZ,Czechia,"Treatable mortality (per 100,000)",131.86
+2015,CZ,Czechia,"Treatable mortality (per 100,000)",135.29
+2016,CZ,Czechia,"Treatable mortality (per 100,000)",128.2
+2017,CZ,Czechia,"Treatable mortality (per 100,000)",127.23
+2018,CZ,Czechia,"Treatable mortality (per 100,000)",124.17
+2019,CZ,Czechia,"Treatable mortality (per 100,000)",120.31
+2020,CZ,Czechia,"Treatable mortality (per 100,000)",122.85
+2021,CZ,Czechia,"Treatable mortality (per 100,000)",125.85
+2022,CZ,Czechia,"Treatable mortality (per 100,000)",113.17
+2023,CZ,Czechia,"Treatable mortality (per 100,000)",107.19
+2011,DK,Denmark,"Treatable mortality (per 100,000)",91.23
+2012,DK,Denmark,"Treatable mortality (per 100,000)",86.9
+2013,DK,Denmark,"Treatable mortality (per 100,000)",80.42
+2014,DK,Denmark,"Treatable mortality (per 100,000)",78.03
+2015,DK,Denmark,"Treatable mortality (per 100,000)",77.81
+2016,DK,Denmark,"Treatable mortality (per 100,000)",76.03
+2017,DK,Denmark,"Treatable mortality (per 100,000)",73.16
+2018,DK,Denmark,"Treatable mortality (per 100,000)",72.97
+2019,DK,Denmark,"Treatable mortality (per 100,000)",66.16
+2020,DK,Denmark,"Treatable mortality (per 100,000)",63.47
+2021,DK,Denmark,"Treatable mortality (per 100,000)",64.25
+2022,DK,Denmark,"Treatable mortality (per 100,000)",64.04
+2023,DK,Denmark,"Treatable mortality (per 100,000)",66.11
+2011,DE,Germany,"Treatable mortality (per 100,000)",94.48
+2012,DE,Germany,"Treatable mortality (per 100,000)",92
+2013,DE,Germany,"Treatable mortality (per 100,000)",91.54
+2014,DE,Germany,"Treatable mortality (per 100,000)",87.42
+2015,DE,Germany,"Treatable mortality (per 100,000)",89.37
+2016,DE,Germany,"Treatable mortality (per 100,000)",86.92
+2017,DE,Germany,"Treatable mortality (per 100,000)",85.51
+2018,DE,Germany,"Treatable mortality (per 100,000)",85.36
+2019,DE,Germany,"Treatable mortality (per 100,000)",81.75
+2020,DE,Germany,"Treatable mortality (per 100,000)",80.84
+2021,DE,Germany,"Treatable mortality (per 100,000)",81.27
+2022,DE,Germany,"Treatable mortality (per 100,000)",83.38
+2023,DE,Germany,"Treatable mortality (per 100,000)",83.32
+2011,EE,Estonia,"Treatable mortality (per 100,000)",160.97
+2012,EE,Estonia,"Treatable mortality (per 100,000)",162.69
+2013,EE,Estonia,"Treatable mortality (per 100,000)",154.29
+2014,EE,Estonia,"Treatable mortality (per 100,000)",152.33
+2015,EE,Estonia,"Treatable mortality (per 100,000)",148.24
+2016,EE,Estonia,"Treatable mortality (per 100,000)",142.98
+2017,EE,Estonia,"Treatable mortality (per 100,000)",136.6
+2018,EE,Estonia,"Treatable mortality (per 100,000)",133.47
+2019,EE,Estonia,"Treatable mortality (per 100,000)",129.41
+2020,EE,Estonia,"Treatable mortality (per 100,000)",123.88
+2021,EE,Estonia,"Treatable mortality (per 100,000)",135.62
+2022,EE,Estonia,"Treatable mortality (per 100,000)",126.16
+2023,EE,Estonia,"Treatable mortality (per 100,000)",115.79
+2011,IE,Ireland,"Treatable mortality (per 100,000)",93.99
+2012,IE,Ireland,"Treatable mortality (per 100,000)",89.67
+2013,IE,Ireland,"Treatable mortality (per 100,000)",86.49
+2014,IE,Ireland,"Treatable mortality (per 100,000)",83.73
+2015,IE,Ireland,"Treatable mortality (per 100,000)",83.81
+2016,IE,Ireland,"Treatable mortality (per 100,000)",80.12
+2017,IE,Ireland,"Treatable mortality (per 100,000)",73.31
+2018,IE,Ireland,"Treatable mortality (per 100,000)",75.9
+2019,IE,Ireland,"Treatable mortality (per 100,000)",71.03
+2020,IE,Ireland,"Treatable mortality (per 100,000)",69.65
+2021,IE,Ireland,"Treatable mortality (per 100,000)",69.19
+2022,IE,Ireland,"Treatable mortality (per 100,000)",70.42
+2023,IE,Ireland,"Treatable mortality (per 100,000)",67.62
+2011,EL,Greece,"Treatable mortality (per 100,000)",94.15
+2012,EL,Greece,"Treatable mortality (per 100,000)",96.36
+2013,EL,Greece,"Treatable mortality (per 100,000)",91.13
+2014,EL,Greece,"Treatable mortality (per 100,000)",94.51
+2015,EL,Greece,"Treatable mortality (per 100,000)",96.65
+2016,EL,Greece,"Treatable mortality (per 100,000)",94.93
+2017,EL,Greece,"Treatable mortality (per 100,000)",94.2
+2018,EL,Greece,"Treatable mortality (per 100,000)",90.04
+2019,EL,Greece,"Treatable mortality (per 100,000)",93.05
+2020,EL,Greece,"Treatable mortality (per 100,000)",92.37
+2021,EL,Greece,"Treatable mortality (per 100,000)",94.54
+2022,EL,Greece,"Treatable mortality (per 100,000)",85.59
+2023,EL,Greece,"Treatable mortality (per 100,000)",84.11
+2011,ES,Spain,"Treatable mortality (per 100,000)",74.24
+2012,ES,Spain,"Treatable mortality (per 100,000)",72.53
+2013,ES,Spain,"Treatable mortality (per 100,000)",70.49
+2014,ES,Spain,"Treatable mortality (per 100,000)",68.46
+2015,ES,Spain,"Treatable mortality (per 100,000)",68.33
+2016,ES,Spain,"Treatable mortality (per 100,000)",66.84
+2017,ES,Spain,"Treatable mortality (per 100,000)",65.52
+2018,ES,Spain,"Treatable mortality (per 100,000)",64.62
+2019,ES,Spain,"Treatable mortality (per 100,000)",62.58
+2020,ES,Spain,"Treatable mortality (per 100,000)",62.24
+2021,ES,Spain,"Treatable mortality (per 100,000)",61.01
+2022,ES,Spain,"Treatable mortality (per 100,000)",62.06
+2023,ES,Spain,"Treatable mortality (per 100,000)",60.18
+2011,FR,France,"Treatable mortality (per 100,000)",67.64
+2012,FR,France,"Treatable mortality (per 100,000)",66.06
+2013,FR,France,"Treatable mortality (per 100,000)",65.08
+2014,FR,France,"Treatable mortality (per 100,000)",62.9
+2015,FR,France,"Treatable mortality (per 100,000)",62.86
+2016,FR,France,"Treatable mortality (per 100,000)",62.54
+2017,FR,France,"Treatable mortality (per 100,000)",62.05
+2018,FR,France,"Treatable mortality (per 100,000)",61.15
+2019,FR,France,"Treatable mortality (per 100,000)",60.31
+2020,FR,France,"Treatable mortality (per 100,000)",59.04
+2021,FR,France,"Treatable mortality (per 100,000)",58.82
+2022,FR,France,"Treatable mortality (per 100,000)",59.39
+2023,FR,France,"Treatable mortality (per 100,000)",58.76
+2011,HR,Croatia,"Treatable mortality (per 100,000)",154.72
+2012,HR,Croatia,"Treatable mortality (per 100,000)",150.64
+2013,HR,Croatia,"Treatable mortality (per 100,000)",141.75
+2014,HR,Croatia,"Treatable mortality (per 100,000)",144.91
+2015,HR,Croatia,"Treatable mortality (per 100,000)",149.37
+2016,HR,Croatia,"Treatable mortality (per 100,000)",139.54
+2017,HR,Croatia,"Treatable mortality (per 100,000)",139.08
+2018,HR,Croatia,"Treatable mortality (per 100,000)",133.13
+2019,HR,Croatia,"Treatable mortality (per 100,000)",128.28
+2020,HR,Croatia,"Treatable mortality (per 100,000)",130.77
+2021,HR,Croatia,"Treatable mortality (per 100,000)",139.74
+2022,HR,Croatia,"Treatable mortality (per 100,000)",133.47
+2023,HR,Croatia,"Treatable mortality (per 100,000)",126.14
+2011,IT,Italy,"Treatable mortality (per 100,000)",75.43
+2012,IT,Italy,"Treatable mortality (per 100,000)",75.07
+2013,IT,Italy,"Treatable mortality (per 100,000)",71.4
+2014,IT,Italy,"Treatable mortality (per 100,000)",69.02
+2015,IT,Italy,"Treatable mortality (per 100,000)",71.31
+2016,IT,Italy,"Treatable mortality (per 100,000)",66.68
+2017,IT,Italy,"Treatable mortality (per 100,000)",66.5
+2018,IT,Italy,"Treatable mortality (per 100,000)",65.19
+2019,IT,Italy,"Treatable mortality (per 100,000)",63.71
+2020,IT,Italy,"Treatable mortality (per 100,000)",66.45
+2021,IT,Italy,"Treatable mortality (per 100,000)",64.48
+2022,IT,Italy,"Treatable mortality (per 100,000)",63.46
+2023,IT,Italy,"Treatable mortality (per 100,000)",61.85
+2011,CY,Cyprus,"Treatable mortality (per 100,000)",79.15
+2012,CY,Cyprus,"Treatable mortality (per 100,000)",84.24
+2013,CY,Cyprus,"Treatable mortality (per 100,000)",74.06
+2014,CY,Cyprus,"Treatable mortality (per 100,000)",73.46
+2015,CY,Cyprus,"Treatable mortality (per 100,000)",79.6
+2016,CY,Cyprus,"Treatable mortality (per 100,000)",71.21
+2017,CY,Cyprus,"Treatable mortality (per 100,000)",73.93
+2018,CY,Cyprus,"Treatable mortality (per 100,000)",78.93
+2019,CY,Cyprus,"Treatable mortality (per 100,000)",77.09
+2020,CY,Cyprus,"Treatable mortality (per 100,000)",70.84
+2021,CY,Cyprus,"Treatable mortality (per 100,000)",78.41
+2022,CY,Cyprus,"Treatable mortality (per 100,000)",70.92
+2023,CY,Cyprus,"Treatable mortality (per 100,000)",62.94
+2011,LV,Latvia,"Treatable mortality (per 100,000)",236.17
+2012,LV,Latvia,"Treatable mortality (per 100,000)",226
+2013,LV,Latvia,"Treatable mortality (per 100,000)",220.85
+2014,LV,Latvia,"Treatable mortality (per 100,000)",209.33
+2015,LV,Latvia,"Treatable mortality (per 100,000)",206.92
+2016,LV,Latvia,"Treatable mortality (per 100,000)",203.16
+2017,LV,Latvia,"Treatable mortality (per 100,000)",198.95
+2018,LV,Latvia,"Treatable mortality (per 100,000)",196.43
+2019,LV,Latvia,"Treatable mortality (per 100,000)",188.59
+2020,LV,Latvia,"Treatable mortality (per 100,000)",185.53
+2021,LV,Latvia,"Treatable mortality (per 100,000)",205.04
+2022,LV,Latvia,"Treatable mortality (per 100,000)",200.7
+2023,LV,Latvia,"Treatable mortality (per 100,000)",189.45
+2011,LT,Lithuania,"Treatable mortality (per 100,000)",221.45
+2012,LT,Lithuania,"Treatable mortality (per 100,000)",219.07
+2013,LT,Lithuania,"Treatable mortality (per 100,000)",214.73
+2014,LT,Lithuania,"Treatable mortality (per 100,000)",201.96
+2015,LT,Lithuania,"Treatable mortality (per 100,000)",212.98
+2016,LT,Lithuania,"Treatable mortality (per 100,000)",205.61
+2017,LT,Lithuania,"Treatable mortality (per 100,000)",184.89
+2018,LT,Lithuania,"Treatable mortality (per 100,000)",185.63
+2019,LT,Lithuania,"Treatable mortality (per 100,000)",181.03
+2020,LT,Lithuania,"Treatable mortality (per 100,000)",199.73
+2021,LT,Lithuania,"Treatable mortality (per 100,000)",190.86
+2022,LT,Lithuania,"Treatable mortality (per 100,000)",183.42
+2023,LT,Lithuania,"Treatable mortality (per 100,000)",163.31
+2011,LU,Luxembourg,"Treatable mortality (per 100,000)",83.01
+2012,LU,Luxembourg,"Treatable mortality (per 100,000)",76.56
+2013,LU,Luxembourg,"Treatable mortality (per 100,000)",83.65
+2014,LU,Luxembourg,"Treatable mortality (per 100,000)",67.02
+2015,LU,Luxembourg,"Treatable mortality (per 100,000)",70.56
+2016,LU,Luxembourg,"Treatable mortality (per 100,000)",70.86
+2017,LU,Luxembourg,"Treatable mortality (per 100,000)",73.14
+2018,LU,Luxembourg,"Treatable mortality (per 100,000)",68.51
+2019,LU,Luxembourg,"Treatable mortality (per 100,000)",63.64
+2020,LU,Luxembourg,"Treatable mortality (per 100,000)",60.25
+2021,LU,Luxembourg,"Treatable mortality (per 100,000)",54.69
+2022,LU,Luxembourg,"Treatable mortality (per 100,000)",60.42
+2023,LU,Luxembourg,"Treatable mortality (per 100,000)",51.71
+2011,HU,Hungary,"Treatable mortality (per 100,000)",197.53
+2012,HU,Hungary,"Treatable mortality (per 100,000)",193.03
+2013,HU,Hungary,"Treatable mortality (per 100,000)",184.94
+2014,HU,Hungary,"Treatable mortality (per 100,000)",182.65
+2015,HU,Hungary,"Treatable mortality (per 100,000)",183.9
+2016,HU,Hungary,"Treatable mortality (per 100,000)",175.96
+2017,HU,Hungary,"Treatable mortality (per 100,000)",179
+2018,HU,Hungary,"Treatable mortality (per 100,000)",175.95
+2019,HU,Hungary,"Treatable mortality (per 100,000)",173.23
+2020,HU,Hungary,"Treatable mortality (per 100,000)",179.55
+2021,HU,Hungary,"Treatable mortality (per 100,000)",188.86
+2022,HU,Hungary,"Treatable mortality (per 100,000)",178.4
+2023,HU,Hungary,"Treatable mortality (per 100,000)",172.31
+2011,MT,Malta,"Treatable mortality (per 100,000)",107.44
+2012,MT,Malta,"Treatable mortality (per 100,000)",109.36
+2013,MT,Malta,"Treatable mortality (per 100,000)",91.64
+2014,MT,Malta,"Treatable mortality (per 100,000)",93.87
+2015,MT,Malta,"Treatable mortality (per 100,000)",86.61
+2016,MT,Malta,"Treatable mortality (per 100,000)",87.35
+2017,MT,Malta,"Treatable mortality (per 100,000)",85.08
+2018,MT,Malta,"Treatable mortality (per 100,000)",91.77
+2019,MT,Malta,"Treatable mortality (per 100,000)",84.99
+2020,MT,Malta,"Treatable mortality (per 100,000)",89.3
+2021,MT,Malta,"Treatable mortality (per 100,000)",81.77
+2022,MT,Malta,"Treatable mortality (per 100,000)",86.02
+2023,MT,Malta,"Treatable mortality (per 100,000)",74.33
+2011,NL,Netherlands,"Treatable mortality (per 100,000)",79.08
+2012,NL,Netherlands,"Treatable mortality (per 100,000)",78.44
+2013,NL,Netherlands,"Treatable mortality (per 100,000)",73.85
+2014,NL,Netherlands,"Treatable mortality (per 100,000)",68.58
+2015,NL,Netherlands,"Treatable mortality (per 100,000)",70.71
+2016,NL,Netherlands,"Treatable mortality (per 100,000)",68.93
+2017,NL,Netherlands,"Treatable mortality (per 100,000)",64.98
+2018,NL,Netherlands,"Treatable mortality (per 100,000)",64.65
+2019,NL,Netherlands,"Treatable mortality (per 100,000)",61.35
+2020,NL,Netherlands,"Treatable mortality (per 100,000)",58.96
+2021,NL,Netherlands,"Treatable mortality (per 100,000)",59.74
+2022,NL,Netherlands,"Treatable mortality (per 100,000)",59.18
+2023,NL,Netherlands,"Treatable mortality (per 100,000)",59.97
+2011,AT,Austria,"Treatable mortality (per 100,000)",81.28
+2012,AT,Austria,"Treatable mortality (per 100,000)",79.89
+2013,AT,Austria,"Treatable mortality (per 100,000)",78.75
+2014,AT,Austria,"Treatable mortality (per 100,000)",77.66
+2015,AT,Austria,"Treatable mortality (per 100,000)",79.02
+2016,AT,Austria,"Treatable mortality (per 100,000)",77.8
+2017,AT,Austria,"Treatable mortality (per 100,000)",76.22
+2018,AT,Austria,"Treatable mortality (per 100,000)",75.24
+2019,AT,Austria,"Treatable mortality (per 100,000)",73.16
+2020,AT,Austria,"Treatable mortality (per 100,000)",70.44
+2021,AT,Austria,"Treatable mortality (per 100,000)",71.19
+2022,AT,Austria,"Treatable mortality (per 100,000)",69.19
+2023,AT,Austria,"Treatable mortality (per 100,000)",68.46
+2011,PL,Poland,"Treatable mortality (per 100,000)",149.1
+2012,PL,Poland,"Treatable mortality (per 100,000)",146.39
+2013,PL,Poland,"Treatable mortality (per 100,000)",142.25
+2014,PL,Poland,"Treatable mortality (per 100,000)",130.93
+2015,PL,Poland,"Treatable mortality (per 100,000)",131.19
+2016,PL,Poland,"Treatable mortality (per 100,000)",129.79
+2017,PL,Poland,"Treatable mortality (per 100,000)",131.99
+2018,PL,Poland,"Treatable mortality (per 100,000)",133.12
+2019,PL,Poland,"Treatable mortality (per 100,000)",133.71
+2020,PL,Poland,"Treatable mortality (per 100,000)",144.19
+2021,PL,Poland,"Treatable mortality (per 100,000)",145.87
+2022,PL,Poland,"Treatable mortality (per 100,000)",140.01
+2023,PL,Poland,"Treatable mortality (per 100,000)",132.71
+2011,PT,Portugal,"Treatable mortality (per 100,000)",94.78
+2012,PT,Portugal,"Treatable mortality (per 100,000)",93.05
+2013,PT,Portugal,"Treatable mortality (per 100,000)",90.06
+2014,PT,Portugal,"Treatable mortality (per 100,000)",89.16
+2015,PT,Portugal,"Treatable mortality (per 100,000)",86.9
+2016,PT,Portugal,"Treatable mortality (per 100,000)",88.87
+2017,PT,Portugal,"Treatable mortality (per 100,000)",84.01
+2018,PT,Portugal,"Treatable mortality (per 100,000)",82.92
+2019,PT,Portugal,"Treatable mortality (per 100,000)",79.06
+2020,PT,Portugal,"Treatable mortality (per 100,000)",79.12
+2021,PT,Portugal,"Treatable mortality (per 100,000)",74.53
+2022,PT,Portugal,"Treatable mortality (per 100,000)",74.53
+2023,PT,Portugal,"Treatable mortality (per 100,000)",74.24
+2011,RO,Romania,"Treatable mortality (per 100,000)",224.5
+2012,RO,Romania,"Treatable mortality (per 100,000)",219.8
+2013,RO,Romania,"Treatable mortality (per 100,000)",210.96
+2014,RO,Romania,"Treatable mortality (per 100,000)",207.64
+2015,RO,Romania,"Treatable mortality (per 100,000)",208.96
+2016,RO,Romania,"Treatable mortality (per 100,000)",208
+2017,RO,Romania,"Treatable mortality (per 100,000)",205.98
+2018,RO,Romania,"Treatable mortality (per 100,000)",210.63
+2019,RO,Romania,"Treatable mortality (per 100,000)",208.64
+2020,RO,Romania,"Treatable mortality (per 100,000)",235.06
+2021,RO,Romania,"Treatable mortality (per 100,000)",254.72
+2022,RO,Romania,"Treatable mortality (per 100,000)",215
+2023,RO,Romania,"Treatable mortality (per 100,000)",199.7
+2011,SI,Slovenia,"Treatable mortality (per 100,000)",100.58
+2012,SI,Slovenia,"Treatable mortality (per 100,000)",94.13
+2013,SI,Slovenia,"Treatable mortality (per 100,000)",94.89
+2014,SI,Slovenia,"Treatable mortality (per 100,000)",89.34
+2015,SI,Slovenia,"Treatable mortality (per 100,000)",92.27
+2016,SI,Slovenia,"Treatable mortality (per 100,000)",79.64
+2017,SI,Slovenia,"Treatable mortality (per 100,000)",78.17
+2018,SI,Slovenia,"Treatable mortality (per 100,000)",77.38
+2019,SI,Slovenia,"Treatable mortality (per 100,000)",71.98
+2020,SI,Slovenia,"Treatable mortality (per 100,000)",69.75
+2021,SI,Slovenia,"Treatable mortality (per 100,000)",66.91
+2022,SI,Slovenia,"Treatable mortality (per 100,000)",63.95
+2023,SI,Slovenia,"Treatable mortality (per 100,000)",66.98
+2011,SK,Slovakia,"Treatable mortality (per 100,000)",181.97
+2012,SK,Slovakia,"Treatable mortality (per 100,000)",182.3
+2013,SK,Slovakia,"Treatable mortality (per 100,000)",183.33
+2014,SK,Slovakia,"Treatable mortality (per 100,000)",170.9
+2015,SK,Slovakia,"Treatable mortality (per 100,000)",176.93
+2016,SK,Slovakia,"Treatable mortality (per 100,000)",168.34
+2017,SK,Slovakia,"Treatable mortality (per 100,000)",173.71
+2018,SK,Slovakia,"Treatable mortality (per 100,000)",165.35
+2019,SK,Slovakia,"Treatable mortality (per 100,000)",163.56
+2020,SK,Slovakia,"Treatable mortality (per 100,000)",168.84
+2021,SK,Slovakia,"Treatable mortality (per 100,000)",206
+2022,SK,Slovakia,"Treatable mortality (per 100,000)",176.14
+2023,SK,Slovakia,"Treatable mortality (per 100,000)",161.14
+2011,FI,Finland,"Treatable mortality (per 100,000)",86.49
+2012,FI,Finland,"Treatable mortality (per 100,000)",84.97
+2013,FI,Finland,"Treatable mortality (per 100,000)",80.46
+2014,FI,Finland,"Treatable mortality (per 100,000)",77.36
+2015,FI,Finland,"Treatable mortality (per 100,000)",74.89
+2016,FI,Finland,"Treatable mortality (per 100,000)",76.81
+2017,FI,Finland,"Treatable mortality (per 100,000)",75.72
+2018,FI,Finland,"Treatable mortality (per 100,000)",71.11
+2019,FI,Finland,"Treatable mortality (per 100,000)",69.09
+2020,FI,Finland,"Treatable mortality (per 100,000)",71.25
+2021,FI,Finland,"Treatable mortality (per 100,000)",69.77
+2022,FI,Finland,"Treatable mortality (per 100,000)",70.85
+2023,FI,Finland,"Treatable mortality (per 100,000)",68.18
+2011,SE,Sweden,"Treatable mortality (per 100,000)",77.46
+2012,SE,Sweden,"Treatable mortality (per 100,000)",75.7
+2013,SE,Sweden,"Treatable mortality (per 100,000)",74.74
+2014,SE,Sweden,"Treatable mortality (per 100,000)",70.54
+2015,SE,Sweden,"Treatable mortality (per 100,000)",70.85
+2016,SE,Sweden,"Treatable mortality (per 100,000)",67.64
+2017,SE,Sweden,"Treatable mortality (per 100,000)",66.61
+2018,SE,Sweden,"Treatable mortality (per 100,000)",65.63
+2019,SE,Sweden,"Treatable mortality (per 100,000)",60.19
+2020,SE,Sweden,"Treatable mortality (per 100,000)",62.05
+2021,SE,Sweden,"Treatable mortality (per 100,000)",59.65
+2022,SE,Sweden,"Treatable mortality (per 100,000)",59.18
+2023,SE,Sweden,"Treatable mortality (per 100,000)",58.37

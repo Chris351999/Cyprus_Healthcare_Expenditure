@@ -1,0 +1,335 @@
+year,from,to,value_meur
+2010,Hospitals,Outpatient care,101.914
+2010,"Ambulatory care (doctors, clinics)",Outpatient care,275.182
+2010,Rest of the world,Outpatient care,1.884
+2010,"Ambulatory care (doctors, clinics)",Home care,4.925
+2010,Hospitals,Long-term care,2.878
+2010,Residential long-term care,Long-term care,24.324
+2010,"Ambulatory care (doctors, clinics)",Long-term care,20.133
+2010,Hospitals,Lab tests & imaging,40.316
+2010,"Ancillary services (labs, imaging)",Lab tests & imaging,96.196
+2010,Rest of the world,Lab tests & imaging,1.379
+2010,Hospitals,Medicines,31.944
+2010,"Ambulatory care (doctors, clinics)",Medicines,12.131
+2010,Pharmacies & medical goods,Medicines,159.289
+2010,Hospitals,Medical devices,0.235
+2010,Pharmacies & medical goods,Medical devices,24.739
+2010,"Ambulatory care (doctors, clinics)",Prevention,3.198
+2010,Preventive care,Prevention,7.019
+2010,Administration & financing,Administration,19.996
+2011,Hospitals,Outpatient care,106.784
+2011,"Ambulatory care (doctors, clinics)",Outpatient care,269.357
+2011,Rest of the world,Outpatient care,1.813
+2011,"Ambulatory care (doctors, clinics)",Home care,4.739
+2011,Hospitals,Long-term care,3.005
+2011,Residential long-term care,Long-term care,22.692
+2011,"Ambulatory care (doctors, clinics)",Long-term care,22.736
+2011,Hospitals,Lab tests & imaging,41.854
+2011,"Ancillary services (labs, imaging)",Lab tests & imaging,94.917
+2011,Rest of the world,Lab tests & imaging,1.327
+2011,Hospitals,Medicines,34.195
+2011,"Ambulatory care (doctors, clinics)",Medicines,12.906
+2011,Pharmacies & medical goods,Medicines,156.567
+2011,Hospitals,Medical devices,0.242
+2011,Pharmacies & medical goods,Medical devices,24.321
+2011,"Ambulatory care (doctors, clinics)",Prevention,3.236
+2011,Preventive care,Prevention,5.808
+2011,Administration & financing,Administration,24.045
+2012,Hospitals,Outpatient care,105.972
+2012,"Ambulatory care (doctors, clinics)",Outpatient care,275.117
+2012,Rest of the world,Outpatient care,1.855
+2012,"Ambulatory care (doctors, clinics)",Home care,4.851
+2012,Hospitals,Long-term care,2.916
+2012,Residential long-term care,Long-term care,23.191
+2012,"Ambulatory care (doctors, clinics)",Long-term care,22.572
+2012,Hospitals,Lab tests & imaging,42.238
+2012,"Ancillary services (labs, imaging)",Lab tests & imaging,97.289
+2012,Rest of the world,Lab tests & imaging,1.359
+2012,Hospitals,Medicines,32.123
+2012,"Ambulatory care (doctors, clinics)",Medicines,12.217
+2012,Pharmacies & medical goods,Medicines,160.736
+2012,Hospitals,Medical devices,0.247
+2012,Pharmacies & medical goods,Medical devices,25.036
+2012,"Ambulatory care (doctors, clinics)",Prevention,3.154
+2012,Preventive care,Prevention,5.784
+2012,Administration & financing,Administration,24.621
+2013,Hospitals,Outpatient care,103.347
+2013,"Ambulatory care (doctors, clinics)",Outpatient care,270.818
+2013,Rest of the world,Outpatient care,1.835
+2013,"Ambulatory care (doctors, clinics)",Home care,4.796
+2013,Hospitals,Long-term care,2.598
+2013,Residential long-term care,Long-term care,19.389
+2013,"Ambulatory care (doctors, clinics)",Long-term care,22.074
+2013,Hospitals,Lab tests & imaging,41.957
+2013,"Ancillary services (labs, imaging)",Lab tests & imaging,97.242
+2013,Rest of the world,Lab tests & imaging,1.343
+2013,Hospitals,Medicines,33.696
+2013,"Ambulatory care (doctors, clinics)",Medicines,12.639
+2013,Pharmacies & medical goods,Medicines,158.912
+2013,Hospitals,Medical devices,0.234
+2013,Pharmacies & medical goods,Medical devices,24.841
+2013,"Ambulatory care (doctors, clinics)",Prevention,2.878
+2013,Preventive care,Prevention,5.354
+2013,Administration & financing,Administration,24.957
+2014,Hospitals,Outpatient care,96.714
+2014,"Ambulatory care (doctors, clinics)",Outpatient care,275.776
+2014,Rest of the world,Outpatient care,1.884
+2014,"Ambulatory care (doctors, clinics)",Home care,4.926
+2014,Hospitals,Long-term care,2.676
+2014,Residential long-term care,Long-term care,17.607
+2014,"Ambulatory care (doctors, clinics)",Long-term care,22.236
+2014,Hospitals,Lab tests & imaging,34.088
+2014,"Ancillary services (labs, imaging)",Lab tests & imaging,98.467
+2014,Rest of the world,Lab tests & imaging,1.38
+2014,Hospitals,Medicines,29.234
+2014,"Ambulatory care (doctors, clinics)",Medicines,10.682
+2014,Pharmacies & medical goods,Medicines,163.289
+2014,Hospitals,Medical devices,0.234
+2014,Pharmacies & medical goods,Medical devices,25.606
+2014,"Ambulatory care (doctors, clinics)",Prevention,2.821
+2014,Preventive care,Prevention,4.908
+2014,Administration & financing,Administration,23.589
+2015,Hospitals,Outpatient care,94.66
+2015,Residential long-term care,Outpatient care,0.031
+2015,"Ambulatory care (doctors, clinics)",Outpatient care,254.097
+2015,Rest of the world,Outpatient care,0.853
+2015,"Ambulatory care (doctors, clinics)",Home care,1.011
+2015,Hospitals,Long-term care,2.341
+2015,Residential long-term care,Long-term care,22.914
+2015,"Ambulatory care (doctors, clinics)",Long-term care,31.83
+2015,Hospitals,Lab tests & imaging,43.771
+2015,"Ancillary services (labs, imaging)",Lab tests & imaging,83.515
+2015,Rest of the world,Lab tests & imaging,0.33
+2015,Hospitals,Medicines,35.087
+2015,"Ambulatory care (doctors, clinics)",Medicines,10.864
+2015,Pharmacies & medical goods,Medicines,178.421
+2015,Hospitals,Medical devices,0.114
+2015,Pharmacies & medical goods,Medical devices,13.855
+2015,"Ambulatory care (doctors, clinics)",Prevention,8.946
+2015,Preventive care,Prevention,6.858
+2015,Administration & financing,Administration,26.949
+2016,Hospitals,Outpatient care,95.352
+2016,Residential long-term care,Outpatient care,0.034
+2016,"Ambulatory care (doctors, clinics)",Outpatient care,264.913
+2016,Rest of the world,Outpatient care,0.906
+2016,"Ambulatory care (doctors, clinics)",Home care,1.073
+2016,Hospitals,Long-term care,1.891
+2016,Residential long-term care,Long-term care,22.628
+2016,"Ambulatory care (doctors, clinics)",Long-term care,32.69
+2016,Hospitals,Lab tests & imaging,47.791
+2016,"Ancillary services (labs, imaging)",Lab tests & imaging,86.239
+2016,Rest of the world,Lab tests & imaging,0.351
+2016,Hospitals,Medicines,36.732
+2016,"Ambulatory care (doctors, clinics)",Medicines,11.19
+2016,Pharmacies & medical goods,Medicines,187.703
+2016,Hospitals,Medical devices,0.132
+2016,Pharmacies & medical goods,Medical devices,15.039
+2016,"Ambulatory care (doctors, clinics)",Prevention,9.862
+2016,Preventive care,Prevention,6.938
+2016,Administration & financing,Administration,28.421
+2017,Hospitals,Outpatient care,98.986
+2017,Residential long-term care,Outpatient care,0.036
+2017,"Ambulatory care (doctors, clinics)",Outpatient care,285.009
+2017,Rest of the world,Outpatient care,0.97
+2017,"Ambulatory care (doctors, clinics)",Home care,1.149
+2017,Hospitals,Long-term care,1.791
+2017,Residential long-term care,Long-term care,23.812
+2017,"Ambulatory care (doctors, clinics)",Long-term care,34.146
+2017,Hospitals,Lab tests & imaging,50.832
+2017,"Ancillary services (labs, imaging)",Lab tests & imaging,94.995
+2017,Rest of the world,Lab tests & imaging,0.375
+2017,Hospitals,Medicines,37.355
+2017,"Ambulatory care (doctors, clinics)",Medicines,8.931
+2017,Pharmacies & medical goods,Medicines,198.895
+2017,Hospitals,Medical devices,0.11
+2017,Pharmacies & medical goods,Medical devices,16.322
+2017,"Ambulatory care (doctors, clinics)",Prevention,10.679
+2017,Preventive care,Prevention,7.015
+2017,Administration & financing,Administration,30.367
+2018,Hospitals,Outpatient care,106.564
+2018,Residential long-term care,Outpatient care,0.039
+2018,"Ambulatory care (doctors, clinics)",Outpatient care,309.527
+2018,Rest of the world,Outpatient care,1.059
+2018,"Ambulatory care (doctors, clinics)",Home care,1.255
+2018,Hospitals,Long-term care,1.956
+2018,Residential long-term care,Long-term care,26.417
+2018,"Ambulatory care (doctors, clinics)",Long-term care,36.227
+2018,Hospitals,Lab tests & imaging,56.002
+2018,"Ancillary services (labs, imaging)",Lab tests & imaging,105.035
+2018,Rest of the world,Lab tests & imaging,0.41
+2018,Hospitals,Medicines,40.697
+2018,"Ambulatory care (doctors, clinics)",Medicines,11.443
+2018,Pharmacies & medical goods,Medicines,216.142
+2018,Hospitals,Medical devices,0.156
+2018,Pharmacies & medical goods,Medical devices,18.162
+2018,"Ambulatory care (doctors, clinics)",Prevention,11.202
+2018,Preventive care,Prevention,7.319
+2018,Administration & financing,Administration,41.263
+2019,Hospitals,Outpatient care,127.619
+2019,Residential long-term care,Outpatient care,0.044
+2019,"Ambulatory care (doctors, clinics)",Outpatient care,382.044
+2019,Rest of the world,Outpatient care,0.887
+2019,"Ambulatory care (doctors, clinics)",Home care,0.886
+2019,Hospitals,Long-term care,1.991
+2019,Residential long-term care,Long-term care,27.57
+2019,"Ambulatory care (doctors, clinics)",Long-term care,38.866
+2019,Hospitals,Lab tests & imaging,64.48
+2019,"Ancillary services (labs, imaging)",Lab tests & imaging,124.529
+2019,Rest of the world,Lab tests & imaging,0.343
+2019,Hospitals,Medicines,34.934
+2019,"Ambulatory care (doctors, clinics)",Medicines,9.616
+2019,Pharmacies & medical goods,Medicines,209.247
+2019,Hospitals,Medical devices,0.178
+2019,Pharmacies & medical goods,Medical devices,20.862
+2019,"Ambulatory care (doctors, clinics)",Prevention,11.74
+2019,Preventive care,Prevention,8.034
+2019,Administration & financing,Administration,48.324
+2020,Hospitals,Outpatient care,87.295
+2020,Residential long-term care,Outpatient care,0.044
+2020,"Ambulatory care (doctors, clinics)",Outpatient care,431.98
+2020,Rest of the world,Outpatient care,0.658
+2020,"Ambulatory care (doctors, clinics)",Home care,0.077
+2020,Hospitals,Long-term care,1.827
+2020,Residential long-term care,Long-term care,28.142
+2020,"Ambulatory care (doctors, clinics)",Long-term care,41.814
+2020,Hospitals,Lab tests & imaging,88.072
+2020,"Ancillary services (labs, imaging)",Lab tests & imaging,139.277
+2020,Rest of the world,Lab tests & imaging,0.255
+2020,Hospitals,Medicines,18.236
+2020,"Ambulatory care (doctors, clinics)",Medicines,4.922
+2020,Pharmacies & medical goods,Medicines,267.031
+2020,Hospitals,Medical devices,0.215
+2020,Pharmacies & medical goods,Medical devices,24.11
+2020,Hospitals,Prevention,0.719
+2020,"Ambulatory care (doctors, clinics)",Prevention,9.16
+2020,"Ancillary services (labs, imaging)",Prevention,9.634
+2020,Preventive care,Prevention,12.043
+2020,Rest of economy,Prevention,0.057
+2020,Administration & financing,Administration,36.346
+2021,Hospitals,Outpatient care,73.537
+2021,Residential long-term care,Outpatient care,0.047
+2021,"Ambulatory care (doctors, clinics)",Outpatient care,447.773
+2021,Rest of the world,Outpatient care,1.677
+2021,"Ambulatory care (doctors, clinics)",Home care,4.11
+2021,Hospitals,Long-term care,1.43
+2021,Residential long-term care,Long-term care,37.92
+2021,"Ambulatory care (doctors, clinics)",Long-term care,59.832
+2021,Hospitals,Lab tests & imaging,50.355
+2021,"Ancillary services (labs, imaging)",Lab tests & imaging,128.654
+2021,Rest of the world,Lab tests & imaging,0.157
+2021,Hospitals,Medicines,16.444
+2021,"Ambulatory care (doctors, clinics)",Medicines,4.729
+2021,Pharmacies & medical goods,Medicines,377.206
+2021,Hospitals,Medical devices,0.114
+2021,Pharmacies & medical goods,Medical devices,18.902
+2021,Hospitals,Prevention,0.704
+2021,"Ambulatory care (doctors, clinics)",Prevention,6.268
+2021,"Ancillary services (labs, imaging)",Prevention,9.472
+2021,Pharmacies & medical goods,Prevention,0.251
+2021,Preventive care,Prevention,60.373
+2021,Rest of economy,Prevention,0.359
+2021,Rest of the world,Prevention,0.126
+2021,Administration & financing,Administration,33.592
+2022,Hospitals,Outpatient care,73.116
+2022,Residential long-term care,Outpatient care,0.051
+2022,"Ambulatory care (doctors, clinics)",Outpatient care,486.975
+2022,Rest of the world,Outpatient care,1.808
+2022,"Ambulatory care (doctors, clinics)",Home care,4.589
+2022,Hospitals,Long-term care,1.829
+2022,Residential long-term care,Long-term care,45.661
+2022,"Ambulatory care (doctors, clinics)",Long-term care,68.434
+2022,Hospitals,Lab tests & imaging,56.652
+2022,"Ancillary services (labs, imaging)",Lab tests & imaging,129.066
+2022,Rest of the world,Lab tests & imaging,0.169
+2022,Hospitals,Medicines,24.097
+2022,"Ambulatory care (doctors, clinics)",Medicines,7.008
+2022,Pharmacies & medical goods,Medicines,390.796
+2022,Hospitals,Medical devices,0.136
+2022,Pharmacies & medical goods,Medical devices,21.42
+2022,Hospitals,Prevention,0.149
+2022,"Ambulatory care (doctors, clinics)",Prevention,6.495
+2022,"Ancillary services (labs, imaging)",Prevention,9.995
+2022,Pharmacies & medical goods,Prevention,0.27
+2022,Preventive care,Prevention,50.932
+2022,Rest of economy,Prevention,0.209
+2022,Rest of the world,Prevention,0.136
+2022,Administration & financing,Administration,38.557
+2023,Hospitals,Outpatient care,81.949
+2023,"Ambulatory care (doctors, clinics)",Outpatient care,510.028
+2023,Rest of the world,Outpatient care,1.949
+2023,"Ambulatory care (doctors, clinics)",Home care,5.192
+2023,Hospitals,Long-term care,1.885
+2023,Residential long-term care,Long-term care,42.838
+2023,"Ambulatory care (doctors, clinics)",Long-term care,77.114
+2023,Hospitals,Lab tests & imaging,66.6
+2023,"Ancillary services (labs, imaging)",Lab tests & imaging,127.708
+2023,Rest of the world,Lab tests & imaging,0.183
+2023,Hospitals,Medicines,22.347
+2023,"Ambulatory care (doctors, clinics)",Medicines,6.496
+2023,Pharmacies & medical goods,Medicines,390.367
+2023,Hospitals,Medical devices,0.142
+2023,Pharmacies & medical goods,Medical devices,22.124
+2023,"Ambulatory care (doctors, clinics)",Prevention,7.181
+2023,"Ancillary services (labs, imaging)",Prevention,4.897
+2023,Pharmacies & medical goods,Prevention,0.291
+2023,Preventive care,Prevention,25.29
+2023,Rest of the world,Prevention,0.146
+2023,Administration & financing,Administration,56.379
+2024,Hospitals,Outpatient care,98.7
+2024,"Ambulatory care (doctors, clinics)",Outpatient care,538.365
+2024,Rest of the world,Outpatient care,2.092
+2024,"Ambulatory care (doctors, clinics)",Home care,5.676
+2024,Hospitals,Long-term care,2.817
+2024,Residential long-term care,Long-term care,47.62
+2024,"Ambulatory care (doctors, clinics)",Long-term care,84.632
+2024,Hospitals,Lab tests & imaging,75.007
+2024,"Ancillary services (labs, imaging)",Lab tests & imaging,133.807
+2024,Rest of the world,Lab tests & imaging,0.196
+2024,Hospitals,Medicines,24.487
+2024,"Ambulatory care (doctors, clinics)",Medicines,6.605
+2024,Pharmacies & medical goods,Medicines,433.803
+2024,Hospitals,Medical devices,0.217
+2024,Pharmacies & medical goods,Medical devices,23.785
+2024,"Ambulatory care (doctors, clinics)",Prevention,8.531
+2024,"Ancillary services (labs, imaging)",Prevention,5.256
+2024,Pharmacies & medical goods,Prevention,0.313
+2024,Preventive care,Prevention,22.997
+2024,Rest of the world,Prevention,0.157
+2024,Administration & financing,Administration,55.093
+2010,Hospitals,Hospital care,379.935
+2010,"Ambulatory care (doctors, clinics)",Hospital care,1.1546319456101628e-14
+2010,Rest of the world,Hospital care,57.463
+2011,Hospitals,Hospital care,393.743
+2011,Rest of the world,Hospital care,52.864999999999995
+2012,Hospitals,Hospital care,392.73900000000003
+2012,Rest of the world,Hospital care,40.281000000000006
+2013,Hospitals,Hospital care,391.16
+2013,Rest of the world,Hospital care,29.715999999999998
+2014,Hospitals,Hospital care,369.454
+2014,Rest of the world,Hospital care,26.227
+2015,Hospitals,Hospital care,383.35799999999995
+2015,Rest of the world,Hospital care,19.291999999999998
+2016,Hospitals,Hospital care,393.32000000000005
+2016,"Ambulatory care (doctors, clinics)",Hospital care,0.0010000000000123244
+2016,Rest of the world,Hospital care,21.697000000000003
+2017,Hospitals,Hospital care,418.30899999999997
+2017,"Ambulatory care (doctors, clinics)",Hospital care,9.999999999772413e-4
+2017,Rest of the world,Hospital care,24.987000000000002
+2018,Hospitals,Hospital care,460.345
+2018,Rest of the world,Hospital care,28.320999999999998
+2019,Hospitals,Hospital care,490.32399999999996
+2019,"Ambulatory care (doctors, clinics)",Hospital care,0.001000000000000445
+2019,Rest of the world,Hospital care,35.179
+2020,Hospitals,Hospital care,699.633
+2020,Rest of the world,Hospital care,33.314
+2021,Hospitals,Hospital care,914.0469999999999
+2021,"Ambulatory care (doctors, clinics)",Hospital care,9.999999999896758e-4
+2021,Rest of the world,Hospital care,30.869999999999997
+2022,Hospitals,Hospital care,937.945
+2022,Rest of the world,Hospital care,37.495
+2023,Hospitals,Hospital care,1031.029
+2023,"Ambulatory care (doctors, clinics)",Hospital care,9.999999999834586e-4
+2023,Rest of the world,Hospital care,37
+2024,Hospitals,Hospital care,1173.211
+2024,"Ambulatory care (doctors, clinics)",Hospital care,4.440892098500626e-14
+2024,Rest of the world,Hospital care,38.502

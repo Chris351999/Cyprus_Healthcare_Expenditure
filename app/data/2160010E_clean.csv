@@ -1,0 +1,136 @@
+table,year,year_flag,type_of_expenditure_code,sector_code,type_of_expenditure_label,sector_label,value_meur
+2160010E,2010,NA,NA,NA,Total Health Expenditure (€ mn),Total,1296.879
+2160010E,2011,NA,NA,NA,Total Health Expenditure (€ mn),Total,1331.758
+2160010E,2012,NA,NA,NA,Total Health Expenditure (€ mn),Total,1295.595
+2160010E,2013,NA,NA,NA,Total Health Expenditure (€ mn),Total,1275.486
+2160010E,2014,NA,NA,NA,Total Health Expenditure (€ mn),Total,1238.507
+2160010E,2015,b,NA,NA,Total Health Expenditure (€ mn),Total,1244.297
+2160010E,2016,NA,NA,NA,Total Health Expenditure (€ mn),Total,1293.702
+2160010E,2017,NA,NA,NA,Total Health Expenditure (€ mn),Total,1376.473
+2160010E,2018,NA,NA,NA,Total Health Expenditure (€ mn),Total,1530.643
+2160010E,2019,NA,NA,NA,Total Health Expenditure (€ mn),Total,1681.797
+2160010E,2020,NA,NA,NA,Total Health Expenditure (€ mn),Total,NA
+2160010E,2021,NA,NA,NA,Total Health Expenditure (€ mn),Total,NA
+2160010E,2022,r,NA,NA,Total Health Expenditure (€ mn),Total,2462.788
+2160010E,2023,"p,r",NA,NA,Total Health Expenditure (€ mn),Total,2632.535
+2160010E,2024,p,NA,NA,Total Health Expenditure (€ mn),Total,NA
+2160010E,2010,NA,NA,NA,Total Health Expenditure (€ mn),Public Sector,595.099
+2160010E,2011,NA,NA,NA,Total Health Expenditure (€ mn),Public Sector,625.685
+2160010E,2012,NA,NA,NA,Total Health Expenditure (€ mn),Public Sector,603.141
+2160010E,2013,NA,NA,NA,Total Health Expenditure (€ mn),Public Sector,589.636
+2160010E,2014,NA,NA,NA,Total Health Expenditure (€ mn),Public Sector,535.417
+2160010E,2015,b,NA,NA,Total Health Expenditure (€ mn),Public Sector,525.917
+2160010E,2016,NA,NA,NA,Total Health Expenditure (€ mn),Public Sector,544.532
+2160010E,2017,NA,NA,NA,Total Health Expenditure (€ mn),Public Sector,572.985
+2160010E,2018,NA,NA,NA,Total Health Expenditure (€ mn),Public Sector,643.596
+2160010E,2019,NA,NA,NA,Total Health Expenditure (€ mn),Public Sector,907.175
+2160010E,2020,NA,NA,NA,Total Health Expenditure (€ mn),Public Sector,NA
+2160010E,2021,NA,NA,NA,Total Health Expenditure (€ mn),Public Sector,NA
+2160010E,2022,r,NA,NA,Total Health Expenditure (€ mn),Public Sector,1899.13
+2160010E,2023,"p,r",NA,NA,Total Health Expenditure (€ mn),Public Sector,2007.289
+2160010E,2024,p,NA,NA,Total Health Expenditure (€ mn),Public Sector,2278.105
+2160010E,2010,NA,NA,NA,Total Health Expenditure (€ mn),Private Sector (1),701.78
+2160010E,2011,NA,NA,NA,Total Health Expenditure (€ mn),Private Sector (1),706.073
+2160010E,2012,NA,NA,NA,Total Health Expenditure (€ mn),Private Sector (1),692.454
+2160010E,2013,NA,NA,NA,Total Health Expenditure (€ mn),Private Sector (1),685.85
+2160010E,2014,NA,NA,NA,Total Health Expenditure (€ mn),Private Sector (1),703.09
+2160010E,2015,b,NA,NA,Total Health Expenditure (€ mn),Private Sector (1),718.38
+2160010E,2016,NA,NA,NA,Total Health Expenditure (€ mn),Private Sector (1),749.17
+2160010E,2017,NA,NA,NA,Total Health Expenditure (€ mn),Private Sector (1),803.488
+2160010E,2018,NA,NA,NA,Total Health Expenditure (€ mn),Private Sector (1),887.047
+2160010E,2019,NA,NA,NA,Total Health Expenditure (€ mn),Private Sector (1),774.622
+2160010E,2020,NA,NA,NA,Total Health Expenditure (€ mn),Private Sector (1),583.281
+2160010E,2021,NA,NA,NA,Total Health Expenditure (€ mn),Private Sector (1),520.195
+2160010E,2022,r,NA,NA,Total Health Expenditure (€ mn),Private Sector (1),563.658
+2160010E,2023,"p,r",NA,NA,Total Health Expenditure (€ mn),Private Sector (1),625.246
+2160010E,2024,p,NA,NA,Total Health Expenditure (€ mn),Private Sector (1),NA
+2160010E,2010,NA,NA,NA,Current Health Expenditure (€ mn),Total,1265.079
+2160010E,2011,NA,NA,NA,Current Health Expenditure (€ mn),Total,1277.153
+2160010E,2012,NA,NA,NA,Current Health Expenditure (€ mn),Total,1274.295
+2160010E,2013,NA,NA,NA,Current Health Expenditure (€ mn),Total,1249.786
+2160010E,2014,NA,NA,NA,Current Health Expenditure (€ mn),Total,1211.798
+2160010E,2015,b,NA,NA,Current Health Expenditure (€ mn),Total,1219.097
+2160010E,2016,NA,NA,NA,Current Health Expenditure (€ mn),Total,1264.902
+2160010E,2017,NA,NA,NA,Current Health Expenditure (€ mn),Total,1345.073
+2160010E,2018,NA,NA,NA,Current Health Expenditure (€ mn),Total,1479.543
+2160010E,2019,NA,NA,NA,Current Health Expenditure (€ mn),Total,1637.695
+2160010E,2020,NA,NA,NA,Current Health Expenditure (€ mn),Total,1934.861
+2160010E,2021,NA,NA,NA,Current Health Expenditure (€ mn),Total,2278.951
+2160010E,2022,r,NA,NA,Current Health Expenditure (€ mn),Total,2393.988
+2160010E,2023,"p,r",NA,NA,Current Health Expenditure (€ mn),Total,2519.135
+2160010E,2024,p,NA,NA,Current Health Expenditure (€ mn),Total,2781.869
+2160010E,2010,NA,NA,NA,Current Health Expenditure (€ mn),Public Sector,583.699
+2160010E,2011,NA,NA,NA,Current Health Expenditure (€ mn),Public Sector,610.985
+2160010E,2012,NA,NA,NA,Current Health Expenditure (€ mn),Public Sector,590.541
+2160010E,2013,NA,NA,NA,Current Health Expenditure (€ mn),Public Sector,576.036
+2160010E,2014,NA,NA,NA,Current Health Expenditure (€ mn),Public Sector,521.617
+2160010E,2015,b,NA,NA,Current Health Expenditure (€ mn),Public Sector,513.617
+2160010E,2016,NA,NA,NA,Current Health Expenditure (€ mn),Public Sector,529.932
+2160010E,2017,NA,NA,NA,Current Health Expenditure (€ mn),Public Sector,558.285
+2160010E,2018,NA,NA,NA,Current Health Expenditure (€ mn),Public Sector,621.796
+2160010E,2019,NA,NA,NA,Current Health Expenditure (€ mn),Public Sector,887.574
+2160010E,2020,NA,NA,NA,Current Health Expenditure (€ mn),Public Sector,1385.68
+2160010E,2021,NA,NA,NA,Current Health Expenditure (€ mn),Public Sector,1799.256
+2160010E,2022,r,NA,NA,Current Health Expenditure (€ mn),Public Sector,1870.63
+2160010E,2023,"p,r",NA,NA,Current Health Expenditure (€ mn),Public Sector,1962.189
+2160010E,2024,p,NA,NA,Current Health Expenditure (€ mn),Public Sector,2205.105
+2160010E,2010,NA,NA,NA,Current Health Expenditure (€ mn),Private Sector (1),681.38
+2160010E,2011,NA,NA,NA,Current Health Expenditure (€ mn),Private Sector (1),666.168
+2160010E,2012,NA,NA,NA,Current Health Expenditure (€ mn),Private Sector (1),683.754
+2160010E,2013,NA,NA,NA,Current Health Expenditure (€ mn),Private Sector (1),673.75
+2160010E,2014,NA,NA,NA,Current Health Expenditure (€ mn),Private Sector (1),690.181
+2160010E,2015,b,NA,NA,Current Health Expenditure (€ mn),Private Sector (1),705.48
+2160010E,2016,NA,NA,NA,Current Health Expenditure (€ mn),Private Sector (1),734.97
+2160010E,2017,NA,NA,NA,Current Health Expenditure (€ mn),Private Sector (1),786.788
+2160010E,2018,NA,NA,NA,Current Health Expenditure (€ mn),Private Sector (1),857.747
+2160010E,2019,NA,NA,NA,Current Health Expenditure (€ mn),Private Sector (1),750.121
+2160010E,2020,NA,NA,NA,Current Health Expenditure (€ mn),Private Sector (1),549.181
+2160010E,2021,NA,NA,NA,Current Health Expenditure (€ mn),Private Sector (1),479.695
+2160010E,2022,r,NA,NA,Current Health Expenditure (€ mn),Private Sector (1),523.358
+2160010E,2023,"p,r",NA,NA,Current Health Expenditure (€ mn),Private Sector (1),556.946
+2160010E,2024,p,NA,NA,Current Health Expenditure (€ mn),Private Sector (1),576.764
+2160010E,2010,NA,NA,NA,Capital Formation (€mn),Total,31.8
+2160010E,2011,NA,NA,NA,Capital Formation (€mn),Total,54.6
+2160010E,2012,NA,NA,NA,Capital Formation (€mn),Total,21.3
+2160010E,2013,NA,NA,NA,Capital Formation (€mn),Total,25.7
+2160010E,2014,NA,NA,NA,Capital Formation (€mn),Total,26.7
+2160010E,2015,b,NA,NA,Capital Formation (€mn),Total,25.2
+2160010E,2016,NA,NA,NA,Capital Formation (€mn),Total,28.8
+2160010E,2017,NA,NA,NA,Capital Formation (€mn),Total,31.4
+2160010E,2018,NA,NA,NA,Capital Formation (€mn),Total,51.1
+2160010E,2019,NA,NA,NA,Capital Formation (€mn),Total,44.1
+2160010E,2020,NA,NA,NA,Capital Formation (€mn),Total,NA
+2160010E,2021,NA,NA,NA,Capital Formation (€mn),Total,NA
+2160010E,2022,r,NA,NA,Capital Formation (€mn),Total,68.8
+2160010E,2023,"p,r",NA,NA,Capital Formation (€mn),Total,113.4
+2160010E,2024,p,NA,NA,Capital Formation (€mn),Total,NA
+2160010E,2010,NA,NA,NA,Capital Formation (€mn),Public Sector,11.4
+2160010E,2011,NA,NA,NA,Capital Formation (€mn),Public Sector,14.7
+2160010E,2012,NA,NA,NA,Capital Formation (€mn),Public Sector,12.6
+2160010E,2013,NA,NA,NA,Capital Formation (€mn),Public Sector,13.6
+2160010E,2014,NA,NA,NA,Capital Formation (€mn),Public Sector,13.8
+2160010E,2015,b,NA,NA,Capital Formation (€mn),Public Sector,12.3
+2160010E,2016,NA,NA,NA,Capital Formation (€mn),Public Sector,14.6
+2160010E,2017,NA,NA,NA,Capital Formation (€mn),Public Sector,14.7
+2160010E,2018,NA,NA,NA,Capital Formation (€mn),Public Sector,21.8
+2160010E,2019,NA,NA,NA,Capital Formation (€mn),Public Sector,19.6
+2160010E,2020,NA,NA,NA,Capital Formation (€mn),Public Sector,NA
+2160010E,2021,NA,NA,NA,Capital Formation (€mn),Public Sector,NA
+2160010E,2022,r,NA,NA,Capital Formation (€mn),Public Sector,28.5
+2160010E,2023,"p,r",NA,NA,Capital Formation (€mn),Public Sector,45.1
+2160010E,2024,p,NA,NA,Capital Formation (€mn),Public Sector,73
+2160010E,2010,NA,NA,NA,Capital Formation (€mn),Private Sector (1),20.4
+2160010E,2011,NA,NA,NA,Capital Formation (€mn),Private Sector (1),39.9
+2160010E,2012,NA,NA,NA,Capital Formation (€mn),Private Sector (1),8.7
+2160010E,2013,NA,NA,NA,Capital Formation (€mn),Private Sector (1),12.1
+2160010E,2014,NA,NA,NA,Capital Formation (€mn),Private Sector (1),12.9
+2160010E,2015,b,NA,NA,Capital Formation (€mn),Private Sector (1),12.9
+2160010E,2016,NA,NA,NA,Capital Formation (€mn),Private Sector (1),14.2
+2160010E,2017,NA,NA,NA,Capital Formation (€mn),Private Sector (1),16.7
+2160010E,2018,NA,NA,NA,Capital Formation (€mn),Private Sector (1),29.3
+2160010E,2019,NA,NA,NA,Capital Formation (€mn),Private Sector (1),24.5
+2160010E,2020,NA,NA,NA,Capital Formation (€mn),Private Sector (1),34.1
+2160010E,2021,NA,NA,NA,Capital Formation (€mn),Private Sector (1),40.5
+2160010E,2022,r,NA,NA,Capital Formation (€mn),Private Sector (1),40.3
+2160010E,2023,"p,r",NA,NA,Capital Formation (€mn),Private Sector (1),68.3
+2160010E,2024,p,NA,NA,Capital Formation (€mn),Private Sector (1),NA

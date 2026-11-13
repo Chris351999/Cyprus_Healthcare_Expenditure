@@ -10,7 +10,9 @@
 library(shiny)
 library(bslib)
 library(bsicons)
-library(tidyverse)
+library(dplyr)
+library(tidyr)
+library(readr)
 library(plotly)
 
 
